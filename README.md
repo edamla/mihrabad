@@ -3,4 +3,9 @@ Mihrabad Yayınları yazarlarının yazarlar bölümünde gözükmesi için md b
 Ürünlerin carousel de gözükmesi için md başına  **carousel: true**
 Önerilen Kısmındaki kitabı veya yazıyı değiştirmek için md başına **suggested: true**
 
+İndex sayfalarındaki card'ların düzenlennmesi;
+Anasayfa = post kategorisi = postbox.html
+Eserlerimiz = eserler kategorisi = eserbox.html
+Yazarlarımız = yazarlar kategorisi = yazarbox.html
+
 Yazılmalıdır
