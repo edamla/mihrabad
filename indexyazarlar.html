@@ -1,0 +1,25 @@
+---
+layout: page
+title: Yazarlar
+---
+
+<!-- <Yazarlar>
+================================================== -->
+<br>
+<section class="featured-posts">
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.myazar == true %}
+
+            {% include postbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
