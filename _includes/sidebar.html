@@ -7,23 +7,23 @@
             
         <div class="sidebar-section">
              <h5><span>Önerilen</span></h5>
-             <section class="featured-posts">
-
-                    <div class="row listfeaturedtag">
+            <section class="posts">
+    
+                <div class="row">
                 
                     {% for post in site.posts %}
                 
                         {% if post.suggested == true %}
                 
-                            {% include featuredbox.html %}
+                            {% include eserbox.html %}
                 
                         {% endif %}
                 
                     {% endfor %}
                 
-                    </div>
+                </div>
                 
-                </section>
+            </section>
         </div>
             
 </div>

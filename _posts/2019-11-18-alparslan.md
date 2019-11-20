@@ -6,6 +6,7 @@ image: assets/images/md-image/eserler/alparslan.png
 mlink: https://www.damlayayinevi.com.tr/alparslan-ve-malazgirt-zaferi
 meser: true
 blog: false
+suggested: true
 ---
 
 Selçuk Beg, Yengikent’ten kalkıp batıya doğru at sürdü. Dağları aştı, nehirleri geçti. Yurt tutabilmek için at üstünde yalınkılıç savaştı. Torunları Çağrı Beg ile Tuğrul Beg, onun hayalini gerçekleştirerek Selçuklu Devleti’ni kurdular. Ar­tık Oğuzlar doğuda güçlü bir Türk devletinin temellerini atmışlardı.
