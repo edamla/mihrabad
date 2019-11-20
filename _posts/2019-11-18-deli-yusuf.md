@@ -2,7 +2,7 @@
 layout: post
 title:  "DELİ YUSUF"
 categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
-image: assets/images/md-image/eserler/delyusuf.png
+image: assets/images/md-image/eserler/deliyusuf.png
 mlink: https://www.damlayayinevi.com.tr/deli-yusuf
 meser: true
 blog: false
