@@ -3,7 +3,7 @@ layout: default
 title: Anasayfa
 ---
 <div class="row">
-<section class="recent-posts col-4">
+<section class="recent-posts col-12 col-sm-4">
 
         <div>
             {% include sidebar.html %}
@@ -13,7 +13,7 @@ title: Anasayfa
 
 <!-- <yazılar>
 ================================================== -->
-<section class="featured-posts col-8">
+<section class="featured-posts col-12 col-sm-8">
 
     <div class="section-title">
         <h2><span>Yazılarımız</span></h2>
@@ -41,5 +41,4 @@ title: Anasayfa
 {% if paginator.previous_page > 0 %}
 <div id="jumptopageof"></div>
 {% endif %}
-{% endif %}    
-
+{% endif %}
