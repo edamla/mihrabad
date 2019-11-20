@@ -5,7 +5,8 @@
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
             <a href="{{ post.url | absolute_url }}">
-               <div class="thumbnail" style="background-image:url({{ site.baseurl }}/{{ post.image }});" ></div>
+               <div class="thumbnail"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
+               <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
             </a>
         </div>
         <div class="col-md-7">
