@@ -1,0 +1,13 @@
+<nav class="pagination" role="pagination">
+    {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+            <a class="newer-posts" href="{{site.baseurl}}/" title="Previous Page">&laquo; Son Çıkan</a>
+        {% else %}
+            <a class="newer-posts" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Önceki Sayfa">&laquo; Newer </a>
+      {% endif %}
+    {% endif %}
+    <span class="page-number"> &nbsp; &nbsp; Sayfa {{paginator.page}} &nbsp; &nbsp; </span>
+    {% if paginator.next_page %} 
+        <a class="older-posts" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Sonraki Sayfa">Older &raquo;</a>
+    {% endif %} 
+</nav>
