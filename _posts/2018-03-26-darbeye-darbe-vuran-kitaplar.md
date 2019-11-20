@@ -4,7 +4,6 @@ title:  "Hain Darbe’ye, Darbe Vuran Kitaplar Çıkıyor"
 categories: [ Mihrabad Yayınları, Uyanış, İsyanlar, Yarım Aşklar Ülkesi, İstiklalden İstikbale, ]
 image: assets/images/md-image/darbeye-darbevuran-kitaplar-md/kitaplar.jpg 
 blog: true
-featured: true
 ---
 
 Dünyanın en güzel ülkesi, yeryüzündeki mazlumların sığındığı son ve tek kale Türkiye’miz, 15 Temmuz 2016 tarihinde alçakça bir saldırıya uğradı. Bu hareket, sıradan bir taarruz değildi. İhanet, aziz milletimiz tarafından cesaretle, kahramanca püskürtüldü. Bu kirli hareket, sadece kuru bir darbe teşebbüsü sayılamaz. İçerideki hainlerin ve dışarıdaki düşman devletlerin işbirliğiyle aziz vatanımız parçalanmaya çalışıldı. Bu sinsi ve kurnaz hareket, uzun zamandan beri planlanan ve tezgâhlanan bir hareketti. Kurulan pusu neticesiz kalmıştı. Nitekim, 15 Temmuz alçak saldırısının püskürtülmesi ve akamete uğratılması neticesinde emperyalist Batının gerçek yüzünü göstermeye başlaması tesadüfi değildir.
