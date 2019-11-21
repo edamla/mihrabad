@@ -3,16 +3,16 @@
 <div class="col-sm-6">
 <div class="card">
     <div class="row">
-        <div class="col-md-5 wrapthumbnail">
+        <div class="col-md-7 wrapthumbnail">
             <a href="{{ post.url | absolute_url }}">
             <div class="thumbnail" style="background-image:url({{ site.baseurl }}/{{ post.image }});">
             </div>
             </a>
         </div>
-        <div class="col-md-7">
+        <div class="col-md-5">
             <div class="card-block">
-                <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-                <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:10 }}</h4>
+                <h3 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+                <p class="card-text">{{ post.excerpt | strip_html | truncatewords:10 }}</p>
                 <div class="metafooter">
                     <div class="wrapfooter">
                         <span class="post-date">{{ post.date | date_to_string }}</span>
