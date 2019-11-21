@@ -4,6 +4,7 @@ title:  "“Oku” Dergisi Mihrabad Yayınları Tarafından Toplanıp Basıldı"
 categories: [ Mihrabad Yayınları, Oku Mecmuası, ]
 image: assets/images/md-image/oku-md/oku-panel.jpg 
 blog: true
+featured: true
 ---
 
 
