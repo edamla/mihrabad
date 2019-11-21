@@ -13,15 +13,15 @@ disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
-authors:
-  mihrabad:
-    name: Mihrabad Yayınları
-    display_name: mihrabad
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: www.mihrabadyayinlari.com.tr
-    twitter: https://twitter.com/mihrabadyayin
-    description: Mihrabad Yayınları Genel Yönetimi
+# authors:
+#   mihrabad:
+#     name: Mihrabad Yayınları
+#     display_name: mihrabad
+#     gravatar: e56154546cf4be74e393c62d1ae9f9d4
+#     email: wowthemesnet@gmail.com
+#     web: www.mihrabadyayinlari.com.tr
+#     twitter: https://twitter.com/mihrabadyayin
+#     description: Mihrabad Yayınları Genel Yönetimi
   # john:
   #   name: John
   #   display_name: John
