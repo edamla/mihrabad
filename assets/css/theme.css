@@ -12,10 +12,6 @@ body {
 	padding: 0rem 0rem 1rem 0;
 }
 
-.btn-outline-dark:hover{
-    background-color: #006560;
-}
-
 a {
 	color:#6FD350;
 }
@@ -747,7 +743,7 @@ background-color: #fff;
 }
 .sidebar #mc_embed_signup .button {
     width: 100% !Important;
-    background: #675bff !Important;
+    background: #006560 !Important;
     height: auto;
     padding: 6px 20px;
     font-weight: 600;
