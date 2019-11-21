@@ -4,8 +4,8 @@ Mihrabad Yayınları yazarlarının yazarlar bölümünde gözükmesi için md b
 Önerilen Kısmındaki kitabı veya yazıyı değiştirmek için md başına **suggested: true**
 
 İndex sayfalarındaki card'ların düzenlennmesi;
-Anasayfa = post kategorisi = postbox.html
-Eserlerimiz = eserler kategorisi = eserbox.html
-Yazarlarımız = yazarlar kategorisi = yazarbox.html
+Anasayfa = post kategorisi = **featuredbox.html**
+Eserlerimiz = eserler kategorisi = **eserbox.html**
+Yazarlarımız = yazarlar kategorisi = **yazarbox.html**
+Önerilen = **suggestedbox.html**
 
-Yazılmalıdır
