@@ -15,9 +15,6 @@ body {
 .btn-outline-dark:hover{
     background-color: #006560;
 }
-.nav-item {
-    color: white;
-}
 
 a {
 	color:#6FD350;
