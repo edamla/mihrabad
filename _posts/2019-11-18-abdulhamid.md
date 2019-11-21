@@ -6,6 +6,7 @@ image: assets/images/md-image/eserler/abdulhamid.png
 mlink: https://www.damlayayinevi.com.tr/aksultan-abdulhamid-kizildan-beyaza
 meser: true
 blog: false
+carousel4: true
 ---
 
 Batmış bir imparatorluğu bin bir zahmetle ve tek başına 33 yıl omuzunda taşıyan, öldüğü gün tabutunun peşi sıra,

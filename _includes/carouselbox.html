@@ -1,18 +1,19 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="col-sm-6">
+<div>
 <div class="card">
     <div class="row">
-        <div class="col-md-5 wrapthumbnail">
+        <div class="col-12 wrapthumbnail">
             <a href="{{ post.url | absolute_url }}">
                 <div class="thumbnail"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
                 <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
             </a>
         </div>
-        <div class="col-md-7">
+        <div class="col-12">
             <div class="card-block">
                 <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-                <a class="btn btn-outline-dark" href="{{ post.mlink }}" style="color: black;" target="_blank">Satın Alın</a>
+                    <a class="btn btn-outline-dark" href="{{ post.mlink }}" style="color: black;" target="_blank">Satın Alın</a>
+                    <a class="btn btn-outline-dark" href="{{ post.dolink }}" style="color: black;" target="_blank">Sayfaları İnceleyin</a>
                 <div class="metafooter">
                     <div class="wrapfooter">
                         </span>

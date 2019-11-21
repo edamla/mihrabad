@@ -6,6 +6,7 @@ image: assets/images/md-image/eserler/deliyusuf.png
 mlink: https://www.damlayayinevi.com.tr/deli-yusuf
 meser: true
 blog: false
+carousel5: true
 ---
 
 Bu benim ilk romanım.

@@ -6,6 +6,7 @@ image: assets/images/md-image/eserler/ozgurkudusunsifresi.png
 meser: true
 mlink: https://www.damlayayinevi.com.tr/ozgur-kudus-un-sifresi-selahaddin-eyyubi
 blog: false
+carousel2: true
 ---
 
 Selahaddin Eyyubi, Kudüs ve Mescidi Aksa’nın işgal altında olduğu bir dönemde ve menfaat hırsına kapılan

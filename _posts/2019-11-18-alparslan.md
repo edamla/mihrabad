@@ -6,6 +6,7 @@ image: assets/images/md-image/eserler/alparslan.png
 mlink: https://www.damlayayinevi.com.tr/alparslan-ve-malazgirt-zaferi
 meser: true
 blog: false
+carousel3: true
 suggested: true
 ---
 
