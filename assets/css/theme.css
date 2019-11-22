@@ -194,7 +194,10 @@ section.recent-posts {
 }
 .listfeaturedtag h2.card-title a:hover,.listrecent h2.card-title a:hover {
 	color:rgba(0,0,0,.6);
-	text-decoration:none;
+    text-decoration:none;
+}
+.card-title:hover{
+    color: #006560;
 }
 .listfeaturedtag h4.card-text,.listrecent h4.card-text {
     color: #666;
