@@ -1,7 +1,7 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="col-sm-6 col-lg-4">
-<div class="card">
+<div class="col-sm-6 col-xl-4">
+<div class="card d-flex">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
             <a href="{{ post.url | absolute_url }}">
@@ -11,7 +11,7 @@
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                <h4 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h4>
                 <div class="metafooter">
                     <div class="wrapfooter">
                         <span class="post-read-more"><a href="{{ post.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>
