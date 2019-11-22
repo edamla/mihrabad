@@ -1,17 +1,17 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<h3 class="col-sm-6 col-lg-4">
-<h3 class="card d-flex">
-    <h3 class="row">
+<div class="col-sm-6 col-lg-4">
+<div class="card d-flex">
+    <div class="row">
         <div class="col-md-5 wrapthumbnail">
             <a href="{{ post.url | absolute_url }}">
                 <div class="thumbnail"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
                 <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
             </a>
         </div>
-        <h3 class="col-md-7">
-            <h3 class="card-block">
-                <h3 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+        <div class="col-md-7">
+            <div class="card-block">
+                <h4 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h4>
                 <a class="btn btn-outline-dark" href="{{ post.mlink }}" style="color: black;" target="_blank">Satın Alın</a>
                 <div class="metafooter">
                     <div class="wrapfooter">
@@ -20,9 +20,9 @@
                         <div class="clearfix"></div>
                     </div>
                 </div>
-            </h3>
-        </h3>
-    </h3>
-</h3>
+            </div>
+        </div>
+    </div>
+</div>
 </div>
 <!-- end post -->
