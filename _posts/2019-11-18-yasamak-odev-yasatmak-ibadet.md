@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/yasamakodevyasatmakibadet.png
 mlink: https://www.damlayayinevi.com.tr/yasamak-odev-yasatmak-ibadet-selcuklu-ve-osmanli-nin-insani-yonetim-ilkesi
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846236/index.html
 ---
 
 624 yıl ayakta duran Osmanlı Devleti’nin kurucusu Osman Gazi, Hocası Şeyh Edebâ-li’nin “İnsanı yaşat ki, Devlet yaşasın” buyruğunu benimsemiş, esas almış ve bu anla-yışla hareket etmiştir. Ecdadımızın üç kıtada adaletle hükümran olmasının temelinde, insana sevgiyle bakan, şefkatle yaklaşan ve merhametle muamele eden bu hassasiyeti müşahade ediyoruz.

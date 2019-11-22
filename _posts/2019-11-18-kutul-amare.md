@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/kutulamare.png
 mlink: https://www.damlayayinevi.com.tr/kut-ul-amare-osmanli-nin-son-zaferi
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058199101/index.html
 ---
 
 Kut’ül Amare Zaferi, 13.300 İngiliz asker ve komutanının Osmanlı ordusuna kayıtsız şartsız teslim olduğu büyük bir destandır.

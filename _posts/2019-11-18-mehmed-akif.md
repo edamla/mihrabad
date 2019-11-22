@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/mehmedakif.png
 mlink: https://www.damlayayinevi.com.tr/mehmed-akif
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058301979/index.html
 ---
 
 Süleyman Nazif, “İstiklâl Marşı” ve Safahat şairi Mehmed Âkif’in en aziz ve yakın dostlarındandır. Yüzyıl önce büyük felâketlerin yaşandığı ülkemizde aynı hicranı duymuş,

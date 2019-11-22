@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/evdeokul.png
 mlink: https://www.damlayayinevi.com.tr/evde-okul-okulda-kalite
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247598/index.html
 ---
 
 “Mezun olunan iyi bir okul iyi bir referanstır ama her şey değildir. Üstün özellikler, fark üreten meziyetler olmazsa diploma ne yapsın!.. Günümüz dünyasında sadece bilgi yeterli mi!..

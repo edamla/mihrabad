@@ -7,6 +7,8 @@ meser: true
 mlink: https://www.damlayayinevi.com.tr/nisabu-l-mevlevi-mevlevilik-yolunun-esaslari
 blog: false
 carousel6: true
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725166/index.html
 ---
 
 Hz. Mevlâna’nın baş eseri Mesnevî, baştan başa bir kültür âlemidir ve evrensel eserler arasında bu kitabın seçkin bir yeri vardır. Tasavvufla ilgili eserler ve şiirler arasında ise bir benzeri yoktur.

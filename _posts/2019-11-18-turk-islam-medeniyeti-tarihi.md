@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/turkislammedeniyeti.png
 meser: true
 mlink: https://www.damlayayinevi.com.tr/turk-islam-medeniyeti-tarihi
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058199132/index.html
 ---
 
 Türklerin, Müslüman olmalarından itibaren, daha önce bu dine giren milletlerin samimi gayretleriyle gerçekleşmiş olan fetihler sayesinde kendilerini, İslâm’ın açıldığı geniş bir coğrafyada bulmuş olmaları dikkat çekicidir.

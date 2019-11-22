@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/mevladanleylaya.png
 mlink: https://www.damlayayinevi.com.tr/leyla-dan-mevla-ya-gulnihal-e-mektuplar
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725197/index.html
 ---
 
 

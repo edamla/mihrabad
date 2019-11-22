@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/osmanlidadarbeler.png
 meser: true
 mlink: https://www.damlayayinevi.com.tr/osmanlida-darbeler-ihanetler-isyanlar
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725111/index.html
 ---
 
 Bizde darbelerin tarihi eskilere dayanır. Osmanlıda izleri unutulmayan darbelere sık sık şahit olunmuştur. Bunlar o devirde ‘kıyam’, ‘isyan’ ve ‘kalkışma’ şeklinde tanımlanmış ama hepsi de ‘ihanet’ olarak addedilmiştir.

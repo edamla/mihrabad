@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/istiklaldenistikbale.png
 mlink: https://www.damlayayinevi.com.tr/istiklalden-istikbale
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725159/index.html
 ---
 
 Türkiye, 15 Temmuz 2016 tarihinde sadece alçak ve kanlı bir darbe teşebbüsü ile karşı karşıya kalmadı. O menfur gecede, “İslam’ın son kalesi” kabul edilen ülkemizin, istiklal ve istikbali de fütursuzca tehlikeye atılıyordu. Emperyalist Batı’nın oyuncağı ve kuklası olan kirli bir örgüt, bize düşman sömürgeci ülkelerden aldığı desteğe rağmen başarılı olamadı. Yarım asırdır beslediği hain emellerine kavuşamadı.

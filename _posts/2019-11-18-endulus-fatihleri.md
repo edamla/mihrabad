@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/endulusfatihleri.png
 mlink: https://www.damlayayinevi.com.tr/endulus-fatihleri-tarik-bin-ziyad
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846274/index.html
 ---
 
 Müslüman Fatihler Î’la-yi Kelimetullah ve cihad için çıktıkları seferlerde doğuda Çin Seddi’ne dayanmış, batıda Atlas Okyanusu kıyılarında durmuşlardı. Bu uçsuz bucaksız deniz, onları belki engellemişti ama karşılarında yeni bir ülke vardı: Endülüs.

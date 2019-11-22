@@ -7,6 +7,8 @@ meser: true
 mlink: https://www.damlayayinevi.com.tr/ozgur-kudus-un-sifresi-selahaddin-eyyubi
 blog: false
 carousel2: true
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247574/index.html
 ---
 
 Selahaddin Eyyubi, Kudüs ve Mescidi Aksa’nın işgal altında olduğu bir dönemde ve menfaat hırsına kapılan

@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/necipfazil.png
 mlink: https://www.damlayayinevi.com.tr/oguz-un-altin-sesi-necip-fazil
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846250/index.html
 ---
 
 Necip Fazıl’ı yazmak anlamaktan çok daha zordur. Onu

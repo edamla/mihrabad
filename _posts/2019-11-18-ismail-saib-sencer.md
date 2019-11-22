@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/ismailsaibsencer.png
 mlink: https://www.damlayayinevi.com.tr/ismail-saib-sencer
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725180/index.html
 ---
 
 

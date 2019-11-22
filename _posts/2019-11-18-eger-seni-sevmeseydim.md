@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/egersenisevme.png
 mlink: https://www.damlayayinevi.com.tr/eger-seni-sevmeseydim
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667862/index.html
 ---
 
 

@@ -7,6 +7,8 @@ mlink: https://www.damlayayinevi.com.tr/deli-yusuf
 meser: true
 blog: false
 carousel5: true
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247543/index.html
 ---
 
 Bu benim ilk romanım.

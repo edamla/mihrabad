@@ -8,6 +8,8 @@ meser: true
 blog: false
 carousel3: true
 suggested: true
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846267/index.html
 ---
 
 Selçuk Beg, Yengikent’ten kalkıp batıya doğru at sürdü. Dağları aştı, nehirleri geçti. Yurt tutabilmek için at üstünde yalınkılıç savaştı. Torunları Çağrı Beg ile Tuğrul Beg, onun hayalini gerçekleştirerek Selçuklu Devleti’ni kurdular. Ar­tık Oğuzlar doğuda güçlü bir Türk devletinin temellerini atmışlardı.

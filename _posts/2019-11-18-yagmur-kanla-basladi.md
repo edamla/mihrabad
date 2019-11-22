@@ -5,6 +5,8 @@ categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/yagmurkanlabasladi.png
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247550/index.html
 ---
 
 Yağmur Kanla Başladı, Makedonya Gamzesi’nin devamı olmakla birlikte, başlı başına bir dönem romanıdır da. Çünkü Balkan Faciaları’nın ardından koca devletimizin tükeniş zillerinin çalmaya başladığı sıkıntılı günleri anlatmaktadır. Klasik tiplerimizin dışında, sahneye yeni çıkan kahramanlarımızın hepsi tarihî şahsiyetlerdir.

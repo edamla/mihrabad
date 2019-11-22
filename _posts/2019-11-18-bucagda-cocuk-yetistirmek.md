@@ -6,6 +6,8 @@ image: assets/images/md-image/eserler/bucagdacocuk.png
 mlink: https://www.damlayayinevi.com.tr/bu-cagda-cocuk-yetistirmek
 meser: true
 blog: false
+dolink: true
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058199149/index.html
 ---
 
 “Ahmet Maraşlı, kütüphanemize yıldız bir eser daha kazandırdı. Onun bu eseriyle 21. yüzyıl çocuklarının sağlam bir temelde yetişmesine önemli bir katkı sağladığını düşünüyorum.” (Psikiyatrist Prof. Dr. Sefa Saygılı)
