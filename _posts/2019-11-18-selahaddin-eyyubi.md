@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KUDÜS FATİHİ SELAHADDİN EYYUBİ (ARSLAN YÜREKLİ RİCHARD'A KARŞI)"
+title:  "KUDÜS FATİHİ SELAHADDİN EYYUBİ"
 categories: [ Mihrabad Yayınları, Cavit Ersen, ]
 image: assets/images/md-image/eserler/selahhaddineyyubi.png
 meser: true

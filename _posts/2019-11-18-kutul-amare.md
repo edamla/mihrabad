@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KUT'ÜL AMARE (OSMANLI'NIN SON ZAFERİ)"
+title:  "KUT'ÜL AMARE"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/kutulamare.png
 mlink: https://www.damlayayinevi.com.tr/kut-ul-amare-osmanli-nin-son-zaferi

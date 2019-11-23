@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "İSLAM'IN İLK EMRİ OKU (DİNİ, İÇTİMAİ, EDEBİ AYLIK MECMUA)"
+title:  "İSLAM'IN İLK EMRİ OKU"
 categories: [ Mihrabad Yayınları, Komisyon, ]
 image: assets/images/md-image/eserler/oku.png
 meser: true

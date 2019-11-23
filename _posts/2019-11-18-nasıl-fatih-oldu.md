@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASIL FATİH OLDU? (FATİH'İN FATİH OLMASINDAKİ SIR)"
+title:  "NASIL FATİH OLDU?"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/nasilfatiholdu.png
 mlink: https://www.damlayayinevi.com.tr/nasil-fatih-oldu-fatih-in-fatih-olmasindaki-sir
