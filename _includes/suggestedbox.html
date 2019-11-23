@@ -2,8 +2,8 @@
 {% assign author = site.authors[post.author] %}
 <div>
 <div class="card">
-    <div class="row">
-        <div class="col-md-5 wrapthumbnail" style="margin: auto;">
+    <div class="row m-2">
+        <div class="col-md-5 wrapthumbnail " style="margin: auto;">
             <a href="{{ post.url | absolute_url }}">
                     <div class="thumbnail"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
                     <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
@@ -11,7 +11,7 @@
         </div>
         <div class="col-12">
             <div class="card-block" style="text-align: center; margin-top: 10px;">
-                <h3 class="card-title"><a href="{{ post.url | absolute_url }}" style="color:black">{{ post.title }}</a></h3>
+                <h4 class="card-title"><a href="{{ post.url | absolute_url }}" style="color:black">{{ post.title }}</a></h4>
                 <a class="btn btn-outline-dark" href="{{ post.mlink }}" style="color: black;" target="_blank">Satın Alın</a>
                 <div class="metafooter">
                     <div class="wrapfooter">
