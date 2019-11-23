@@ -6,7 +6,7 @@ image: assets/images/md-image/eserler/tiyatro.png
 mlink: https://www.damlayayinevi.com.tr/tiyatro-eserlerim
 meser: true
 blog: false
-dolink: true
+dolink: false
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846298/index.html
 ---
 

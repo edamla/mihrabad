@@ -2,7 +2,7 @@
 layout: post
 title:  "BİR KİMLİK LÜTFEN"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
-image: assets/images/md-image/eserler/benosmanliyim.png
+image: assets/images/md-image/eserler/birkimliklutlen.png
 mlink: https://www.damlayayinevi.com.tr/bir-kimlik-lutfen
 meser: true
 blog: false

@@ -7,7 +7,7 @@ mlink: https://www.damlayayinevi.com.tr/yavuz-sultan-selim
 meser: true
 blog: false
 carousel8: true
-dolink: true
+dolink: false
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058301948/index.html
 ---
 
