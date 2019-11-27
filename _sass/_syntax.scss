@@ -70,3 +70,10 @@
     z-index: 99999;
 }
 
+.linkcursor{ 
+	cursor: context-menu;
+}
+.linkcursor:hover{
+	background-color: #FFF100;
+}
+
