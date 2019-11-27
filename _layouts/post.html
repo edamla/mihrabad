@@ -10,7 +10,7 @@ post_class: post-template
 
 	<div class="row">
 
-
+<div class="col-12 col-md-8">
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
@@ -29,9 +29,7 @@ post_class: post-template
                     </ul>
                 </div>
                 <!-- End Categories -->
-    <div class="row">       
-        <div class="col-12 col-md-8">
-            <div>
+                
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
                 
@@ -101,23 +99,25 @@ post_class: post-template
             <!--End Comments
             ================================================== -->
             
-        </div>
-        <div class="co-12 col-md-4">
-		
-        <!-- End Post -->
-        
+            
+
+		</div>
+    </div>
+            <!-- End Post -->
+        <div class="col-12 col-md-4">
         <!-- right sidebar -->
     
     <div class="col-4">
             {% include sidebar.html %}
      </div>    
+    </div>
      
      <!-- right sidebar -->
  
         
-        </div>
+
     </div>
-</div> 
+    
     
 <!-- End Article
 ================================================== -->
