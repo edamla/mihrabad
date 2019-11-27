@@ -25,17 +25,18 @@ Copyright (C) 2019 WowThemes.net.
 
 Thank you!
 
-### Contribute
-Mihrabad Yayınları eserlerinin eserler bölümünde gözükmesi için md başına **meser: true**
-Mihrabad Yayınları yazarlarının yazarlar bölümünde gözükmesi için md başına **myazar: true**
-Ürünlerin carousel de gözükmesi için md başına  **carousel: true** (Henüz Eklenmedi!)
-Önerilen Kısmındaki kitabı veya yazıyı değiştirmek için md başına **suggested: true**
-Kitapların eserler sayfasındaki linkler md başına **mlink:** konularak verilecek
-Kitapların inceleme flip book linklerini md başına **dolink:** adı altında konulacak
+### Was Changed
 
-İndex sayfalarındaki card'ların düzenlennmesi;
-Anasayfa = post kategorisi = **featuredbox.html**
-Eserlerimiz = eserler kategorisi = **eserbox.html**
-Yazarlarımız = yazarlar kategorisi = **yazarbox.html**
-Önerilen = **suggestedbox.html**
+1. Mihrabad Yayınları eserlerinin eserler bölümünde gözükmesi için md başına **meser: true**
+2. Mihrabad Yayınları yazarlarının yazarlar bölümünde gözükmesi için md başına **myazar: true**
+3. Ürünlerin carousel de gözükmesi için md başına  **carousel: true** (Henüz Eklenmedi!)
+4. Önerilen Kısmındaki kitabı veya yazıyı değiştirmek için md başına **suggested: true**
+5. Kitapların eserler sayfasındaki linkler md başına **mlink:** konularak verilecek
+6. Kitapların inceleme flip book linklerini md başına **dolink:** adı altında konulacak
+
+## İndex sayfalarındaki card'ların düzenlennmesi;
+1. Anasayfa = post kategorisi = **featuredbox.html**
+2. Eserlerimiz = eserler kategorisi = **eserbox.html**
+3. Yazarlarımız = yazarlar kategorisi = **yazarbox.html**
+4. Önerilen = **suggestedbox.html**
 
