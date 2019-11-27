@@ -12,8 +12,6 @@ Türkiye İmam Hatip Okulu Mezunları Cemiyeti tarafından yaklaşık 20 yıl bo
 
 İlk sayısı 1961’de çıkarılan ve 1980 darbesine kadar yayınlarına devam eden derginin öne çıkan kısımları seçilerek hazırlanan eser, Damla Yayınevi’ne bağlı Mihrabad Yayınları tarafından basıldı.
 
-![jekyll template mediumish](/assets/images/oku-md/oku-kitap.jpg)
-
 Büyük ölçüde Ahmet Baltacı arşivinden yararlanılarak hazırlanan eserde, derginin 1978’e kadar olan sayılarından seçme bölümlere ve yazılara yer verildi.
 
 Derginin kurucuları arasında yer alan ve daha sonra Damla Yayınevi’ni kuran Mehmet Doğru, eserin Milli Türk Talebe Birliği Konferans Salonu’nda yapılan tanıtım toplantısında konuştu. 
