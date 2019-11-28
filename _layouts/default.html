@@ -58,18 +58,20 @@
     <span class="navbar-toggler-icon"></span>
     </button>
     <div class="container">
+        <div class="row">
 
         <!-- Logo -->
         <a class="navbar-brand" href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/assets/images/logo-beyaz.png" alt="{{ site.name }}">
         </a>
         <!-- Logo Bitiş -->
-
+    </div>
+    <div class="row">
         <!-- Menü Başlangıç -->
         <div class="collapse navbar-collapse" id="navbarsWow">
             
             <ul class="navbar-nav ml-auto">
-                
+                <div class="float-left">
                 <li class="nav-item">                
                   <h5><a class="nav-link" href="{{ site.baseurl }}/index.html" style="color: whitesmoke;">Anasayfa</a></h5>
                 </li>
@@ -81,7 +83,7 @@
                 <li class="nav-item">
                     <h5><a class="nav-link" href="{{ site.baseurl }}/indexyazarlar.html" style="color: whitesmoke;">Yazarlarımız</a></h5>
                 </li>
-                
+            </div><div class="float-right">
                 <li class="nav-item">              
                     <h5><a class="nav-link" href="{{ site.baseurl }}/about" style="color: whitesmoke;">Hakkımızda</a></h5>
                 </li> 
@@ -95,11 +97,13 @@
                         <i class="fas fa-shopping-cart mr-2"></i>
                         Mağaza</a>
                 </li> 
+            </div>
                 
             </ul>
             <!-- Menü bitişi -->
             
         </div>
+    </div>
     </div>
 </nav>
     
