@@ -8,9 +8,9 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
-	<div class="row">
+	<div class="row tex-center">
 
-<div class="col-12 tex-center">
+<div class="col-12">
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
@@ -34,11 +34,11 @@ post_class: post-template
 				<h1 class="posttitle">{{ page.title }}</h1> 
                 
 			</div>
-
-			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid resim-250" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
-			<!-- End Featured Image -->
-
+            <div class="text-center">
+			    <!-- Post Featured Image -->
+			    {% if page.image %}<img class="featured-image img-fluid resim-250" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			    <!-- End Featured Image -->
+            </div>
 			<!-- Post Content -->
 			<div class="article-post">
 				{{content}}
