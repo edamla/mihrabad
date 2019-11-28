@@ -428,7 +428,7 @@ blockquote {
 	margin:0 0 1.5rem 0;
 }
 .featured-image {
-    display: block;
+    /* display: block; */
     margin-bottom: 2rem;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
 }
