@@ -1,15 +1,15 @@
 # Site
-name: "Mihrabad Yayınları"
-title: "Mihrabad Yayınları"
-description: "Mihrabad Yayınları"
-meta_description: "Mihrabad Yayınları"
+name: "Minik Damla"
+title: "Minik Damla"
+description: "Minik Damla"
+meta_description: "Minik Damla"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'mnyardim@damlayayinevi.com.tr'
+email: 'iletisim@damlayayinevi.com.tr'
 google_analytics: 'UA-46278016-1'
-disqus: 'mihrabadyayinlari'
+disqus: 'minikdamla'
 #sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
