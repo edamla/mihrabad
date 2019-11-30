@@ -10,7 +10,7 @@ post_class: post-template
 
 	<div class="row">
 
-<div class="col-8 col-md-8">
+<div class="col-12 col-md-8">
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
@@ -42,7 +42,7 @@ post_class: post-template
             </div>
             </div>
 			<!-- Post Content -->
-			<div class="article-post">
+			<div class="article-post" style="text-align: justify;">
 				{{content}}
                 <div class="clearfix"></div>
 			</div>
@@ -108,7 +108,7 @@ post_class: post-template
             <!-- End Post -->        
             
     
-                <div class="col-4 col-md-4" style="margin-top: 10px;">
+                <div class="col-12 col-md-4" style="margin-top: 10px;">
                 
                     {% for post in site.posts %}
                 

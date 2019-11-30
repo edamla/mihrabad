@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
 email: 'iletisim@damlayayinevi.com.tr'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-53710816-10'
 disqus: 'minikdamla'
 #sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
