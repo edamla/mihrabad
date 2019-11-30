@@ -8,13 +8,14 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
-	<div class="row text-center">
+	<div class="row">
 
-<div class="col-12">
+<div class="col-8 col-md-8">
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
 		<div>
+            <div class="text-center">
 			<div class="mainheading">              
                 
                 <!-- Post Categories -->
@@ -38,6 +39,7 @@ post_class: post-template
 			    <!-- Post Featured Image -->
 			    {% if page.image %}<img class="featured-image resim-250" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			    <!-- End Featured Image -->
+            </div>
             </div>
 			<!-- Post Content -->
 			<div class="article-post">
@@ -104,6 +106,23 @@ post_class: post-template
 		</div>
     </div>
             <!-- End Post -->        
+            
+    
+                <div class="col-4 col-md-4" style="margin-top: 10px;">
+                
+                    {% for post in site.posts %}
+                
+                        {% if post.suggested == true %}
+                
+                            {% include suggestedbox.html %}
+                
+                        {% endif %}
+                
+                    {% endfor %}
+                
+                </div>
+                
+            
 
     </div>
     
