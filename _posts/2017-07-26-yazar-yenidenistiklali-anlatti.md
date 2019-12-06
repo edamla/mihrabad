@@ -4,6 +4,7 @@ title:  "Yazar Elif Sönmezışık, 15 Temmuz Destanı İle İlgili Yeniden İst
 categories: [ Mihrabad Yayınları, Yeniden İstiklal, Elif Sönmezışık, ]
 image: assets/images/md-image/yazar-istiklal-md/yenidenistiklal.jpg 
 blog: true
+featured: false
 ---
 
 
