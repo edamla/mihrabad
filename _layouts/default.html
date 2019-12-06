@@ -16,6 +16,8 @@
 <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}/assets/images/favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/favicon/favicon-16x16.png">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/js/swiper.min.js"></script>
 
 <title>{{ page.title }} | {{site.name}}</title>
 {% seo %}
@@ -49,58 +51,60 @@
 
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{ layout }}">
+<body class="{{ layout }} text-center">
     
 <!-- Navigasyon Menüsü Başlangıç
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #006560;">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="container">
-        <div class="row">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top mediumnavigation nav-down" style="background-color: #006560;">
 
-        <!-- Logo -->
-        <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/assets/images/logo-beyaz.png" alt="{{ site.name }}">
-        </a>
-        <!-- Logo Bitiş -->
-    </div>
-    <div class="row">
-        <!-- Menü Başlangıç -->
-        <div class="collapse navbar-collapse" id="navbarsWow">
-            
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">                
+  <div class="container">
+
+  <!-- Begin Logo -->
+  <a class="navbar-brand" href="{{ site.baseurl }}/">
+  <img src="{{ site.baseurl }}/assets/images/logo-beyaz.png" alt="{{ site.name }}">
+  </a>
+  <!-- End Logo -->
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarMediumish">
+
+      <!-- Begin Menu -->
+          <ul class="navbar-nav ml-auto">
+              
+              <li class="nav-item">                
                   <h5><a class="nav-link" href="{{ site.baseurl }}/index.html" style="color: whitesmoke;">Anasayfa</a></h5>
-                </li>
+              </li> 
 
-                <li class="nav-item">
-                    <h5><a class="nav-link" href="{{ site.baseurl }}/indexeserler.html" style="color: whitesmoke;">Eserlerimiz</a></h5>
-                </li>
+              <li class="nav-item">
+                <h5><a class="nav-link" href="{{ site.baseurl }}/indexeserler.html" style="color: whitesmoke;">Eserlerimiz</a></h5>
+              </li>
 
-                <li class="nav-item">
-                    <h5><a class="nav-link" href="{{ site.baseurl }}/indexyazarlar.html" style="color: whitesmoke;">Yazarlarımız</a></h5>
-                </li>
-                <li class="nav-item">              
-                    <h5><a class="nav-link" href="{{ site.baseurl }}/about" style="color: whitesmoke;">Hakkımızda</a></h5>
-                </li> 
-                
-                <li class="nav-item">                
-                    <h5><a class="nav-link" href="{{ site.baseurl }}/contact" style="color: whitesmoke;">İletişim</a></h5>
-                </li> 
-                                
-                <li class="nav-item">                
-                    <a class="btn btn-outline-light" href="https://www.damlayayinevi.com.tr/mihrabad-yayinlari" target="_blank" style="font-size: large">
-                        <i class="fas fa-shopping-cart mr-2"></i>Mağaza</a>
-                </li> 
-                
-            </ul>
-            <!-- Menü bitişi -->
-            
-        </div>
-    </div>
-    </div>
+            <li class="nav-item">
+                <h5><a class="nav-link" href="{{ site.baseurl }}/indexyazarlar.html" style="color: whitesmoke;">Yazarlarımız</a></h5>
+            </li>
+
+              <li class="nav-item">                
+                <h5><a class="nav-link" href="{{ site.baseurl }}/about" style="color: whitesmoke;">Hakkımızda</a></h5>
+              </li> 
+
+              <li class="nav-item">                
+                <h5><a class="nav-link" href="{{ site.baseurl }}/contact" style="color: whitesmoke;">İletişim</a></h5>
+              </li> 
+
+              <li class="nav-item">                
+                <a class="btn btn-outline-light" href="https://www.damlayayinevi.com.tr/mihrabad-yayinlari" target="_blank" style="font-size: large">
+                    <i class="fas fa-shopping-cart mr-2"></i>Mağaza</a>
+              </li> 
+          </ul>
+
+      <!-- End Menu -->
+
+  </div>
+
+  </div>
 </nav>
     
 
@@ -137,7 +141,7 @@
     ================================================== -->
 <!-- Footer -->
 
-<footer style="background-color: #006560;">
+<footer class="fixed-bottom" style="background-color: #006560;">
     <div class="container">
         <div class="row col-12 text-center">
               <!-- Grid column -->

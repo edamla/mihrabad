@@ -6,7 +6,7 @@ image: assets/images/md-image/eserler/yenidenistiklal.png
 meser: true
 mlink: https://www.damlayayinevi.com.tr/yeniden-istiklal
 blog: false
-carousel1: true
+carousel: true
 dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247505/index.html
 ---

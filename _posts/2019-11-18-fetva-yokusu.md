@@ -6,7 +6,7 @@ image: assets/images/md-image/eserler/fetva.png
 mlink: https://www.damlayayinevi.com.tr/fetva-yokusu
 meser: true
 blog: false
-dolink: true
+dolink: false
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786051748801/index.html
 ---
 

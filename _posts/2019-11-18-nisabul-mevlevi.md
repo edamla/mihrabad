@@ -6,7 +6,7 @@ image: assets/images/md-image/eserler/nisabulmevlevi.png
 meser: true
 mlink: https://www.damlayayinevi.com.tr/nisabu-l-mevlevi-mevlevilik-yolunun-esaslari
 blog: false
-carousel6: true
+carousel: true
 dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725166/index.html
 ---

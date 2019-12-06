@@ -151,3 +151,96 @@ jQuery(document).ready(function($){
 
 
 });
+
+ // Hide Header on on scroll down
+ var didScroll;
+ var lastScrollTop = 0;
+ var delta = 5;
+ var navbarHeight = $('nav').outerHeight();
+
+ $(window).scroll(function(event){
+     didScroll = true;
+ });
+
+ setInterval(function() {
+     if (didScroll) {
+         hasScrolled();
+         didScroll = false;
+     }
+ }, 250);
+
+ function hasScrolled() {
+     var st = $(this).scrollTop();
+     
+     // Make sure they scroll more than delta
+     if(Math.abs(lastScrollTop - st) <= delta)
+         return;
+
+     // If they scrolled down and are past the navbar, add class .nav-up.
+     // This is necessary so you never see what is "behind" the navbar.
+     if (st > lastScrollTop && st > navbarHeight){
+         // Scroll Down            
+         $('nav').removeClass('nav-down').addClass('nav-up'); 
+         $('.nav-up').css('top', - $('nav').outerHeight() + 'px');
+        
+     } else {
+         // Scroll Up
+         if(st + $(window).height() < $(document).height()) {               
+             $('nav').removeClass('nav-up').addClass('nav-down');
+             $('.nav-up, .nav-down').css('top', '0px');             
+         }
+     }
+
+     lastScrollTop = st;
+ }
+     
+ $('.site-content').css('margin-top', $('header').outerHeight() + 'px');  
+ 
+ // spoilers
+  $(document).on('click', '.spoiler', function() {
+     $(this).removeClass('spoiler');
+  });
+
+
+
+  
+  // Carousel
+  (function ($) {
+    "use strict";
+    // Auto-scroll
+    $('#myCarousel').carousel({
+      interval: 5000
+    });
+  
+    // Control buttons
+    $('.next').click(function () {
+      $('.carousel').carousel('next');
+      return false;
+    });
+    $('.prev').click(function () {
+      $('.carousel').carousel('prev');
+      return false;
+    });
+  
+    // On carousel scroll
+    $("#myCarousel").on("slide.bs.carousel", function (e) {
+      var $e = $(e.relatedTarget);
+      var idx = $e.index();
+      var itemsPerSlide = 3;
+      var totalItems = $(".carousel-item").length;
+      if (idx >= totalItems - (itemsPerSlide - 1)) {
+        var it = itemsPerSlide -
+            (totalItems - idx);
+        for (var i = 0; i < it; i++) {
+          // append slides to end 
+          if (e.direction == "left") {
+            $(
+              ".carousel-item").eq(i).appendTo(".carousel-inner");
+          } else {
+            $(".carousel-item").eq(0).appendTo(".carousel-inner");
+          }
+        }
+      }
+    });
+  })
+  (jQuery);
