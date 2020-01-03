@@ -7,8 +7,7 @@ mlink: https://www.damlayayinevi.com.tr/alparslan-ve-malazgirt-zaferi
 meser: true
 blog: false
 carousel: true
-suggested: true
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846267/index.html
 ---
 

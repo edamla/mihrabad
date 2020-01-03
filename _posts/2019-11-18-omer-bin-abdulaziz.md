@@ -6,7 +6,7 @@ image: assets/images/md-image/eserler/omer.png
 mlink: https://www.damlayayinevi.com.tr/omer-bin-abdulaziz
 meser: true
 blog: false
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846281/index.html
 ---
 

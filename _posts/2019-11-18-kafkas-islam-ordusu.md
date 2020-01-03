@@ -6,7 +6,7 @@ image: assets/images/md-image/eserler/kafkasislam.png
 mlink: https://www.damlayayinevi.com.tr/kafkas-islam-ordusu-yitik-neslin-hikayesi
 meser: true
 blog: false
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846243/index.html
 ---
 

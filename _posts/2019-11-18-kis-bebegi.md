@@ -6,7 +6,7 @@ image: assets/images/md-image/eserler/kisbebegi.png
 mlink: https://www.damlayayinevi.com.tr/kis-bebegi
 meser: true
 blog: false
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058301931/index.html
 ---
 
