@@ -167,8 +167,8 @@ section.recent-posts {
 	flex:0 0 auto;
 }
 .listfeaturedtag .card {
-	border-radius:2px;
-	height:260px;
+    border-radius:2px;
+    height: 455px;
 	padding-left:0;
 	margin-bottom:15px;
 }
