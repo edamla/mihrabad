@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Üstün İnanç, tiyatro eserlerinde gelenekle moderni birleştirdi"
-categories: [ Mihrabad Yayınları, Üstün İnan., ]
+categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/ustun-inanc-panel.JPG 
 blog: true
 featured: true
