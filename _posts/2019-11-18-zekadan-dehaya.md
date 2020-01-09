@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ZEKA'DAN DEHA'YA"
+yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/zekadandehaya.png
 mlink: https://www.damlayayinevi.com.tr/zeka-dan-deha-ya
@@ -16,3 +17,16 @@ Ahmet Maraşlı, bu geleneksel öğrenme engellerinin geçersizliğini ispatlama
 Aytaç Açıkalın (Prof. Dr.)
 Hacettepe Üniversitesi Eğitim Fakültesi
 Emekli Öğretim Üyesi
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Ahmet Maraşlı' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

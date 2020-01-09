@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "YAĞMUR KANLA BAŞLADI"
+yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/yagmurkanlabasladi.png
 meser: true
@@ -18,3 +19,16 @@ Trablusgarp hezimeti!..
 Ordusuna siyaset bulaşmış Osmanlı’nın çaresizliği!..
 Her zaman olduğu gibi, olaylara kültür planından baktık.
 Başarabildikse ne mutlu!..
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Üstün İnanç' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

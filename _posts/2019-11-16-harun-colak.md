@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Harun Çolak"
-categories: [ Mihrabad Yayınları, Harun Çolak, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/hcolak.jpg
 myazar: true
 blog: false
@@ -12,3 +12,16 @@ blog: false
 Halen Selçuk Üniversitesi’nde, Türk Dili ve Edebiyatı alanında doktora çalışmalarına devam etmektedir. Üniversiteden mezun olduktan sonra bir süre Umran dergisinde hikâyeler yazdı, çeviriler yaptı.
 
 2003-2007 yılları arasında özel dershanelerde edebiyat öğretmenliği görevinde bulundu. 2007 yılından itibaren İnegöl, Ağrı, Bozyazı olmak üzere çeşitli yerlerde millî eğitimde edebiyat öğretmenliği yapmıştır. Evli ve iki çocuk babası olan Çolak hâlen Derinkuyu’da edebiyat öğretmenliğine devam etmektedir.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Harun Çolak' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

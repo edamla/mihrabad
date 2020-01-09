@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nurettin Taşkesen"
-categories: [ Mihrabad Yayınları, Nurettin Taşkesen, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/ntaskesen.png
 myazar: true
 blog: false
@@ -18,3 +18,16 @@ Evvela Ülker Gıda Sanayii Reklam Müdürlüğü, ardından Kar Gıda Sanayii P
 Öğretmenlik ve basın yayın hayatının yanı sıra fakülte yıllarından itibaren hüsn-i hat konusundaki iştiyakı, onu devrin Şeyhül-Hattatin’i Hamid Aytaç’ın rahle-i tedrisine kadar götürdü. İlk sülüs “Rabbi yessir” meşkini Hattat Hamid’den aldıktan sonra bir müddet derslere devam etti. Mezuniyetten sonra ara verdiği hat çalışmasına, İslâm Ansiklopedisi’nde iken, günümüzün Şeyhül-Hattatin’i Hasan Çelebi’den ders alarak devam etti. Emekli olduktan sonra yine Hasan Çelebi’den dört sene ders alarak sülüs meşkini tamamladı.
 
 Babasının yıllar boyunca parça parça anlattığı, dedesi Ahmet Onbaşı’nın harp ve esaret hatıralarını not alarak o dönemin tarihî olayları çerçevesinde Esaret 1916 romanını kaleme aldı. Şimdi Kudüs hakkında yeni bir kitap hazırlığı içindedir. Evli ve üç çocuk babasıdır.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Nurettin Taşkesen' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

@@ -4,7 +4,6 @@ title:  "İçinden Tarih Geçen Romanlar – Star"
 categories: [ Mihrabad Yayınları, Bir Kimlik Lütfen, Ayıp Uşakları, Yıldırım Beyazıd, 93 Harbi ve Nene Hatun, ]
 image: assets/images/md-image/tarih-gecen-roman-md/kitaplar.jpg 
 blog: true
-featured: false
 ---
 
 Yerli değerlere önem veren yazarların eserlerini ön plana çıkaran Mihrabad’dan dört kitap daha okura sunuldu. Bu kitaplardan bazılarının piyasada baskısı tükenmişti. Bunlardan ikisi yazar Üstün İnanç’a ait. İnanç’ın başörtüsü meselesini konu alan ve Mesut Uçakan tarafından aynı adla sinemaya da uyarlanan Yalnız Değilsiniz romanını geçen haftalarda yayınlayan Mihrabad, aynı yazarın ‘Bir Kimlik Lütfen’ ve ‘Ayıp Uşakları’ adlı romanlarının yeni baskılarını yaptı.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Murat Başaran"
-categories: [ Mihrabad Yayınları, Murat Başaran, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/mbasaran.jpg
 myazar: true
 blog: false
@@ -36,3 +36,16 @@ Halen reklam, medya ve marka danışmanlığı yapan Murat Başaran’ın yayın
 - Ne Güzel Cahildik_ (1. Baskı, 2015)- 
 
 - Beyaz Türklerin Günah Defteri_ (İsmail Sefa ile birlikte / 1. Baskı, 2015)
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Murat Başaran' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

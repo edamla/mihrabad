@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sara Gürbüz Özeren"
-categories: [ Mihrabad Yayınları, Sara Gürbüz Özeren, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/sgozeren.png
 myazar: true
 blog: false
@@ -18,3 +18,16 @@ Aynı yıl Şenkaya’nın Gözalan Köyü’ne öğretmen olarak atandı. Yurdu
 33 yıllık öğretmenlik mesleğinden sonra emekliye ayrılan Sara Gürbüz Özeren, hâlen Erzurum’da özel bir kolejde sınıf öğretmeni olarak çalışmaktadır.
 
 Evli ve iki çocuk annesi olan yazarın, Damla Yayınevi’nde başta Vatanın Kilidi Çanakkale, Donmuş Umutlar Sarıkamış ve 93 Harbi ve Nene Hatun olmak üzere pek çok kitabı yayımlanmıştır.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Sara Gürbüz Özeren' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

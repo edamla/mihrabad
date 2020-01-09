@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ÇAKIL TAŞLARI"
+yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/cakiltaslari.png
 mlink: https://www.damlayayinevi.com.tr/cakil-taslari
@@ -23,3 +24,16 @@ Sonrası kolay;
 “Aşkı deniz, gökyüzünü onun üstünde bir köpük” olarak algılayıp hayatını onunla renklendirecek.
 Yarını görmeyenlerin bu günü yaşamaya mecali kalmaz!.. Yarınlar ise ÇAKIL TAŞLARINI cevhere çevirenlerin olacaktır.
 İşte bütün SIR burada!.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Hasan Basri Bilgin' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

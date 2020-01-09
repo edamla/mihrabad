@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "DELİ YUSUF"
+yazar: "Gürbüz Atak"
 categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/deliyusuf.png
 mlink: https://www.damlayayinevi.com.tr/deli-yusuf
@@ -37,3 +38,16 @@ Kalaycı Receplere, Deli Yusuflara,
 Sarhoş Tahirlere sıcak bir teşekkür.
 Bu roman, yazılmamışın ardına
 düşüştür.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Gürbüz Atak' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

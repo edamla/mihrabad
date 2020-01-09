@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "İSMAİL SAİB SENCER"
+yazar: "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/ismailsaibsencer.png
 mlink: https://www.damlayayinevi.com.tr/ismail-saib-sencer
@@ -20,3 +21,16 @@ Dr. Adnan Adıvar
 Abdülbaki Gölpınarlı
 • Kendisi yirminci asrın allamesi olup, şark encümenidir.
 Yahya Kemal
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Zafer Bilgi' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

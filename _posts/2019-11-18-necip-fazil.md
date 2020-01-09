@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "OĞUZ'UN ALTIN SESİ NECİP FAZIL"
+yazar: "Muhsin İlyas Subaşı"
 categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/eserler/necipfazil.png
 mlink: https://www.damlayayinevi.com.tr/oguz-un-altin-sesi-necip-fazil
 meser: true
 blog: false
-dolink: true
+dolink: false
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846250/index.html
 ---
 
@@ -30,3 +31,16 @@ Yazarımız Muhsin İlyas Subaşı, bu kitapla, onu anlama
 gayretinde olanlara bazı kapıları açmaya çalıştı. Eserin
 özelliği, samimiyetinden kaynaklanmaktadır. Umarız Necip
 Fazıl’ın davasına bir katkı sağlar.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Muhsin İlyas Subaşı' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

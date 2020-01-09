@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cavit Ersen"
-categories: [ Mihrabad Yayınları, Cavit Ersen, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/cersen.jpg
 myazar: true
 blog: false
@@ -31,3 +31,16 @@ Cavit Ersen hayatı boyunca çile çekmiş, acı duymuş, kahır görmüş bir d
 Cavit Ersen hakkında düzenlenen ilk program, Türk Edebiyatı Vakfı’nın İstanbul Sultanahmet’teki merkezinde, 27 Mart 2001 tarihinde gerçekleşti. Bu saygı toplantısında Yard. Doç. Dr. Erol Ülgen, yayıncı Sinan Yıldız ve Mehmet Nuri Yardım, Cavit Ersen’in hayatını, eserlerini, fikirlerini ve hizmetlerini anlattılar. Romancı da o toplantıda bir teşekkür konuşması yaptı. 80’nci yaş gününü eşi ve okuyucularıyla birlikte kutladı. Merhum yazar ve Türk Edebiyatı Vakfı Başkanı Ahmet Kabaklı tarafından hazırlanan plâket ise, yeğeni Servet Kabaklı tarafından Cavit Ersen’e takdim edildi. Romancı, yaklaşık iki yıl sonra Darıca Huzurevi’nde iken rahatsızlandı, Gebze SSK Hastanesi’ne kaldırıldı, 21 Ocak 2003 Salı günü vefat etti, Darıca Nenehatun Mezarlığı’nda da toprağa verildi.
 
 Kanlıca’daki biricik gecekondusu başına yıkılan ve çoluk çocuğuyla ortada bırakılan Cavit Ersen, çilelerin, kahırların adamıydı ama asla yılmadı, Hak bildiği yoldan hiçbir zaman taviz vermedi. 82 yıllık ömrü boyunca idealleri, ülküleri için yaşadı. Onu nisyana mahkum etmek isteyenler bunu başaramadılar. Şimdi Cavit Ersen eserleriyle vefatından tam 13 yıl sonra yeniden doğuyor ve okuyucularına ulaşıyor.
+
+
+<div class="row">
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Cavit Ersen' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

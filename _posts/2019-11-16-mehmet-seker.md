@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prof. Dr. Mehmet Şeker"
-categories: [ Mihrabad Yayınları, Prof. Dr. Mehmet Şeker, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/mseker.jpg
 myazar: true
 blog: false
@@ -14,3 +14,16 @@ Bu arada İslâm Tarihi ve sanatları bölümü başkanlığını (2008-2011) da
 14.02.1995 tarihinde de Profesörlük payesine yükseltildi. 1973 yılında Irak ve 1984-1986 yıllarında da Tunus hükümetinin Hükümetimiz emrine tahsis ettiği burslardan yararlanarak adı geçen ülkelerde bilgi görgü ve ihtisasını artıncı çalışmalarda bulundu. Milliyet gazetesinin 1971 yılında açtığı “Türk Anadolu” konulu yarışmada, “Fetihlerle Anadolu’nun Türkleşmesi ve İslâmlaşması” başlıklı çalışması ile jüri tarafından ikincilik ödülüne lâyık görüldü. 1991 yılında da Kültür Bakanlığının açtığı “Ahilik Kültürünü Araştırma” yarışmasında da ‘İbn Batuta’ya Göre Anadolu’nun Sosyal Kültürel ve İktisadî Hayatı ile Ahîlik” konulu eseriyle de mansiyon ödülünü aldı.
 
 Yurt içinde ve yurt dışında alanı ile ilgili kongre, sempozyum ve panellere tebliğlerle katıldığı bir çok bilimsel toplantının düzenlenmesinde tertip komitesi başkanı olarak görev üstlendi. Ayrıca bazı bilimsel dergilerde hakemlik yapmaya devam etmekte olup aynı zamanda bazı Üniversitelerde ve akademik organizasyonlarda bilim kurulu üyeliklerinde de görev aldı. Doçentlik dil sınavını Fransızca’dan kazandı. Arapça’nın yanında Osmanlı Paleografyası ile de meşgul olmaktadır. Evli ve üç çocuk babasıdır.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Prof. Dr. Mehmet Şeker' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

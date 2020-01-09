@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "İSLAM'IN İLK EMRİ OKU"
+yazar: "Komisyon"
 categories: [ Mihrabad Yayınları, Komisyon, ]
 image: assets/images/md-image/eserler/oku.png
 meser: true
@@ -17,3 +18,16 @@ Türkiye’ye yön veren birçok ilim, fikir, din ve sanat adamının ilk yazıl
 
 
 Yayınevimiz, düşünce hayatımızda ‘okul’ misyonu taşıyan Oku mecmuasından titizlikle yapılan seçme yazılardan meydana gelen bu eseri, irfan hayatımıza kazandırmaktadır. Bugünkü nesiller, geçmişte ve zor şartlarda yapılan hizmetleri gördükçe şüphesiz kendilerinde daha büyük bir çalışma azmi ve heyecanı hissedeceklerdir.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Komisyon' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "ÖZGÜR KUDÜS'ÜN ŞİFRESİ (SELAHADDİN EYYUBİ)"
+yazar: "Nurettin Taşkesen"
 categories: [ Mihrabad Yayınları, Nurettin Taşkesen, ]
 image: assets/images/md-image/eserler/ozgurkudusunsifresi.png
 meser: true
 mlink: https://www.damlayayinevi.com.tr/ozgur-kudus-un-sifresi-selahaddin-eyyubi
 blog: false
 carousel: true
-dolink: true
+dolink: false
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247574/index.html
 ---
 
@@ -19,3 +20,16 @@ fitnecilerin oyuncağı haline gelmiş olan Müslümanları, İslam’ın bayra�
 Eyyubi, zihinlere de Kudüs’ü kurtarma şuurunu yerleştirmişti. İslam ülkelerinin günümüzdeki parçalanmış
 durumuna çok benzeyen bir dönemde Selahaddin Eyyubi’nin hayatı boyunca uyguladığı siyaset, bize
 Özgür Kudüs’ün Şifresini vermektedir. Yeter ki onun hayatını dikkatlice okuyup bize verdiği mesajları anlayabilelim.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Nurettin Taşkesen' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

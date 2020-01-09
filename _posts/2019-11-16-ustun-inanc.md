@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Üstün İnanç"
-categories: [ Mihrabad Yayınları, Üstün İnanç, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/uinanc.jpg
 myazar: true
 blog: false
@@ -22,3 +22,16 @@ Necip Fazıl Kısakürek’in eseri Sultan Abdülhamid Han’a prolog yazdı. Es
 Roman: Yalnız Değilsiniz (1987), İnsanlar Böyledir (1988), Bir Kimlik Lütfen (1994), Yazıklar Çıkmazı (1994), Ayıp Uşakları (1996), Makedonya Gamzesi (2004)), Yağmur Kanla Başladı (2014).
 
 Tiyatro eserleri: Sultan Abdülhamid (Necip Fazıl Kısa-kürek’in aynı adlı eserine prolog), Cancağızım (Ömer Seyfeddin’in Hayatı), Alışırsan Hileye Ters Binersin Eşeğe, İbrahim Müteferrika, İhtisap Ağası, Kurt Kapanı, İlk Kurşun, Bir Gül Koşusu-Fetih (tragedya), Göksultan Abdülhamid Han. Makedonya Gamzesi romanı da İstanbul Şehir Tiyatroları tarafından sahnelenmek üzere hazırlanıyor.
+
+
+<div class="row">
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Üstün İnanç' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

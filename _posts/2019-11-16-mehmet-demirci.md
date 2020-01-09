@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prof. Dr. Mehmet Demirci"
-categories: [ Mihrabad Yayınları, Prof. Dr. Mehmet Demirci, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/mdemirci.jpg
 myazar: true
 blog: false
@@ -12,3 +12,16 @@ Prof. Dr. Mehmet Demirci, 1942’de Konya Kovanlık’ta doğdu. Konya İmam-Hat
 Mayıs 2009’da emekli oldu. İlâhiyat Meslek Yüksekoku­lu Müdürlüğü ve Temel İslam Bilimleri Bölüm Başkanlığı görevlerinde bulundu. Bir süre Kazakistan’da Ahmed Yesevi Üniversitesi’nde çalıştı. Hâlen Yeni Asır gazetesinde köşe yazarlığını sürdürmektedir.
 
 Telif Kitaplarından bazıları: Yûnus’ta Hak ve Halk Sevgisi, Hazreti Mevlâna ve Mevlevî Kültürü, İbâdetlerin İç Anlamı, Gönül Dünyamızı Aydınlatanlar, Nûr-i Muhammedî, Mesnevi Hikâyelerinden Dersler, Tarihten Günümüze Tasavvuf Kültürü- Makaleler, Tarihî-Tasavvufî Menkıbeler ve Yorumları, 40 Levha 40 Yorum, İyiler ve İyilikler, Kenan Rifâî Yazıları.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Prof. Dr. Mehmet Demirci' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

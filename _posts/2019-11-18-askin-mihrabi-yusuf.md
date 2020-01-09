@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AŞKIN MİHRABI YUSUF"
+yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/askinmihrabi.png
 mlink: https://www.damlayayinevi.com.tr/askin-mihrabi-yusuf
@@ -30,3 +31,16 @@ O sadece RABBİ’Nİ sevmişti,
 Saltanat tahtını ayaklarının altına serip dünyanın en seçkin
 
 Devlet Adamı yaptı ONU!
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Hasan Basri Bilgin' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

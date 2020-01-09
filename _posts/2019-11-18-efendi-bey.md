@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "EFENDİ BEY"
+yazar: "Mesut Turan"
 categories: [ Mihrabad Yayınları, Mesut Turan, ]
 image: assets/images/md-image/eserler/efendibey.png
 mlink: https://www.damlayayinevi.com.tr/efendi-bey
@@ -16,3 +17,16 @@ bir iş yapar. Efendi Bey’in artık insan içine çıkmaya yüzü kalmamışt�
 ve televizyonlarda darbe bildirisi okunuyor. Efendi Bey, küs olan evlatlarını barıştırmayı, bir araya getirmeyi hayal ederken bir oğlu kayıplara karışmıştır. Tuna, bilinmeyen bir yolculuğa çıkmıştır. Kendisinden en ufak bir haber alınamayan Tuna ve bu süreçte yaşananların, 80
 öncesi anarşinin ve 12 Eylül askeri darbesinin aileye yaşattığı acıların anlatıldığı Efendi Bey, eşi, çocukları ve torunları arasındaki çok bilinmeyenli bir denklemin tahlilidir.
 Efendi Bey romanında, Türkiye’nin yakın tarihi anlatılıyor. Roman, 1980 Darbesi’nin arka planında yaşanmış olayları âdeta bir dürbünle okuyucuya yakınlaştırıyor.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Mesut Tura' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

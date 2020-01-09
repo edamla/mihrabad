@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "NASIL FATİH OLDU?"
+yazar: "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/nasilfatiholdu.png
 mlink: https://www.damlayayinevi.com.tr/nasil-fatih-oldu-fatih-in-fatih-olmasindaki-sir
@@ -29,3 +30,16 @@ Fatih’in liderlik şifreleri nelerdi?
 Bugünün Fatih’lerini yetiştirmek mümkün mü?
 
 sorularına Nasıl Fatih Oldu? kitabımızda cevap bulacaksınız.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Zafer Bilgi' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

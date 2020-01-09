@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "KUT'ÜL AMARE"
+yazar: "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/kutulamare.png
 mlink: https://www.damlayayinevi.com.tr/kut-ul-amare-osmanli-nin-son-zaferi
@@ -21,3 +22,16 @@ beraberlik ruhundadır. Dolayısıyla bu dayanışmanın ve ittihadın ne kadar 
 bize göstermektedir.
 Kitapta, bu savaşa katılan üst düzey askerlerin hatırat ve günlüklerinden yararlanılmıştır. Eser, devlet arşivlerinden ve
 Genelkurmay Başkanlığı Arşivi’nden edinilen bilgi, belge, resim ve haritalarla zenginleştirilmiştir.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Zafer Bilgi' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

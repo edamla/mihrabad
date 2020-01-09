@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Süleyman Nazif"
-categories: [ Mihrabad Yayınları, Süleyman Nazif, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/snazif.jpg
 myazar: true
 blog: false
@@ -48,3 +48,16 @@ Süleyman Nazif, Malta’da 20 ay kadar kaldı. Oradayken, 1921 yılında _Çal 
 Süleyman Nazif’in eserleri ve yayımlanmış yılları şöyle:  _Gizli Figanlar_  (şiirler, 1908),  _Batarya ile Ateş_  (1917),  _Firak-ı Irak_  (Irak’tan ayrılış, şiirler 1918),  _Fuzuli_ (1920),  _Çal Çoban Çal_  (1922),  _Malta Geceleri_  (1924),  _Mehmed Âkif_  (1924, daha önce Servet-i Fünûn’da çıkan beş makalesinden oluşuyor),  _Hz. İsa’ya Açık Mektup_  (1924),  _İki Dost_ (Ziya Paşa ve Namık Kemal, 1925),  _El Cezire Mektupları_  (1906),  _Mâlum-u İlâm_  (1897),  _Victor Hugo’nun Bir Mektubu_  (1908),  _Boş Herif_  (1910),  _Süleyman Paşa_  (1910),  _İki İttifakın Tarihçesi_  (1912),  _Pierre Loti Hitabesi_,  _Namık Kemal_ (1897),  _Tarihin Yılan Hikâyesi_ (Nasırüddin Şah ve Babailer hakkında, 1922),  _Çalınmış Ülke_  (1924),  _Külliyât-ı Ziya Paşa_  (1924),  _Fuzûlî_  (1926),  _İmâna Tasallut-Şapka Meselesi_ 1925),  _Kâfir Hakîkat_ (1926, Fas Mücahidi Abdülkerim’in esir düşmesi üzerine yazılmıştır),  _Lübnan Kasrı’nın Sahibesi_ (1926, Fransız romancı Pierre Benoit’ten çeviri roman),  _Yıkılan Müessese_ (1927, İttihat ve Terakki hakkında yazdıkları).
 
 Fırtınalı ve dağdağalı ama şerefli ve izzetli bir ömür süren Süleyman Nazif, İstanbul’da 4 Ocak 1927 tarihinde zatürreden vefat etti. Cenaze giderleri, Türk Hava Dergisi’ne yazdığı yazıların manevi borcuyla Türk Tayyare Cemiyeti tarafından karşılandı. Cenaze, belediye cenaze arabasıyla Ayasofya Camii’ne getirildi. Namazı orada kılındıktan sonra Edirnekapı Mezarlığı’nda (Şehitliği) toprağa verildi. Kabri İstanbul Belediyesi tarafından yaptırıldı. Daha sonra vefat eden yakın dostu milli şairimiz Mehmed Âkif’in Edirnekapı Şehitliği’nde hemen yanı başına defnedildi.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Süleyman Nazif' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

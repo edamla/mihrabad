@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dr. Yusuf Ekinci"
-categories: [ Mihrabad Yayınları, Dr. Yusuf Ekinci, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/yekinci.jpg
 myazar: true
 blog: false
@@ -74,3 +74,17 @@ Eğitim, yönetim, mesleki eğitim, istihbarat, eğitmenlik konularında pek ço
 **Üyesi Olduğu Dernekler**
 
 Türk Ocağı, Türk Kooperatifçilik Kurumu, Burdurlular Derneği, TEMA Vakfı, Milli Eğitim Bakanlığı (MEB) Üst Düzey Yöneticileri ve Müfettişleri Derneği, Türk Parlamentolar Birliği Yüksek Danışma Kurulu üyesi, Türk Ocakları Eğitim ve Kültür Vakfı Yönetim Kurulu Üyesi, Türkiye Engelsiz Yaşam ve Sosyal Hizmet Vakfı Yönetim Kurulu Üyesi, Kızılay Derneği, Yeşilay Derneği.
+
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Dr. Yusuf Ekinci' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

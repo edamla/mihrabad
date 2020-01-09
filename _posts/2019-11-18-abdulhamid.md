@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AKSULTAN ABDÜLHAMİD (KIZILDAN BEYAZA)"
+yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/abdulhamid.png
 mlink: https://www.damlayayinevi.com.tr/aksultan-abdulhamid-kizildan-beyaza
@@ -21,3 +22,16 @@ Toplumsal huzurun namusunu, kendini halkın fikir işçisi gören, “kişisel �
 aydınlarımız çoğalınca da; onu kızıldan gri renge çevirdik.
 Şimdi;
 Aksultan Abdülhamid’in üstündeki gri rengi beyaza dönüştürmek bu kitabı okuyanlara düşüyor!
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Hasan Basri Bilgin' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

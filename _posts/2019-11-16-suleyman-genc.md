@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yard. Doç. Dr. Süleyman Genç"
-categories: [ Mihrabad Yayınları, Süleyman Genç, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/sgenc.jpg
 myazar: true
 blog: false
@@ -25,3 +25,16 @@ Halen Dokuz Eylül Üniversitesi, İlahiyat Fakültesi’nde, İslam Tarihi An
 8.  “Hz. Ali’nin Halife Seçimlerindeki Tutum ve Tavrı”, DEÜ. İlahiyat Fakültesi Dergisi, Yıl: 2007, Sayı: XXVI, s. 121-150.
 9.  “Selçuklu Tarihinde İbrahim Yınal İsyanı ve Onun Fatımi Arka Planı”, DEÜ. İlahiyat Fakültesi Dergisi, Yıl: 2010, Sayı: XXXI, s. 9-48.
 10.  Miskeveyh Ebû Ali Ahmed b. Muhammed, Teca^ribül-Ümem, Terc.: Kıvameddin BURSLAN, Yay. Haz.: Prof. Dr. Mehmet ŞEKER, Prof. Dr. Rıza SAVAŞ, Yard. Doç. Dr. Süleyman GENÇ, Doç. Dr. Ali ERTUĞRUL, Türk Tarih Kurumu Yayınları, Ankara, 2016
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Yard. Doç. Dr. Süleyman Genç' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

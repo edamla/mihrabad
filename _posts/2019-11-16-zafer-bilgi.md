@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zafer Bilgi"
-categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
+categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/zbilgi.jpg
 myazar: true
 blog: false
@@ -23,3 +23,16 @@ Eserleri:
 -   _T.C.’nin İlk Döneminde Ekonomi Alanındaki Yenilikler_, İstanbul, 2004 (Akademik Master Tezi)
 -   _Nasıl Fatih Oldu?_, Mihrabad Yayınları, 5. Baskı, İstanbul, 2016
 -   _Tarihi Yarımadanın Durakları_, İETT Kültür Yay., İstanbul, 2013
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.yazar == 'Zafer Bilgi' %}
+
+        {% include yazaraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>

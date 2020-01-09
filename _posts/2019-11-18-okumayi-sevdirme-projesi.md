@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "OKUMAYI SEVDİRME PROJESİ"
+yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/okumayisevdirme.png
 meser: true
@@ -18,3 +19,16 @@ Bütün okul ve kurum yöneticilerine,
 Okumanın temel ihtiyaç olduğunu düşünen herkese!
 Okumayı sevdirmek ve okuma alışkanlığı kazandırmak için hediye edilecek bir eser!
 Okuma alışkanlığı kazanmak kazandırmak isteyenler için, sürekli masa üstünde, çantada, el altında bulunması gereken ve “Neler yapabiliriz?” diye bakılacak bir eser.
+
+<div class="row">
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Ahmet Maraşlı' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
+</div>
