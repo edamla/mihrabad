@@ -1,14 +1,10 @@
 ---
 layout: post
 title:  "Üstün İnanç, tiyatro eserlerinde gelenekle moderni birleştirdi"
-yazar: 
-categories: [ Mihrabad Yayınları, Üstün İnanç, ]
-image: assets/images/md-image/ustun-inanc-panel.JPG
-mlink: https://www.damlayayinevi.com.tr/zeka-dan-deha-ya
-meser: false
+categories: [ Mihrabad Yayınları, Üstün İnan., ]
+image: assets/images/md-image/ustun-inanc-panel.JPG 
 blog: true
-dolink: false
-dolinkpage: 
+featured: true
 ---
 
 “Üstün İnanç’ın Tiyatro Eserleri” paneli, Türkiye Yazarlar Birliği İstanbul Şubesi’nde gerçekleşti. Toplantıya yazar Üstün İnanç’ın yarısıra tiyatro sanatçıları
