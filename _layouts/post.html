@@ -40,6 +40,17 @@ post_class: post-template
                     {% if page.image %}<img class="featured-image resim-250" src="{{ site.baseurl }}/{{ page.image }}"
                         alt="{{ page.title }}">{% endif %}
                     <!-- End Featured Image -->
+
+                    {% if post.dolink %}
+                    <a class="btn btn-outline-dark mr-5" href="{{ post.mlink }}" style="color: black;"
+                        target="_blank">Satın Alın</a>
+                    {% endif %}
+
+                    {% if post.dolink %}
+                    <a class="btn btn-outline-dark" href="{{ post.dolinkpage }}" style="color: black;"
+                        target="_blank">Sayfaları inceleyin</a>
+                    {% endif %}
+                    
                 </div>
             </div>
             <!-- Post Content -->
