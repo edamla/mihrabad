@@ -2,7 +2,7 @@
 layout: post
 title:  "Ömer bin Abdülaziz romanı bir dirilişin hikayesidir"
 categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
-image: assets/images/muhsin-ilyas-subasi.jpeg 
+image: assets/images/mus.jpg 
 blog: true
 featured: true
 ---
