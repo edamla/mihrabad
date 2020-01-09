@@ -8,8 +8,7 @@ mlink: https://www.damlayayinevi.com.tr/alparslan-ve-malazgirt-zaferi
 meser: true
 blog: false
 carousel: true
-suggested: true
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846267/index.html
 ---
 
@@ -17,7 +16,7 @@ Selçuk Beg, Yengikent’ten kalkıp batıya doğru at sürdü. Dağları aştı
 Çağrı Beg’in oğlu Alparslan da atalarının yolundan giderek İslam’ın ve Türklüğün bayrağını daha ileriye ta­şımak için ant içti, İ’la-yı Kelimetullah için bütün gücüyle çalıştı. Bizans’ın mağrur hükümdarı Romenos Diogenes’i Malazgirt’te mağlup etti. Anadolu’nun kapılarını Türklere ve Müslümanlara açtı.
 Böylece Anadolu’nun Türkleşmesi ve İslamlaşmasının temelleri atıldı. Bu kitapta, Büyük Selçuklu Hakanı Alpars­lan’ın Malazgirt Ovası’nda yazdığı destan ve olağanüstü zafer anlatılıyor. Anadolu’yu yurt tutan cihangir orduların kökleşmesini dile getirilirken, Horasan erenlerinin bu top­raklarda ektikleri tohumlarla yeşeren manevi fütuhat için gösterdikleri üstün gayrete de dikkat çekiliyor.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -28,4 +27,3 @@ Böylece Anadolu’nun Türkleşmesi ve İslamlaşmasının temelleri atıldı. 
     {% endif %}
 
 {% endfor %}
-</div>

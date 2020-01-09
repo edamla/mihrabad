@@ -17,7 +17,7 @@ Büyük oyunu fark eden aziz milletimiz, yollara düştü, meydanlara indi ve g�
 
 Kitaptaki yazılar, o kapkaranlık zifiri gün ve gecelere düşülmüş tarihî ve bilgilendirici notlardır. Geleceğin tarihçileri, bu yazı, intiba, hatıra, duygu ve düşüncelerden yola çıkarak, destanlar yazmış büyük bir milletin uyanışını, dirilişini, direnişini ve şahlanışını yeni nesillere anlatacaklardır.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -28,4 +28,3 @@ Kitaptaki yazılar, o kapkaranlık zifiri gün ve gecelere düşülmüş tarihî
     {% endif %}
 
 {% endfor %}
-</div>

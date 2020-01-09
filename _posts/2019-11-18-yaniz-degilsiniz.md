@@ -15,7 +15,7 @@ Türkiye’nin gündemine zaman zaman zoraki bir şekilde taşınan başörtüs�
 Usta yazar Üstün İnanç, bu konuyu Yalnız Değilsiniz romanında olağanüstü bir şekilde anlatmış ve konuyu etraflı bir şekilde dile getirmiştir. Toplumumuz tarafından büyük ilgi gören romanın filmi de Mesut Uçakan tarafından beyaz perdeye aktarılmış ve geniş bir seyirci kitlesine ulaşmıştır. Roman, temel bir inanç meselesi ekseninde aslında son yarım yüzyılımızın çağdaşlaşma hikâyesini, arayışlarını, çelişkilerini ve Batı kültürü ile İslâm medeniyeti arasındaki fikrî mücadeleleri ele alıyor.
 Mihrabad Yayınları’nın 32. baskısını kültür hayatımıza kazandırdığı Yalnız Değilsiniz, farklı görüşlere kapılmış birçok kişinin peşin hükümlerini de ortadan kaldıracak güçte mükemmel bir roman...
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -26,4 +26,3 @@ Mihrabad Yayınları’nın 32. baskısını kültür hayatımıza kazandırdı�
     {% endif %}
 
 {% endfor %}
-</div>

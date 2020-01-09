@@ -7,7 +7,7 @@ image: assets/images/md-image/eserler/kisbebegi.png
 mlink: https://www.damlayayinevi.com.tr/kis-bebegi
 meser: true
 blog: false
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058301931/index.html
 ---
 
@@ -16,7 +16,7 @@ dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayf
 Kadın zekiydi.
 – Aslında bana ne. Bu saatten sonar aşk… Ve ustaca umursamaz tavrını takındı hemen. Yavuz avucunun içinde hissettiği bir şansı kaçırmak üzere olduğunu anlayıp konuşmaya başladı hemen…
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -27,4 +27,3 @@ Kadın zekiydi.
     {% endif %}
 
 {% endfor %}
-</div>

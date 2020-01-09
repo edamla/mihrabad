@@ -17,7 +17,7 @@ Mesnevî âlimler, edipler, şairler kadar devlet adamları, esnaf ve halk taraf
 “Mevlevî olanlar bu eseri başucu kitabı olarak gereğince amel etmek üzere gece gündüz okumalıdırlar. Bu okuma sonucunda kendileri için nefsin elinden kurtulmak, tarikat hâllerini kavramak ve sonunda yüksek makamlara ulaşmak suretiyle Mesnevî’nin hakikatlerini anlama noktasına gelir.”
 Mevlevî yolunun esaslarını, Mevlevîlikteki seyr-i sülûk durumunu anlatan ve Mesnevî’yi en güzel şekilde özetleyen Nisâbü’l-Mevlevî’yi son asrın Mesnevî şârihlerinden “Tahir’ül-Mevlevî” Türkçeye çevirmiş ve sayın Bekir Şahin günümüz Türkçesiyle eseri yayına hazırlamıştır.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -28,4 +28,3 @@ Mevlevî yolunun esaslarını, Mevlevîlikteki seyr-i sülûk durumunu anlatan v
     {% endif %}
 
 {% endfor %}
-</div>

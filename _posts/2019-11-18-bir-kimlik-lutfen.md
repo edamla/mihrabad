@@ -15,7 +15,7 @@ Kimliğini arayıp bulma sırası galiba bize geldi… Sanayi gelmeden Sanayi To
 
 Usta yazar Üstün İnanç’ın Bir Kimlik Lütfen romanında, son yıllarda kendisini kuvvetle hissettiren kimliğimizi arama macerası anlatılıyor.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -26,4 +26,3 @@ Usta yazar Üstün İnanç’ın Bir Kimlik Lütfen romanında, son yıllarda ke
     {% endif %}
 
 {% endfor %}
-</div>

@@ -25,7 +25,7 @@ Sonrası kolay;
 Yarını görmeyenlerin bu günü yaşamaya mecali kalmaz!.. Yarınlar ise ÇAKIL TAŞLARINI cevhere çevirenlerin olacaktır.
 İşte bütün SIR burada!.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -36,4 +36,3 @@ Yarını görmeyenlerin bu günü yaşamaya mecali kalmaz!.. Yarınlar ise ÇAKI
     {% endif %}
 
 {% endfor %}
-</div>

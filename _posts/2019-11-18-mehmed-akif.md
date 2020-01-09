@@ -17,7 +17,7 @@ Süleyman Nazif, bu mübarek milletin değerlerine bağlanmış, vatana sevdalan
 âşık olmuş iki fikir, ideal ve iman adamıdır. Süleyman Nazif’in kaleme aldığı ve Mehmed Âkif hakkında yazılan ilk kitap özelliği taşıyan bu kitapta Türkçenin ve İstanbul’un büyük sanatkârını daha yakından tanıma fırsatı bulabiliyoruz. Eserde, Çanakkale Destanı’nı en iyi anlatan şairimizin İslâm’ın derdiyle dertlenen mizacını, iç dünyasının zenginliğini, derin hislerini, ulvî fikirlerini, yüksek ideallerini ve geleceğe dair ümitlerini, yani “Asım’ın Nesli”ni görebiliyoruz.
 Milletimizin çok sevdiği ve her zaman rahmetle andığı İstiklâl Şairimiz Mehmed Âkif, bugün Edirnekapı Şehitliği’nde masher sabahını ve ebedî hayatı bekliyor. Yanı başında da Süleyman Nazif yatıyor. Bugün yaşananları daha iyi idrak edebilmek için dünkü acıları ve sevinçleri bilmek gerekiyor. Mehmed Âkif’i hakkıyla tanıyabilmeniz için bu eserle sizi geniş ufuklu bir yolculuğa davet ediyoruz.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -28,4 +28,3 @@ Milletimizin çok sevdiği ve her zaman rahmetle andığı İstiklâl Şairimiz 
     {% endif %}
 
 {% endfor %}
-</div>

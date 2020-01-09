@@ -7,7 +7,7 @@ image: assets/images/md-image/eserler/fetva.png
 mlink: https://www.damlayayinevi.com.tr/fetva-yokusu
 meser: true
 blog: false
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786051748801/index.html
 ---
 
@@ -15,7 +15,6 @@ Akademisyen kimliğinin yanı sıra romanları ve hikâyeleriyle de tanınan ede
 Konusunu tarihten alan Fetva Yokuşu, bir bakıma 16. yüzyıldan itibaren üç kıtaya hükmetmeye başlayan Yeniçeri Ocağı’nın da gayrı resmi tarihidir. Ordu-millet anlayışı üzerine kurulan Osmanlı’nın zamanla gerileyişi, Yeniçeri’nin bozulmasıyla başlar. Siyasete bulaştırılan askerin (Yeniçerilerin) toplumda meydana getirdiği dalgalanmalar ve huzursuzluklar, günümüze de ışık tutuyor. Okuyucu, kanlı darbe anlayışının sona erdiği günümüz Türkiye’sinde geçmişe bu anlamda ibretle bakıyor.
 Şiirli bir dili olan ve sürükleyici bir üsluba sahip bulunan Durali Yılmaz, başromanı diyebileceğimiz Fetva Yokuşu ile okuyucularına hem zevkli bir tarih yolculuğu yaptırıyor, hem de bazı müesseselerin zamanla nasıl aşındığına ve bozulduğuna dikkat çekiyor. Bu anlamda ibret ve dikkatle okunması gereken önemli bir eserdir Fetva Yokuşu. Romanseverlerin başucu kitabı olacağı ise muhakkak.
 
-<div class="row">
 
 {% for post in site.posts %}
 
@@ -26,4 +25,3 @@ Konusunu tarihten alan Fetva Yokuşu, bir bakıma 16. yüzyıldan itibaren üç 
     {% endif %}
 
 {% endfor %}
-</div>

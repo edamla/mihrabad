@@ -16,7 +16,7 @@ Kim bilir belki de, Bezm-i Elest’teki “Elestü bi-Rabbiküm” (Ben sizin Ra
 Ne şu, ne bu; mesele “en büyük hakikat”i yakalamak!..
 Bu kitap, dünyadan geçerken envâ-ı çeşit karmaşa, kargaşa ve seylablar içinde ruhunu, gönlünü, vicdanını ve aklını dinlemek isteyenler için...
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -27,4 +27,3 @@ Bu kitap, dünyadan geçerken envâ-ı çeşit karmaşa, kargaşa ve seylablar i
     {% endif %}
 
 {% endfor %}
-</div>

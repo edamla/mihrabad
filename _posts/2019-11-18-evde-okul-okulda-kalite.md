@@ -21,7 +21,7 @@ Eğitimdeki yeni müfredattan yıllar önce ortaya konduğu için ayrıca ilgi g
 Tecrübeler şunu söylüyor:
 Kitabınızı kaptırmayın!..
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -32,4 +32,3 @@ Kitabınızı kaptırmayın!..
     {% endif %}
 
 {% endfor %}
-</div>

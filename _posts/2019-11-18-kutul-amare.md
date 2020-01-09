@@ -23,7 +23,6 @@ bize göstermektedir.
 Kitapta, bu savaşa katılan üst düzey askerlerin hatırat ve günlüklerinden yararlanılmıştır. Eser, devlet arşivlerinden ve
 Genelkurmay Başkanlığı Arşivi’nden edinilen bilgi, belge, resim ve haritalarla zenginleştirilmiştir.
 
-<div class="row">
 
 {% for post in site.posts %}
 
@@ -34,4 +33,3 @@ Genelkurmay Başkanlığı Arşivi’nden edinilen bilgi, belge, resim ve harita
     {% endif %}
 
 {% endfor %}
-</div>

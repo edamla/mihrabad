@@ -18,7 +18,7 @@ Aytaç Açıkalın (Prof. Dr.)
 Hacettepe Üniversitesi Eğitim Fakültesi
 Emekli Öğretim Üyesi
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -29,4 +29,3 @@ Emekli Öğretim Üyesi
     {% endif %}
 
 {% endfor %}
-</div>

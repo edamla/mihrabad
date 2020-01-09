@@ -15,7 +15,7 @@ Orhan Gazi, üç kıtaya yayılan cihan ülkesi, Devlet-i Aliyye’nin, yani Osm
 Osmanlı, Orhan Gazi ile Devlet sistemleştirilmeye başlanmış, muhtelif müesseleler ve teşkilâtlar kurularak, Devlet’in önü açılmıştır. Yapılan imar ve ihya çalışmaları ile Osmanlı şehirleri, cazibeli birer ticaret ve sanat merkezi hâline dönüşmüştür. İlk Osmanlı parası olan akçe sikkelerini bastıran, ilk vezir ataması yapan, Başkent Bursa’ya bağlı sancaklara kadılar tayin eden ve civardaki beylikleri Osmanlı’ya biat ettiren Orhan Gazi’dir. Vakıf sistemini kuran, ilk düzenli Osmanlı ordusunu kurup donanma çalışmalarını başlatan ve ilk defa kanunlar çıkaran da Orhan Gazi’dir.
 Kayı Boyu’nun Devlet olma düşüncesinin temeli Osman Gazi ile atılmış, Orhan Gazi ile bu fikir, tam mânasıyla sistemleştirilerek hakikate dönüşmüştür. Osman Gazi Oğlu Orhan Gazi, Cavit Ersen’in ikinci tarihî romanıdır. Daha önce Ertuğrul Gazi Oğlu Osman Gazi’yi neşreden Mihrabat Yayınları’nın bu romanında, Orhan Bey’in hayatını, askerî dehasını ve mücadelelerini keyifli bir yolculuk eşliğinde okuyacaksınız.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -26,4 +26,3 @@ Kayı Boyu’nun Devlet olma düşüncesinin temeli Osman Gazi ile atılmış, O
     {% endif %}
 
 {% endfor %}
-</div>

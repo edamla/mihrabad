@@ -20,7 +20,7 @@ Ordusuna siyaset bulaşmış Osmanlı’nın çaresizliği!..
 Her zaman olduğu gibi, olaylara kültür planından baktık.
 Başarabildikse ne mutlu!..
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -31,4 +31,3 @@ Başarabildikse ne mutlu!..
     {% endif %}
 
 {% endfor %}
-</div>

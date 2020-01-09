@@ -32,7 +32,7 @@ Saltanat tahtını ayaklarının altına serip dünyanın en seçkin
 
 Devlet Adamı yaptı ONU!
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -43,4 +43,3 @@ Devlet Adamı yaptı ONU!
     {% endif %}
 
 {% endfor %}
-</div>

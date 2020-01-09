@@ -15,7 +15,7 @@ Ertuğrul Gazi’nin oğlu olan Osman Gazi, Kayı Boyu’ndan üç kıtaya yayı
 Günümüzdeki bütün dünya liderlerine örnek olan ve yüce bir medeniyetin temelini atan Osman Gazi, fethettiği topraklarda Müslümanlar için olduğu kadar gayr-ı müslimler için de adalet, müsamaha, huzur ve barış ortamını sağlamış, bütün insanlığa muhteşem bir devlet modeli armağan etmiştir.
 Mihrabat Yayınları, Cavit Ersen’in sürükleyici bir üslûp ve akıcı bir Türkçe ile kaleme aldığı Osman Gazi isimli bu değerli eserini okuyuculara takdim ederken, toplumda uyanan tarih şuuruna ve genç nesillerde giderek genişleyen ecdat sevgisine de katkıda bulunmayı amaçlıyor.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -26,4 +26,3 @@ Mihrabat Yayınları, Cavit Ersen’in sürükleyici bir üslûp ve akıcı bir 
     {% endif %}
 
 {% endfor %}
-</div>

@@ -15,7 +15,7 @@ Tasavvuf ve tarîkat konusu çoğumuzun ilgisini çeken fakat hakkında yeterli 
 Tasavvuf ve tarîkat, özü itibarıyla dinin bir algılanış ve yaşanış biçimidir. Duygusal taraf ağır bastığından tarîkatta kolayca yanlışlığa düşülebilir. Onun için bu alan mutlaka doğru bilgi ile beslenmeli ve desteklenmelidir. Her şeyin “ilmi cehlinden yeğdir”.
 Soru-cevap şeklinde hazırlanan bu kitabın, doğuşundan günümüze kadar tasavvuf ve tarîkatlar konusunda yeterli malumatı vereceğini, bazı yanlış kanaatlerin ve ön yargıların düzeltilmesine yardımcı olacağını umuyoruz.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -26,4 +26,3 @@ Soru-cevap şeklinde hazırlanan bu kitabın, doğuşundan günümüze kadar tas
     {% endif %}
 
 {% endfor %}
-</div>

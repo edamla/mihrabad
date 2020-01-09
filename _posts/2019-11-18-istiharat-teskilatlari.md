@@ -15,7 +15,7 @@ Ve biz, at sırtında Orta Asya’dan hicret eden yorgun bir kavimdik. Kendisine
 
 Torunlarından olmakla kendimi ‘bahtiyar’ hissettiğim ecdadım Ertuğrul Gazi’den Vahideddin Han’a teşekkür hisleriyle doluyum. Keşke hepsini tek tek görebilseydim ve ellerinden öpebilseydim. Ve fakat müsterihim: “Cennet bunun için değil mi?”
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -26,4 +26,3 @@ Torunlarından olmakla kendimi ‘bahtiyar’ hissettiğim ecdadım Ertuğrul Ga
     {% endif %}
 
 {% endfor %}
-</div>

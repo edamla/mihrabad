@@ -31,7 +31,7 @@ Bugünün Fatih’lerini yetiştirmek mümkün mü?
 
 sorularına Nasıl Fatih Oldu? kitabımızda cevap bulacaksınız.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -42,4 +42,3 @@ sorularına Nasıl Fatih Oldu? kitabımızda cevap bulacaksınız.
     {% endif %}
 
 {% endfor %}
-</div>

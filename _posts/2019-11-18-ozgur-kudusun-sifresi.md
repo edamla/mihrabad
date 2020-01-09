@@ -8,7 +8,7 @@ meser: true
 mlink: https://www.damlayayinevi.com.tr/ozgur-kudus-un-sifresi-selahaddin-eyyubi
 blog: false
 carousel: true
-dolink: false
+dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247574/index.html
 ---
 
@@ -21,7 +21,7 @@ Eyyubi, zihinlere de Kudüs’ü kurtarma şuurunu yerleştirmişti. İslam ülk
 durumuna çok benzeyen bir dönemde Selahaddin Eyyubi’nin hayatı boyunca uyguladığı siyaset, bize
 Özgür Kudüs’ün Şifresini vermektedir. Yeter ki onun hayatını dikkatlice okuyup bize verdiği mesajları anlayabilelim.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -32,4 +32,3 @@ durumuna çok benzeyen bir dönemde Selahaddin Eyyubi’nin hayatı boyunca uygu
     {% endif %}
 
 {% endfor %}
-</div>

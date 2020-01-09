@@ -20,7 +20,7 @@ Okumanın temel ihtiyaç olduğunu düşünen herkese!
 Okumayı sevdirmek ve okuma alışkanlığı kazandırmak için hediye edilecek bir eser!
 Okuma alışkanlığı kazanmak kazandırmak isteyenler için, sürekli masa üstünde, çantada, el altında bulunması gereken ve “Neler yapabiliriz?” diye bakılacak bir eser.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -31,4 +31,3 @@ Okuma alışkanlığı kazanmak kazandırmak isteyenler için, sürekli masa üs
     {% endif %}
 
 {% endfor %}
-</div>

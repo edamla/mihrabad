@@ -18,7 +18,7 @@ ve televizyonlarda darbe bildirisi okunuyor. Efendi Bey, küs olan evlatlarını
 öncesi anarşinin ve 12 Eylül askeri darbesinin aileye yaşattığı acıların anlatıldığı Efendi Bey, eşi, çocukları ve torunları arasındaki çok bilinmeyenli bir denklemin tahlilidir.
 Efendi Bey romanında, Türkiye’nin yakın tarihi anlatılıyor. Roman, 1980 Darbesi’nin arka planında yaşanmış olayları âdeta bir dürbünle okuyucuya yakınlaştırıyor.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -29,4 +29,3 @@ Efendi Bey romanında, Türkiye’nin yakın tarihi anlatılıyor. Roman, 1980 D
     {% endif %}
 
 {% endfor %}
-</div>

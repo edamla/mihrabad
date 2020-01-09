@@ -8,6 +8,7 @@ mlink: https://www.damlayayinevi.com.tr/aksultan-abdulhamid-kizildan-beyaza
 meser: true
 blog: false
 carousel: true
+suggested: true
 dolink: true
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058199118/index.html
 ---
@@ -23,7 +24,7 @@ aydınlarımız çoğalınca da; onu kızıldan gri renge çevirdik.
 Şimdi;
 Aksultan Abdülhamid’in üstündeki gri rengi beyaza dönüştürmek bu kitabı okuyanlara düşüyor!
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -34,4 +35,3 @@ Aksultan Abdülhamid’in üstündeki gri rengi beyaza dönüştürmek bu kitab�
     {% endif %}
 
 {% endfor %}
-</div>

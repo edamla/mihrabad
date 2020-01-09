@@ -15,7 +15,7 @@ dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayf
 “Yaşamak ödev, yaşatmak ibadet” anlayışı, sadece Fatih Sultan Mehmed’in parolası olmamış, ondan önceki Osmanlı padişahların-da, Selçuklu sultanlarında ve Müslüman Türk hakanlarında da biricik prensip kabul edilmiş ve bu ilkeye sımsıkı bağlı kalınmıştır. Derviş Yunus’un ulu ifadesiyle, “Yaradılan Yara-dan’dan ötürü hoş görülmüş” ve elbette hoş tutulmuştur.
 Bugün Türkiye, bu insanî anlayışın biricik mirasçısı olarak yine yeryüzündeki bütün mazlumların, mağdurların ve masumların ümit beslediği neredeyse biricik ülke. Kırım’dan Bosna’ya, Kerkük’ten Suriye’ye, Doğu Tür-kistan’dan Arakan’a kadar zulme uğrayan herkes, yönünü Türkiye’ye çeviriyor. Çünkü bu topraklarda, ‘yaşatmanın ibadet’ olduğuna inanan insanların yaşadıklarını biliyorlar.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -26,4 +26,3 @@ Bugün Türkiye, bu insanî anlayışın biricik mirasçısı olarak yine yeryü
     {% endif %}
 
 {% endfor %}
-</div>

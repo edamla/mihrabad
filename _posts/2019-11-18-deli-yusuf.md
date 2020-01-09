@@ -39,7 +39,7 @@ Sarhoş Tahirlere sıcak bir teşekkür.
 Bu roman, yazılmamışın ardına
 düşüştür.
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -50,4 +50,3 @@ düşüştür.
     {% endif %}
 
 {% endfor %}
-</div>

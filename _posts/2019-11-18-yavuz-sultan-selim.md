@@ -16,7 +16,8 @@ Yavuz Sultan Selim, Osmanlı Devleti’nin en kudretli, geniş ufuklu ve büyük
 Yavuz, Anadolu’da huzur ve birliği sağlamasıyla, Çaldıran ve Ridaniye zaferleriyle, Güneydoğu illerini Osmanlı’ya bağlamasıyla, Arap İslâm ülkelerini imparatorluk topraklarına katmasıyla Suriye ve Mısır topraklarını fethetmesiyle bir cihan padişahı olduğunu göstermiştir. 50 yıllık kısa ömründe 8 yıl saltanat süren, padişahlığı döneminde Devlet-i Âliye’yi şahlandıran ve Osmanlı’ya “İslâm dünyasının liderliği”ni kazandıran Yavuz’un hayatını Talip Arışahin’in kaleminden okuyacaksınız.
 Yazar bu eserinde, Yavuz’un doğumundan başlayarak çocukluğunu, delikanlılık yıllarını, aldığı eğitimi, hocalarını, şehzadelik dönemini, fizikî ve ruhî portresi ile birlikte sağlam kişiliğini anlatıyor. İsyanların üstüne gidip püskürten, ayaklanmaları bastıran, fitne odaklarının faaliyetlerini kudretli şahsiyetiyle durduran Yavuz’un, Osmanlı’ya ka-zandırdığı ‘Halifelik’ müessesesine verdiği büyük değer “Hâdim’ül Haremeyn” ifadesiyle kendisini buluyor.
 
-<div class="row">
+
+
 
 {% for post in site.posts %}
 
@@ -27,4 +28,4 @@ Yazar bu eserinde, Yavuz’un doğumundan başlayarak çocukluğunu, delikanlıl
     {% endif %}
 
 {% endfor %}
-</div>
+

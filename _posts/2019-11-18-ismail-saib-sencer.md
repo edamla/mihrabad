@@ -22,7 +22,7 @@ Abdülbaki Gölpınarlı
 • Kendisi yirminci asrın allamesi olup, şark encümenidir.
 Yahya Kemal
 
-<div class="row">
+
 
 {% for post in site.posts %}
 
@@ -33,4 +33,3 @@ Yahya Kemal
     {% endif %}
 
 {% endfor %}
-</div>
