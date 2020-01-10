@@ -4,12 +4,11 @@ title:  "DELİ YUSUF"
 yazar: "Gürbüz Atak"
 categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/deliyusuf.png
-mlink: https://www.damlayayinevi.com.tr/deli-yusuf
+barcode: 9786058247543
 meser: true
 blog: false
 carousel: true
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247543/index.html
 ---
 
 Bu benim ilk romanım.

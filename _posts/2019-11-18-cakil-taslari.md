@@ -4,11 +4,10 @@ title:  "ÇAKIL TAŞLARI"
 yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/cakiltaslari.png
-mlink: https://www.damlayayinevi.com.tr/cakil-taslari
+barcode: 9786058247512
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247512/index.html
 ---
 
 Yüce Yaratan, insanı yarattıklarının en mükemmeli olarak vasıflandırmış olup HAYATI, geçici ve esrarengiz bir oyun, hem de; içinde “Seçme Hürriyeti” bulunan sonu belli bir bekleme süresi olarak tanzim buyurmuş.

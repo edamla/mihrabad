@@ -3,6 +3,9 @@ name: "Mihrabad Yayınları"
 title: "Mihrabad Yayınları"
 description: "Mihrabad Yayınları"
 meta_description: "Mihrabad Yayınları"
+dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/
+mlink: https://www.damlayayinevi.com.tr/go?sku=
+end: /index.html
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12

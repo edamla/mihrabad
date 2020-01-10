@@ -4,11 +4,10 @@ title:  "EFENDİ BEY"
 yazar: "Mesut Turan"
 categories: [ Mihrabad Yayınları, Mesut Turan, ]
 image: assets/images/md-image/eserler/efendibey.png
-mlink: https://www.damlayayinevi.com.tr/efendi-bey
+barcode: 9786056667848
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667848/index.html
 ---
 
 Olaylar o kadar çığırından çıkmıştı ki, bir insanın adı bile öldürülmesi için yeterli sebepti. Ateş düştüğü yeri yakar ya, işte ülkenin her tarafı yangın yerine dönmüştü. Efendi Bey telaşlı… Nasıl olmasın ki? Yetişkin altı evlat ve her biri ayrı telden çalıyor. Kiminin ismi sağcıların esame listesinde, kimininki solcuların. Anarşi olaylarından ailesi ziyadesiyle etkilenmiş, ülkedeki kardeş kavgası ailesine de sirayet etmiştir. Öyle ki çocukları siyasi fikirleri yüzünden birbirleriyle kavgalı ve hatta küskündürler. En küçük iki oğlu Tuna ve Şahin

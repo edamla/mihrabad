@@ -4,13 +4,11 @@ title:  "AKSULTAN ABDÜLHAMİD (KIZILDAN BEYAZA)"
 yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/abdulhamid.png
-mlink: https://www.damlayayinevi.com.tr/aksultan-abdulhamid-kizildan-beyaza
+barcode: 9786058199118
 meser: true
 blog: false
 carousel: true
-suggested: true
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058199118/index.html
 ---
 
 Batmış bir imparatorluğu bin bir zahmetle ve tek başına 33 yıl omuzunda taşıyan, öldüğü gün tabutunun peşi sıra,

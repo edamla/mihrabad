@@ -4,11 +4,10 @@ title:  "YARIM AŞKLAR ÜLKESİ"
 yazar: "Harun Çolak"
 categories: [ Mihrabad Yayınları, Harun Çolak, ]
 image: assets/images/md-image/eserler/yarimasklarulkesi.png
-mlink: https://www.damlayayinevi.com.tr/yarim-asklar-ulkesi
+barcode: 9786056725128
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725128/index.html
 ---
 
 **Çerkez Hasan'dan Ömer Halisdemir'e Vatana Adanmış Kahramanlar**  

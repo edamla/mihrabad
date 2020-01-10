@@ -5,10 +5,9 @@ yazar: "Cavit Ersen"
 categories: [ Mihrabad Yayınları, Cavit Ersen, ]
 image: assets/images/md-image/eserler/orhangazi.png
 meser: true
-mlink: https://www.damlayayinevi.com.tr/osman-gazi-oglu-orhan-gazi
+barcode: 9786056667817
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667817/index.html
 ---
 
 Orhan Gazi, üç kıtaya yayılan cihan ülkesi, Devlet-i Aliyye’nin, yani Osmanlı Devleti’nin ikinci padişahıdır. Babası, Devletin kurucusu Osman Gazi’den devraldığı mesuliyetin idrakinde olan Orhan Gazi, bu sorumluluğun hakkını vermiş ve daha babası hayatta iken Bursa’yı fethedip başkent yapmış, Avrupa kıtasına ilk kez o asker çıkarmış, civar iller ile birlikte Osmanlı’yı büyütmüştür.

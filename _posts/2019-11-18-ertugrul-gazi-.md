@@ -4,11 +4,10 @@ title:  "ERTUĞRUL GAZİ (KURULUŞUN ÖNCÜSÜ)"
 yazar: "Talip Arışahin"
 categories: [ Mihrabad Yayınları, Talip Arışahin, ]
 image: assets/images/md-image/eserler/ertugrulgazi.png
-mlink: https://www.damlayayinevi.com.tr/ertugrul-gazi-kurulusun-oncusu
+barcode: 9786058301986
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058301986/index.html
 ---
 
 

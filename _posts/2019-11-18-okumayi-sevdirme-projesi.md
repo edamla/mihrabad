@@ -5,10 +5,9 @@ yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/okumayisevdirme.png
 meser: true
-mlink: https://www.damlayayinevi.com.tr/okumayi-sevdirme-projesi
+barcode: 9786058247581
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058247581/index.html
 ---
 
 Çocuklara, öğrencilere, yetişkinlere okuma sevgi ve alışkanlığı kazandırmak için yüzden fazla kolay uygulanacak yollar sunan bir eser.

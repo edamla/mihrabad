@@ -4,12 +4,11 @@ title:  "YAVUZ SULTAN SELİM"
 yazar: "Talip Arışahin"
 categories: [ Mihrabad Yayınları, Talip Arışahin, ]
 image: assets/images/md-image/eserler/yavuzsultanselim.png
-mlink: https://www.damlayayinevi.com.tr/yavuz-sultan-selim
+barcode: 9786058301948
 meser: true
 blog: false
 carousel: true
-dolink: false
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058301948/index.html
+dolink: true
 ---
 
 Yavuz Sultan Selim, Osmanlı Devleti’nin en kudretli, geniş ufuklu ve büyük padişahlarındandır. Onun kısa zamanda yaptığı işler, kazandığı zaferler ve elde ettiği başarılar, olağanüstü derecededir. Dedesi Fatih Sultan Mehmed gibi âlimlere çok büyük saygı gösteren ve gece gündüz kitap okuyup bilgisini arttıran Yavuz, sanatkâr yönüyle de temayüz etmiş, hafızalarda yer eden şiirlere imza atmıştır.

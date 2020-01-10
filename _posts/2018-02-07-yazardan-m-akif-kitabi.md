@@ -4,7 +4,6 @@ title:  "Süleyman Nazif’ten Mehmed Âkif Kitabı"
 categories: [ Mihrabad Yayınları, Mehmet Âkif, Süleyman Nazif, ]
 image: assets/images/md-image/naziften-makif-kitabi-md/makif.png
 blog: true
-featured: true
 ---
 
 **“İnanışını taklitten tahkike ulaştırdıktan sonra, Mehmed Akif daha kavi bir Müslüman olmuştur. Hazreti Muhammed’in bereketli nefesi, şairin her mısraında açıkça görülür”.**

@@ -4,11 +4,10 @@ title:  "DÜNYADAN GEÇERKEN"
 yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/dunyadangecerken.png
-mlink: https://www.damlayayinevi.com.tr/dunyadan-gecerken
+barcode: 9786058199194
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786058199194/index.html
 ---
 
 Kim bilir belki de, Bezm-i Elest’teki “Elestü bi-Rabbiküm” (Ben sizin Rabbiniz değil miyim!) hitâbına, “Belâ” (Evet, Sen bizim Rabbimizsin!) diyen büyülenmiş hayret, iştiyâk ve hasret nidâlarının içinde bir yerlerdedir “şiir” ve gerçek şairde aşkınlaşırken şerirde şaşkınlaşır. Bam telini yakalar, “Hah!” dedirtir, “Ah!” dedirtir...

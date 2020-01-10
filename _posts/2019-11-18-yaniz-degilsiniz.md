@@ -5,10 +5,9 @@ yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/yalnizdegilsin.png
 meser: true
-mlink: https://www.damlayayinevi.com.tr/yalniz-degilsiniz
+barcode: 9786056667831
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667831/index.html
 ---
 
 Türkiye’nin gündemine zaman zaman zoraki bir şekilde taşınan başörtüsü konusu, ülkemizin son yarım yüzyılında en çok konuşulan ve tartışılan meselelerinden birisi olagelmiştir. Hakikatte temel bir inanç meselesi ve hakkı olan tesettür, bazı kesimler tarafından siyasileştirilmek ve başka mecralara taşınmak istenmiştir. Devletimizin bugün çözdüğü ve insanlara istediği gibi giyinme ve dilediği gibi inanma hakkını getirdiği kanunlara rağmen konu, kimileri tarafından ısıtılıp ısıtılıp tekrar meydana sürülmeye çalışılıyor.

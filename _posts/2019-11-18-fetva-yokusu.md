@@ -4,11 +4,10 @@ title:  "FETVA YOKUŞU"
 yazar: "Durali Yılmaz"
 categories: [ Mihrabad Yayınları, Durali Yılmaz, ]
 image: assets/images/md-image/eserler/fetva.png
-mlink: https://www.damlayayinevi.com.tr/fetva-yokusu
+barcode: 9786051748801
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786051748801/index.html
 ---
 
 Akademisyen kimliğinin yanı sıra romanları ve hikâyeleriyle de tanınan edebiyatçı Prof. Dr. Durali Yılmaz’ın sevilen romanı Fetva Yokuşu’nun beşinci baskısı, Mihrabad Yayınları tarafından yapıldı. Roman, yeni mizanpajı ve kapağıyla okuyucularını selamlıyor. Adını Süleymaniye’deki Fetvahane’nin değişiminden alan Fetva Yokuşu romanının başkahramanı, idam cezasına çarptırılan yeniçerilerin infazında kullanılmak üzere 16. yüzyılda yaptırılan meşhur “Cellat Taşı”dır. İnsanların günlük hayatlarında karşılaştıkları dinî ve hukukî konularla sınırlı olmayan fetva müessesesi, devletin işleyişinde de temel bir meşruiyet kaynağıdır. Romanda bu kurumun değişimi ve dönüşümü ‘cellat taşı’nın şahitliğinde anlatılıyor.

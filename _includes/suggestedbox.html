@@ -1,25 +1,29 @@
-<!-- begin post -->
 {% assign author = site.authors[post.author] %}
-
-<div class="card">
-    <div class="row m-2">
-        <div class="col-md-5 wrapthumbnail " style="margin: auto;">
-            <a href="{{ post.url | absolute_url }}">
-                    <div class="thumbnail"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
-                    <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
-            </a>
-        </div>
-        <div class="col-12">
-            <div class="card-block" style="text-align: center; margin-top: 10px;">
-                <h4 class="card-title"><a href="{{ post.url | absolute_url }}" style="color:black">{{ post.title }}</a></h4>
-                <a class="btn btn-outline-dark" href="{{ post.mlink }}" style="color: black;" target="_blank">Satın Alın</a>
-                <div class="metafooter">
-                    <div class="wrapfooter">
-                    </div>
+<div class="col-sm-6 col-xl-4">
+    <div class="card d-flex">
+        <div class="row">
+            <div class="col-12 wrapthumbnail text-center yazi-50">
+                <h4 class="card-title m-4"><a href="{{ post.url | absolute_url }}">
+                        <p class="postTitle">{{ post.title }}</p>
+                    </a></h4>
+            </div>
+            <div class="col-12 m-1">
+                <div class="card-block text-center">
+                    <a href="{{ post.url | absolute_url }}">
+                        <div class="thumbnail"><img class="img-circle resim-250"
+                                src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
+                        <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
+                    </a>
                 </div>
             </div>
         </div>
+        <div class="row col-12 text-center m-3">
+            <a class="btn btn-outline-dark mr-3" href="{{ post.mlink }}" style="color: black; border-radius: 20px;" target="_blank"><i
+                    class="fas fa-shopping-cart mr-2"></i>Satın Alın</a>
+            {% if post.dolink == true %}
+            <a class="btn btn-outline-dark" href="{{ post.dolinkpage }}" style="color: black; border-radius: 20px;" target="_blank"><i
+                    class="fas fa-book-open mr-2"></i>Sayfaları inceleyin</a>
+            {% endif %}
+        </div>
     </div>
 </div>
-
-<!-- end post -->

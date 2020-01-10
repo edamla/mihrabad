@@ -4,11 +4,10 @@ title:  "AŞKIN MİHRABI YUSUF"
 yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/askinmihrabi.png
-mlink: https://www.damlayayinevi.com.tr/askin-mihrabi-yusuf
+barcode: 9786056667886
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667886/index.html
 ---
 
 Dediler ki;

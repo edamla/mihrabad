@@ -4,11 +4,10 @@ title:  "LEYLA'DAN MEVLA'YA (GÜLNİHAL'E MEKTUPLAR)"
 yazar: "İsmail Bilgin"
 categories: [ Mihrabad Yayınları, İsmail Bilgin, ]
 image: assets/images/md-image/eserler/mevladanleylaya.png
-mlink: https://www.damlayayinevi.com.tr/leyla-dan-mevla-ya-gulnihal-e-mektuplar
+barcode: 9786056725197
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725197/index.html
 ---
 
 

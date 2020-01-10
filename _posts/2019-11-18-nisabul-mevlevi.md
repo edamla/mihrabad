@@ -5,11 +5,10 @@ yazar: "Şeyh İsmail Ankaravi"
 categories: [ Mihrabad Yayınları, Şeyh İsmail Ankaravi, ]
 image: assets/images/md-image/eserler/nisabulmevlevi.png
 meser: true
-mlink: https://www.damlayayinevi.com.tr/nisabu-l-mevlevi-mevlevilik-yolunun-esaslari
+barcode: 9786056725166
 blog: false
 carousel: true
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056725166/index.html
 ---
 
 Hz. Mevlâna’nın baş eseri Mesnevî, baştan başa bir kültür âlemidir ve evrensel eserler arasında bu kitabın seçkin bir yeri vardır. Tasavvufla ilgili eserler ve şiirler arasında ise bir benzeri yoktur.

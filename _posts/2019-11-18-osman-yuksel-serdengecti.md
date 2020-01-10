@@ -5,10 +5,9 @@ yazar: "Abdurrahman Balcıoğlu"
 categories: [ Mihrabad Yayınları, Abdurrahman Balcıoğlu, ]
 image: assets/images/md-image/eserler/serdengecti.png
 meser: true
-mlink: https://www.damlayayinevi.com.tr/osman-yuksel-serdengecti
+barcode: 9786056667855
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667855/index.html
 ---
 
 Zor yılların çelik iradeli ismi Osman Yüksel Serdengeçti, üstünde yaşadığımız mübarek toprakların geleneklerine bağlı, inançlı ve kararlı öncülerindendir. Gönlü memleket hasretiyle dolu, yüreğinde Allah, vatan, bayrak ve memleket sevdası taşıyan bir ahlâk, fazilet ve ideal adamıdır. Ömrünü zulme, haksızlığa ve baskıya karşı direnerek taçlandıran, Toros kırlarının havasını solumuş olan Osman Yüksel, düzensiz çıkardığı Serdengeçti mecmuasıyla özdeşleşmiş bir karakter numunesiydi. Maneviyattan uzaklaştırılmak istenen nesillerin destanını binbir zulme uğrayarak yazan bu soylu ses, kalemini erdemli bir dünyada yaşamak ve zulme uğrayan mazlum insanlar için kullandı.

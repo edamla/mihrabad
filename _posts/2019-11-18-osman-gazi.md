@@ -5,10 +5,9 @@ yazar: "Cavit Ersen"
 categories: [ Mihrabad Yayınları, Cavit Ersen, ]
 image: assets/images/md-image/eserler/osmangazi.png
 meser: true
-mlink: https://www.damlayayinevi.com.tr/osman-gazi-ertugrul-gazi-oglu
+barcode: 9786056667800
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667800/index.html
 ---
 
 Ertuğrul Gazi’nin oğlu olan Osman Gazi, Kayı Boyu’ndan üç kıtaya yayılan büyük bir devletin kurucusudur. Babasından ve Selçuklulardan aldığı emanete hakkıyla sahip çıkan bu şanlı Oğuz Beyi, İlâ’yı Kelimetullah’ı, yani Allah’ın ismini yüceltmek ve hak din İslâm’ı yaymak için cansiperâne çalışmış ve altı asır ayakta duracak Osmanlı Devleti’nin temelini atmıştır.

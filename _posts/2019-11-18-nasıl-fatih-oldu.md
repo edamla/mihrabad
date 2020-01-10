@@ -4,11 +4,10 @@ title:  "NASIL FATİH OLDU?"
 yazar: "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/nasilfatiholdu.png
-mlink: https://www.damlayayinevi.com.tr/nasil-fatih-oldu-fatih-in-fatih-olmasindaki-sir
+barcode: 9786056667824
 meser: true
 blog: false
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056667824/index.html
 ---
 
 

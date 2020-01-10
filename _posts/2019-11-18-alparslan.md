@@ -4,12 +4,11 @@ title:  "ALPARSLAN ve MALAZGİRT ZAFERİ"
 yazar: "Sara Gürbüz Özeren"
 categories: [ Mihrabad Yayınları, Sara Gürbüz Özeren, ]
 image: assets/images/md-image/eserler/alparslan.png
-mlink: https://www.damlayayinevi.com.tr/alparslan-ve-malazgirt-zaferi
+barcode: 9786056846267
 meser: true
 blog: false
 carousel: true
 dolink: true
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/9786056846267/index.html
 ---
 
 Selçuk Beg, Yengikent’ten kalkıp batıya doğru at sürdü. Dağları aştı, nehirleri geçti. Yurt tutabilmek için at üstünde yalınkılıç savaştı. Torunları Çağrı Beg ile Tuğrul Beg, onun hayalini gerçekleştirerek Selçuklu Devleti’ni kurdular. Ar­tık Oğuzlar doğuda güçlü bir Türk devletinin temellerini atmışlardı.
