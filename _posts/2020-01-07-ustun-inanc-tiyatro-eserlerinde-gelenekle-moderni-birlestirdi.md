@@ -4,7 +4,7 @@ title:  "Üstün İnanç, Tiyatro Eserlerinde Gelenekle Moderni Birleştirdi"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/ustuninanc-tiyatro/ustun-inanc-panel.JPG 
 blog: true
-featured: true
+featured: false
 ---
 
 “Üstün İnanç’ın Tiyatro Eserleri” paneli, Türkiye Yazarlar Birliği İstanbul Şubesi’nde gerçekleşti. Toplantıya yazar Üstün İnanç’ın yarısıra tiyatro sanatçıları
