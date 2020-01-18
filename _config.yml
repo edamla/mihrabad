@@ -1,7 +1,7 @@
 # Site
 name: "Mihrabad Yayınları"
 title: "Mihrabad Yayınları"
-description: "Mihrabad Yayınları"
+description: "Geçmiş tarihi, bügünü ve yarını romanlarıyla yorumlayan ve bu konuları en iyi şekilde bizlere aktaran yayınevi."
 meta_description: "Mihrabad Yayınları"
 dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/
 mlink: https://www.damlayayinevi.com.tr/go?sku=
@@ -12,27 +12,6 @@ paginate: 12
 baseurl: '/'
 email: 'mnyardim@damlayayinevi.com.tr'
 google_analytics: 'UA-53710816-10'
-disqus: 'minikdamla'
-#sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
-
-# Authors
-# authors:
-#   mihrabad:
-#     name: Mihrabad Yayınları
-#     display_name: mihrabad
-#     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-#     email: wowthemesnet@gmail.com
-#     web: www.mihrabadyayinlari.com.tr
-#     twitter: https://twitter.com/mihrabadyayin
-#     description: Mihrabad Yayınları Genel Yönetimi
-  # john:
-  #   name: John
-  #   display_name: John
-  #   gravatar: b1cc14991db7a456fcd761680bbc8f81
-  #   email: wowthemesnet@gmail.com
-  #   web: https://www.wowthemes.net/category/jekyll-themes/
-  #   twitter: https://twitter.com/wowthemesnet
-  #   description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins: 
