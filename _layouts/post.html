@@ -96,15 +96,21 @@ post_class: post-template
         </div>
 
 
-        <!-- Begin Comments
-            ================================================== -->
-        <section>
-            <div id="comments">
+
+<!-- Begin Comments
+================================================== -->
+{% if page.comments != false %}
+    <div class="container">
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-8">
                 {% include disqus.html %}
             </div>
-        </section>
-       <!--End Comments
-                ================================================== -->
+        </div>
+    </div>
+{% endif %}
+<!--End Comments
+================================================== -->
+
 
     </div>
     <!-- End Post -->

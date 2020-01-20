@@ -7,7 +7,7 @@ image: assets/images/md-image/eserler/zmusa.png
 barcode: 9786056986505
 meser: true
 blog: false
-dolink: false
+dolink: true
 suggested: true
 ---
 

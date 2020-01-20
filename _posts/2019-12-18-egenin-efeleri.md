@@ -7,7 +7,7 @@ image: assets/images/md-image/eserler/egeefe.png
 barcode: 9786056986512
 meser: true
 blog: false
-dolink: false
+dolink: true
 suggested: true
 ---
 
