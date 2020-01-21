@@ -4,6 +4,7 @@ title:  "BEN OSMANLIYIM"
 yazar: "Murat Başaran"
 categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/benosmanliyim.png
+comments: true
 barcode: 9786058301993
 meser: true
 blog: false

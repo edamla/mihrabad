@@ -4,6 +4,7 @@ title:  "TİYATRO ESERLERİM"
 yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/tiyatro.png
+comments: true
 barcode: 9786056846298
 meser: true
 blog: false

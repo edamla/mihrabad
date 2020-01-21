@@ -4,6 +4,7 @@ title:  "OĞUZ'UN ALTIN SESİ NECİP FAZIL"
 yazar: "Muhsin İlyas Subaşı"
 categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/eserler/necipfazil.png
+comments: true
 barcode: 9786056846250
 meser: true
 blog: false

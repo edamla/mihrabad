@@ -3,6 +3,7 @@ layout: post
 title:  "İçinden Tarih Geçen Romanlar – Star"
 categories: [ Mihrabad Yayınları, Bir Kimlik Lütfen, Ayıp Uşakları, Yıldırım Beyazıd, 93 Harbi ve Nene Hatun, ]
 image: assets/images/md-image/tarih-gecen-roman-md/kitaplar.jpg 
+comments: true
 blog: true
 ---
 

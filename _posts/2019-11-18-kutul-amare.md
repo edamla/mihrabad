@@ -4,6 +4,7 @@ title:  "KUT'ÜL AMARE"
 yazar: "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/kutulamare.png
+comments: true
 barcode: 9786058199101
 meser: true
 blog: false

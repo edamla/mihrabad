@@ -4,6 +4,7 @@ title:  "OSMAN YÜKSEL SERDENGEÇTİ"
 yazar: "Abdurrahman Balcıoğlu"
 categories: [ Mihrabad Yayınları, Abdurrahman Balcıoğlu, ]
 image: assets/images/md-image/eserler/serdengecti.png
+comments: true
 meser: true
 barcode: 9786056667855
 blog: false

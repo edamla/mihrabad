@@ -4,6 +4,7 @@ title:  "YAZIKLAR ÇIKMAZI"
 yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/yaziklarcikmazi.png
+comments: true
 meser: true
 barcode: 9786058199170
 blog: false

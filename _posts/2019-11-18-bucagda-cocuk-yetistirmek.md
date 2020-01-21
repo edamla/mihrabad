@@ -4,6 +4,7 @@ title:  "BU ÇAĞDA ÇOCUK YETİŞTİRMEK"
 yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/bucagdacocuk.png
+comments: true
 barcode: 9786058199149
 meser: true
 blog: false

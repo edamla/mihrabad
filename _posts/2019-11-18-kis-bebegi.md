@@ -4,6 +4,7 @@ title:  "KIŞ BEBEĞİ"
 yazar: "Murat Başaran"
 categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/kisbebegi.png
+comments: true
 barcode: 9786058301931
 meser: true
 blog: false

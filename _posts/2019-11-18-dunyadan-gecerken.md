@@ -4,6 +4,7 @@ title:  "DÜNYADAN GEÇERKEN"
 yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/dunyadangecerken.png
+comments: true
 barcode: 9786058199194
 meser: true
 blog: false

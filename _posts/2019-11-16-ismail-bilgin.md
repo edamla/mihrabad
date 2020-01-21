@@ -3,6 +3,7 @@ layout: post
 title:  "İsmail Bilgin"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/ibilgin.jpg
+comments: true
 myazar: true
 blog: false
 ---

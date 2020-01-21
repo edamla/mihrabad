@@ -3,6 +3,7 @@ layout: post
 title:  "Cavit Ersen"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/cersen.jpg
+comments: true
 myazar: true
 blog: false
 ---

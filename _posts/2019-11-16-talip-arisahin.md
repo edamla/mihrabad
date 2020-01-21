@@ -3,6 +3,7 @@ layout: post
 title:  "Talip Arışahin"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/tarisahin.jpg
+comments: true
 myazar: true
 blog: false
 ---

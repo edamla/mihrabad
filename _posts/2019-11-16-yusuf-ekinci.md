@@ -3,6 +3,7 @@ layout: post
 title:  "Dr. Yusuf Ekinci"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/yekinci.jpg
+comments: true
 myazar: true
 blog: false
 ---

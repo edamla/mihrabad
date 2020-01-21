@@ -4,6 +4,7 @@ title:  "YAŞAMAK ÖDEV YAŞATMAK İBADET"
 yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/yasamakodevyasatmakibadet.png
+comments: true
 barcode: 9786056846236
 meser: true
 blog: false

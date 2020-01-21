@@ -4,6 +4,7 @@ title:  "ÖZGÜR KUDÜS'ÜN ŞİFRESİ (SELAHADDİN EYYUBİ)"
 yazar: "Nurettin Taşkesen"
 categories: [ Mihrabad Yayınları, Nurettin Taşkesen, ]
 image: assets/images/md-image/eserler/ozgurkudusunsifresi.png
+comments: true
 meser: true
 barcode: 9786058247574
 blog: false

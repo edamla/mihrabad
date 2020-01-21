@@ -4,6 +4,7 @@ title:  "BİR KİMLİK LÜTFEN"
 yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/birkimliklutlen.png
+comments: true
 barcode: 9786058301924
 meser: true
 blog: false

@@ -4,6 +4,7 @@ title:  "ZEKA'DAN DEHA'YA"
 yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/zekadandehaya.png
+comments: true
 barcode: 9786056846212
 meser: true
 blog: false

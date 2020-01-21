@@ -4,6 +4,7 @@ title:  "SEVMEK ÖLMEKLE BAŞLAR"
 yazar: "Murat Başaran"
 categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/sevmekolmeklebaslar.png
+comments: true
 meser: true
 barcode: 9786058199125
 blog: false

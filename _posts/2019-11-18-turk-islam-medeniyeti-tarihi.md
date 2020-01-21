@@ -4,6 +4,7 @@ title:  "TÜRK İSLAM MEDENİYETİ TARİHİ"
 yazar: "Süleyman Genç"
 categories: [ Mihrabad Yayınları, Mehmet Şeker, Süleyman Genç, ]
 image: assets/images/md-image/eserler/turkislammedeniyeti.png
+comments: true
 meser: true
 barcode: 9786058199132
 blog: false

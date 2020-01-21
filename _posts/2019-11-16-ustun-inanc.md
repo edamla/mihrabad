@@ -3,6 +3,7 @@ layout: post
 title:  "Üstün İnanç"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/uinanc.jpg
+comments: true
 myazar: true
 blog: false
 ---

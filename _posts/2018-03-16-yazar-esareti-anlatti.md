@@ -3,6 +3,7 @@ layout: post
 title:  "Nurettin Taşkesen, Esaret 1916’yı Anlattı"
 categories: [ Mihrabad Yayınları, Esaret, Nurettin Taşkesen, ]
 image: assets/images/md-image/yaza-esaret-md/ntaske-kitap.jpg 
+comments: true
 blog: true
 ---
 

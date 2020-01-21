@@ -4,6 +4,7 @@ title:  "YALNIZ DEĞİLSİNİZ"
 yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/yalnizdegilsin.png
+comments: true
 meser: true
 barcode: 9786056667831
 blog: false

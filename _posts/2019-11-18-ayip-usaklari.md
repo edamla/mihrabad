@@ -4,6 +4,7 @@ title:  "AYIP UŞAKLARI"
 yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/ayipusaklari.png
+comments: true
 barcode: 9786056667893
 meser: true
 blog: false

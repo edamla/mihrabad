@@ -4,6 +4,7 @@ title:  "ALPARSLAN ve MALAZGİRT ZAFERİ"
 yazar: "Sara Gürbüz Özeren"
 categories: [ Mihrabad Yayınları, Sara Gürbüz Özeren, ]
 image: assets/images/md-image/eserler/alparslan.png
+comments: true
 barcode: 9786056846267
 meser: true
 blog: false

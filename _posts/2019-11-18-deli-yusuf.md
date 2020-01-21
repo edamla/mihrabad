@@ -4,6 +4,7 @@ title:  "DELİ YUSUF"
 yazar: "Gürbüz Atak"
 categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/deliyusuf.png
+comments: true
 barcode: 9786058247543
 meser: true
 blog: false

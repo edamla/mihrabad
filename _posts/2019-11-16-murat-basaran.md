@@ -3,6 +3,7 @@ layout: post
 title:  "Murat Başaran"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/mbasaran.jpg
+comments: true
 myazar: true
 blog: false
 ---

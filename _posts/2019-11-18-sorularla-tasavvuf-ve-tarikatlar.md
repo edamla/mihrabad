@@ -4,6 +4,7 @@ title:  "SORULARLA TASAVVUF VE TARİKATLAR"
 yazar: "Prof. Dr. Mehmet Demirci"
 categories: [ Mihrabad Yayınları, Prof. Dr. Mehmet Demirci, ]
 image: assets/images/md-image/eserler/sorularlatasavvufvetarikatlar.png
+comments: true
 barcode: 9786056725173
 meser: true
 blog: false

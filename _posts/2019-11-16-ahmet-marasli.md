@@ -3,6 +3,7 @@ layout: post
 title:  "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları,]
 image: assets/images/md-image/yazarlar/amarasli.jpg
+comments: true
 myazar: true
 blog: false
 ---

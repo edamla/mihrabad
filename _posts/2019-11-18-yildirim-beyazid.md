@@ -4,6 +4,7 @@ title:  "YILDIRIM BAYEZİD"
 yazar: "Cavit Ersen"
 categories: [ Mihrabad Yayınları, Cavit Ersen, ]
 image: assets/images/md-image/eserler/yildirimbeyazid.png
+comments: true
 meser: true
 barcode: 9786058301955
 blog: false

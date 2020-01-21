@@ -3,6 +3,7 @@ layout: post
 title:  "Cellat Taşı'nın Romanı"
 categories: [ Mihrabad Yayınları, Durali Yılmaz, ]
 image: assets/images/md-image/durali-yilmaz.jpg 
+comments: true
 blog: true
 featured: true
 ---

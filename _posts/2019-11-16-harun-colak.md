@@ -3,6 +3,7 @@ layout: post
 title:  "Harun Çolak"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/hcolak.jpg
+comments: true
 myazar: true
 blog: false
 ---

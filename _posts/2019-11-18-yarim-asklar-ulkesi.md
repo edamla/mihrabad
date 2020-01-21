@@ -4,6 +4,7 @@ title:  "YARIM AŞKLAR ÜLKESİ"
 yazar: "Harun Çolak"
 categories: [ Mihrabad Yayınları, Harun Çolak, ]
 image: assets/images/md-image/eserler/yarimasklarulkesi.png
+comments: true
 barcode: 9786056725128
 meser: true
 blog: false

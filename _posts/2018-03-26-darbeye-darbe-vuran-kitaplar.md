@@ -3,6 +3,7 @@ layout: post
 title:  "Hain Darbe’ye, Darbe Vuran Kitaplar Çıkıyor"
 categories: [ Mihrabad Yayınları, Uyanış, İsyanlar, Yarım Aşklar Ülkesi, İstiklalden İstikbale, ]
 image: assets/images/md-image/darbeye-darbevuran-kitaplar-md/kitaplar.jpg 
+comments: true
 blog: true
 ---
 

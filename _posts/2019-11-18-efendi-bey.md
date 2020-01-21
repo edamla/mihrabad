@@ -4,6 +4,7 @@ title:  "EFENDİ BEY"
 yazar: "Mesut Turan"
 categories: [ Mihrabad Yayınları, Mesut Turan, ]
 image: assets/images/md-image/eserler/efendibey.png
+comments: true
 barcode: 9786056667848
 meser: true
 blog: false

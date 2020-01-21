@@ -3,6 +3,7 @@ layout: post
 title:  "Mehmet Nuri Yardım"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/mnyardim.jpg
+comments: true
 myazar: true
 blog: false
 ---

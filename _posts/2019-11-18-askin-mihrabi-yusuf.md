@@ -4,6 +4,7 @@ title:  "AŞKIN MİHRABI YUSUF"
 yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/askinmihrabi.png
+comments: true
 barcode: 9786056667886
 meser: true
 blog: false

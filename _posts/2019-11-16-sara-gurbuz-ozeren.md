@@ -3,6 +3,7 @@ layout: post
 title:  "Sara Gürbüz Özeren"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/sgozeren.png
+comments: true
 myazar: true
 blog: false
 ---

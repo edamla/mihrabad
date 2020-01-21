@@ -4,6 +4,7 @@ title:  "SUDANLI ZENCİ MUSA"
 yazar: "Harun Çolak"
 categories: [ Mihrabad Yayınları, Harun Çolak, ]
 image: assets/images/md-image/eserler/zmusa.png
+comments: true
 barcode: 9786056986505
 meser: true
 blog: false

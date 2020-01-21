@@ -4,6 +4,7 @@ title:  "YENİDEN İSTİKLAL"
 yazar: "Elif Sönmezışık"
 categories: [ Mihrabad Yayınları, Elif Sönmezışık, ]
 image: assets/images/md-image/eserler/yenidenistiklal.png
+comments: true
 meser: true
 barcode: 9786058247505
 blog: false

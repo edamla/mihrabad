@@ -4,6 +4,7 @@ title:  "NASIL FATİH OLDU?"
 yazar: "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/nasilfatiholdu.png
+comments: true
 barcode: 9786056667824
 meser: true
 blog: false

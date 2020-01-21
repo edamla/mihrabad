@@ -4,6 +4,7 @@ title:  "YAĞMUR KANLA BAŞLADI"
 yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/yagmurkanlabasladi.png
+comments: true
 barcode: 9786058247550
 meser: true
 blog: false

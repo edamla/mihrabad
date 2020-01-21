@@ -4,6 +4,7 @@ title:  "FETVA YOKUŞU"
 yazar: "Durali Yılmaz"
 categories: [ Mihrabad Yayınları, Durali Yılmaz, ]
 image: assets/images/md-image/eserler/fetva.png
+comments: true
 barcode: 9786051748801
 meser: true
 blog: false

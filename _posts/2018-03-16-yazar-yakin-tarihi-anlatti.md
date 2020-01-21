@@ -3,6 +3,7 @@ layout: post
 title:  "Yakın Tarihimizin Bilinmeyenlerini Anlattı"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/yakin-tarih-md/yakintarih.jpg 
+comments: true
 blog: true
 ---
 

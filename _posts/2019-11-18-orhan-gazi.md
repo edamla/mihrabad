@@ -4,6 +4,7 @@ title:  "OSMAN GAZİ OĞLU ORHAN GAZİ"
 yazar: "Cavit Ersen"
 categories: [ Mihrabad Yayınları, Cavit Ersen, ]
 image: assets/images/md-image/eserler/orhangazi.png
+comments: true
 meser: true
 barcode: 9786056667817
 blog: false

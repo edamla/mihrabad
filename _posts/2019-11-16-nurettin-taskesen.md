@@ -3,6 +3,7 @@ layout: post
 title:  "Nurettin Taşkesen"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/ntaskesen.png
+comments: true
 myazar: true
 blog: false
 ---

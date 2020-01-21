@@ -3,6 +3,7 @@ layout: post
 title:  "Süleyman Nazif"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/snazif.jpg
+comments: true
 myazar: true
 blog: false
 ---

@@ -4,6 +4,7 @@ title:  "NİSABÜ'L MEVLEVİ (MEVLEVİLİK YOLUNUN ESASLARI)"
 yazar: "Şeyh İsmail Ankaravi"
 categories: [ Mihrabad Yayınları, Şeyh İsmail Ankaravi, ]
 image: assets/images/md-image/eserler/nisabulmevlevi.png
+comments: true
 meser: true
 barcode: 9786056725166
 blog: false

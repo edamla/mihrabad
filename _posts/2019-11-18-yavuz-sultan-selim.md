@@ -4,6 +4,7 @@ title:  "YAVUZ SULTAN SELİM"
 yazar: "Talip Arışahin"
 categories: [ Mihrabad Yayınları, Talip Arışahin, ]
 image: assets/images/md-image/eserler/yavuzsultanselim.png
+comments: true
 barcode: 9786058301948
 meser: true
 blog: false

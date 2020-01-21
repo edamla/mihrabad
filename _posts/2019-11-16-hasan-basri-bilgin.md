@@ -3,6 +3,7 @@ layout: post
 title:  "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/hbbilgin.jpg
+comments: true
 myazar: true
 blog: false
 ---

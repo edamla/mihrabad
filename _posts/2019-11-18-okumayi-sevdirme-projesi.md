@@ -4,6 +4,7 @@ title:  "OKUMAYI SEVDİRME PROJESİ"
 yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/okumayisevdirme.png
+comments: true
 meser: true
 barcode: 9786058247581
 blog: false

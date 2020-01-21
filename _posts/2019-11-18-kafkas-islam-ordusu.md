@@ -4,6 +4,7 @@ title:  "KAFKAS İSLAM ORDUSU -YİTİK NESLİN HİKAYESİ-"
 yazar: "Doç. Dr. Abdülhamit Avşar"
 categories: [ Mihrabad Yayınları, Doç. Dr. Abdülhamit Avşar, ]
 image: assets/images/md-image/eserler/kafkasislam.png
+comments: true
 barcode: 9786056846243
 meser: true
 blog: false

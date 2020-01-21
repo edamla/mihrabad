@@ -3,6 +3,7 @@ layout: post
 title:  "Prof. Dr. Mehmet Demirci"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/mdemirci.jpg
+comments: true
 myazar: true
 blog: false
 ---

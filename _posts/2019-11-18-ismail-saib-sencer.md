@@ -4,6 +4,7 @@ title:  "İSMAİL SAİB SENCER"
 yazar: "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/ismailsaibsencer.png
+comments: true
 barcode: 9786056725180
 meser: true
 blog: false

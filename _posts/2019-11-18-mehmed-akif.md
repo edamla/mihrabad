@@ -4,6 +4,7 @@ title:  "MEHMED ÂKİF"
 yazar: "Süleyman Nazif"
 categories: [ Mihrabad Yayınları, Süleyman Nazif, ]
 image: assets/images/md-image/eserler/mehmedakif.png
+comments: true
 barcode: 9786058301979
 meser: true
 blog: false

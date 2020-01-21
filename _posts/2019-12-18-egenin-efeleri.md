@@ -4,6 +4,7 @@ title:  "EGE'NİN EFELERİ"
 yazar: "Gürbüz Atak"
 categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/egeefe.png
+comments: true
 barcode: 9786056986512
 meser: true
 blog: false

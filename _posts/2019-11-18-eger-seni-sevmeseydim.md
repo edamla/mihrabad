@@ -4,6 +4,7 @@ title:  "EĞER SENİ SEVMESEYDİM"
 yazar: "Murat Başaran"
 categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/egersenisevme.png
+comments: true
 barcode: 9786056667862
 meser: true
 blog: false

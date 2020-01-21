@@ -3,6 +3,7 @@ layout: post
 title:  "Muhsin İlyas Subaşı"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/misubasi.jpg
+comments: true
 myazar: true
 blog: false
 ---

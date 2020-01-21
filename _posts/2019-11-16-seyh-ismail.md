@@ -3,6 +3,7 @@ layout: post
 title:  "Şeyh İsmail Ankaravi"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/mihrabad-soluk.jpg
+comments: true
 myazar: true
 blog: false
 ---

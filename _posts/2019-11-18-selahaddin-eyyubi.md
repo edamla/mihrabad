@@ -4,6 +4,7 @@ title:  "KUDÜS FATİHİ SELAHADDİN EYYUBİ"
 yazar: "Cavit Ersen"
 categories: [ Mihrabad Yayınları, Cavit Ersen, ]
 image: assets/images/md-image/eserler/selahhaddineyyubi.png
+comments: true
 meser: true
 barcode: 9786058247536
 blog: false

@@ -4,6 +4,7 @@ title:  "İSTİKLALDEN İSTİKBALE"
 yazar: "Mehmet Nuri Yardım"
 categories: [ Mihrabad Yayınları, Mehmet Nuri Yardım, ]
 image: assets/images/md-image/eserler/istiklaldenistikbale.png
+comments: true
 barcode: 9786056725159
 meser: true
 blog: false

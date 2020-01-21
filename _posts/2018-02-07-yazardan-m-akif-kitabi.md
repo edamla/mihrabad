@@ -3,6 +3,7 @@ layout: post
 title:  "Süleyman Nazif’ten Mehmed Âkif Kitabı"
 categories: [ Mihrabad Yayınları, Mehmet Âkif, Süleyman Nazif, ]
 image: assets/images/md-image/naziften-makif-kitabi-md/makif.png
+comments: true
 blog: true
 ---
 

@@ -4,6 +4,7 @@ title:  "İSLAM'IN İLK EMRİ OKU"
 yazar: "Komisyon"
 categories: [ Mihrabad Yayınları, Komisyon, ]
 image: assets/images/md-image/eserler/oku.png
+comments: true
 meser: true
 barcode: 9786058199187
 blog: false

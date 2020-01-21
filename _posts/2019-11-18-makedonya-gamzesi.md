@@ -4,6 +4,7 @@ title:  "MAKEDONYA GAMZESİ"
 yazar: "Üstün İnanç"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/makedonyagamzesi.png
+comments: true
 barcode: 9786056725142
 meser: true
 blog: false

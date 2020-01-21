@@ -4,6 +4,7 @@ title:  "ERTUĞRUL GAZİ (KURULUŞUN ÖNCÜSÜ)"
 yazar: "Talip Arışahin"
 categories: [ Mihrabad Yayınları, Talip Arışahin, ]
 image: assets/images/md-image/eserler/ertugrulgazi.png
+comments: true
 barcode: 9786058301986
 meser: true
 blog: false

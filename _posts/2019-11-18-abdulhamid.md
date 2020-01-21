@@ -4,6 +4,7 @@ title:  "AKSULTAN ABDÜLHAMİD (KIZILDAN BEYAZA)"
 yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/abdulhamid.png
+comments: true
 barcode: 9786058199118
 meser: true
 blog: false

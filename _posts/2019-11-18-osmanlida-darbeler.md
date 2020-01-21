@@ -4,6 +4,7 @@ title:  "OSMANLIDA DARBELER, İHANETLER, İSYANLAR"
 yazar: "Gürbüz Atak"
 categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/osmanlidadarbeler.png
+comments: true
 meser: true
 barcode: 9786056725111
 blog: false

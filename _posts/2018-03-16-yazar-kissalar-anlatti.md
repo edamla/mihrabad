@@ -3,6 +3,7 @@ layout: post
 title:  "Hasan Basri Bilgin, Peygamber Kıssalarını Anlattı"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/kissalar-md/kissalar.jpg 
+comments: true
 blog: true
 
 ---

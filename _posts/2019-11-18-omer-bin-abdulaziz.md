@@ -4,6 +4,7 @@ title:  "ÖMER BİN ABDÜLAZİZ"
 yazar: "Muhsin İlyas Subaşı"
 categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/eserler/omer.png
+comments: true
 barcode: 9786056846281
 meser: true
 suggested: true

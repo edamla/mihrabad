@@ -4,6 +4,7 @@ title:  "ÇAKIL TAŞLARI"
 yazar: "Hasan Basri Bilgin"
 categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/cakiltaslari.png
+comments: true
 barcode: 9786058247512
 meser: true
 blog: false

@@ -4,6 +4,7 @@ title:  "ENDÜLÜS FATİHLERİ -TARIK BİN ZİYAD-"
 yazar: "Nurettin Taşkesen"
 categories: [ Mihrabad Yayınları, Nurettin Taşkesen, ]
 image: assets/images/md-image/eserler/endulusfatihleri.png
+comments: true
 barcode: 9786056846274
 meser: true
 blog: false

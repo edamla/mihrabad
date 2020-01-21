@@ -4,6 +4,7 @@ title:  "AŞKIMI TAŞLA YAZDIM"
 yazar: "Muhsin İlyas Subaşı"
 categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/eserler/askimi.png
+comments: true
 barcode: 9786058247567
 meser: true
 blog: false

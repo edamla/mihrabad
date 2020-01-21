@@ -4,6 +4,7 @@ title:  "BABIALİ'DEN GEÇEN ADAMLAR"
 yazar: "Gürbüz Atak"
 categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/babialidengecenadamlar.png
+comments: true
 barcode: 9786058199156
 meser: true
 blog: false

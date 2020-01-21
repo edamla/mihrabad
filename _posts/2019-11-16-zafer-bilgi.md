@@ -3,6 +3,7 @@ layout: post
 title:  "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/zbilgi.jpg
+comments: true
 myazar: true
 blog: false
 ---

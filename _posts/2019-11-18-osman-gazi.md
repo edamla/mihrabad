@@ -4,6 +4,7 @@ title:  "OSMAN GAZİ (ERTUĞRUL GAZİ OĞLU)"
 yazar: "Cavit Ersen"
 categories: [ Mihrabad Yayınları, Cavit Ersen, ]
 image: assets/images/md-image/eserler/osmangazi.png
+comments: true
 meser: true
 barcode: 9786056667800
 blog: false

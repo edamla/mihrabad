@@ -4,6 +4,7 @@ title:  "OSMANLI COĞRAFYASINDA İSTİHBARAT TEŞKİLATLARI"
 yazar: "Murat Başaran"
 categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/istihbaratteskilatlari.png
+comments: true
 barcode: 9786058199163
 meser: true
 blog: false

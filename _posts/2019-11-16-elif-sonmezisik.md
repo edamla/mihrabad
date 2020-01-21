@@ -3,6 +3,7 @@ layout: post
 title:  "Elif Sönmezışık"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/esonmezisik.jpg
+comments: true
 myazar: true
 blog: false
 ---

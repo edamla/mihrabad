@@ -4,6 +4,7 @@ title:  "EVDE OKUL OKULDA KALİTE"
 yazar: "Ahmet Maraşlı"
 categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/evdeokul.png
+comments: true
 barcode: 9786058247598
 meser: true
 blog: false

@@ -3,6 +3,7 @@ layout: post
 title:  "Mesut Turan"
 categories: [ Mihrabad Yayınları, ]
 image: assets/images/md-image/yazarlar/mturan.jpg
+comments: true
 myazar: true
 blog: false
 ---
