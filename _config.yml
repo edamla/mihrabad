@@ -13,7 +13,7 @@ paginate: 12
 baseurl: '/'
 email: 'mnyardim@damlayayinevi.com.tr'
 google_analytics: 'UA-53710816-10'
-disqus: 'mihrabad-yayinlari'
+# disqus: 'mihrabad-yayinlari'
 permalink: "/:title/"
 instagram: https://www.instagram.com/mihrabadyayin/
 facebook: https://tr-tr.facebook.com/mihrabadyayin/
