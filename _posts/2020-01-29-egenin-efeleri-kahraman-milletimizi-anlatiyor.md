@@ -2,7 +2,7 @@
 layout: post
 title:  "Ege’nin Efeleri Kahraman Milletimizi Anlatıyor"
 categories: [ Mihrabad Yayınları, Üstün İnanç, ]
-image: assets/images/4-Ege'nin Efeleri.jpg 
+image: assets/images/md-image/egenin-efeleri.jpg 
 comments: true
 blog: true
 featured: true
