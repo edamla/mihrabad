@@ -5,7 +5,7 @@ categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/4-Ege'nin Efeleri.jpg 
 comments: true
 blog: true
-featured: false
+featured: true
 ---
 
 Bâbıâli’nin sevilen ve sayılan ismi ressam ve yazar Gürbüz Azak’ın kaleme aldığı Ege’nin Efeleri kitabının tanıtım toplantısı Türkiye Yazarlar Birliği İstanbul Şubesi (Kızlarağası Medresesi)’nde yapıldı. Nurettin Taşkesen, Mustafa Nadir Önay, Muammer Erkul ve Mehmet Nuri Yardım eser ve yazarı hakkında konuştular. Seçkin bir davetli topluluğunun iştirak ettiği toplantıda dinleyiciler de söz alarak kısa konuşmalar yaptılar.
