@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/sevmekolmeklebaslar.png
 comments: true
 meser: true
 barcode: 9786058199125
+eser-on: sevmekolmeklebaslar/sevmekolmeklebaslar-1.jpg
+eser-ic: sevmekolmeklebaslar/sevmekolmeklebaslar-2.jpg
 blog: false
 dolink: true
 ---

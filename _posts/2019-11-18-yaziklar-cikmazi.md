@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/yaziklarcikmazi.png
 comments: true
 meser: true
 barcode: 9786058199170
+eser-on: yaziklarcikmazi/yaziklarcikmazi-1.jpg
+eser-ic: yaziklarcikmazi/yaziklarcikmazi-2.jpg
 blog: false
 dolink: true
 ---

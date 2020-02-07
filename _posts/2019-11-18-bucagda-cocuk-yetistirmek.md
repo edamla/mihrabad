@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/bucagdacocuk.png
 comments: true
 barcode: 9786058199149
+eser-on: bucagdacocuk/bucagdacocuk-1.jpg
+eser-ic: bucagdacocuk/bucagdacocuk-2.jpg
 meser: true
 blog: false
 dolink: true

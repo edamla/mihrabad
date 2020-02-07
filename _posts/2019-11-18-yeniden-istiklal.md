@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/yenidenistiklal.png
 comments: true
 meser: true
 barcode: 9786058247505
+eser-on: yenidenistiklal/yenidenistiklal-1.jpg
+eser-ic: yenidenistiklal/yenidenistiklal-2.jpg
 blog: false
 carousel: true
 dolink: true

@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/ismailsaibsencer.png
 comments: true
 barcode: 9786056725180
+eser-on: ismailsaibsencer/ismailsaibsencer-1.jpg
+eser-ic: ismailsaibsencer/ismailsaibsencer-2.jpg
 meser: true
 blog: false
 dolink: true

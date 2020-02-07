@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/istihbaratteskilatlari.png
 comments: true
 barcode: 9786058199163
+eser-on: istihbaratteskilati/istihbaratteskilati-1.jpg
+eser-ic: istihbaratteskilati/istihbaratteskilati-2.jpg
 meser: true
 blog: false
 dolink: true

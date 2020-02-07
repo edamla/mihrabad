@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Sara Gürbüz Özeren, ]
 image: assets/images/md-image/eserler/alparslan.png
 comments: true
 barcode: 9786056846267
+eser-on: alparslan/alparslan-1.jpg
+eser-ic: alparslan/alparslan-2.jpg
 meser: true
 blog: false
 carousel: true

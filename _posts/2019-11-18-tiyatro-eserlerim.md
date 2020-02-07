@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/tiyatro.png
 comments: true
 barcode: 9786056846298
+eser-on: tiyatroeserlerim/tiyatroeserlerim-1.jpg
+eser-ic: tiyatroeserlerim/tiyatroeserlerim-2.jpg
 meser: true
 blog: false
 dolink: true

@@ -1,14 +1,14 @@
 {% assign author = site.authors[post.author] %}
 <div class="col-12 col-sm-4">
-<div class="card">
+<div class="card rounded shadow">
     <div class="row">
         <div class="col-12 wrapthumbnail">
             <a href="{{ post.url | absolute_url }}">
-            <div class="thumbnail resim-250" style="background-image:url({{ site.baseurl }}/{{ post.image }}); ">
+            <div class="thumbnail shadow rounded m-3 resim-250" style="background-image:url({{ site.baseurl }}/{{ post.image }}); ">
             </div>
             </a>
         </div>
-        <div class="col-12 mt-3">
+        <div class="col-12 mt-4">
             <div class="card-block text-center">
                 <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
                 <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:10 }}</h4>

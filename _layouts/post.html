@@ -43,6 +43,12 @@ post_class: post-template
                     <!-- End Featured Image -->
                 </div>
             </div>
+            <!-- Post Content -->
+            
+            <div class="article-post" style="text-align: justify;">
+                {{content}}
+                <div class="clearfix"></div>
+            </div>
             <div class="row text-center">
                 <div class="col-6">
                     {% if post.dolink == true %}
@@ -56,11 +62,6 @@ post_class: post-template
                         target="_blank">Sayfaları inceleyin</a>
                     {% endif %}
                 </div>
-            </div>
-            <!-- Post Content -->
-            <div class="article-post" style="text-align: justify;">
-                {{content}}
-                <div class="clearfix"></div>
             </div>
 
             <!-- Post Date -->

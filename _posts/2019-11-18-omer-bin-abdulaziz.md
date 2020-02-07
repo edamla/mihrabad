@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/eserler/omer.png
 comments: true
 barcode: 9786056846281
+eser-on: omerbinabdulaziz/omerbinabdulaziz-1.jpg
+eser-ic: omerbinabdulaziz/omerbinabdulaziz-2.jpg
 meser: true
 suggested: true
 blog: false

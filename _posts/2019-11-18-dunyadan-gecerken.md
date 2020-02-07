@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/dunyadangecerken.png
 comments: true
 barcode: 9786058199194
+eser-on: dunyadangecerken/dunyadangecerken-1.jpg
+eser-ic: dunyadangecerken/dunyadangecerken-2.jpg
 meser: true
 blog: false
 dolink: true

@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/yagmurkanlabasladi.png
 comments: true
 barcode: 9786058247550
+eser-on: yagmurkanlabasladi/yagmurkanlabasladi-1.jpg
+eser-ic: yagmurkanlabasladi/yagmurkanlabasladi-2.jpg
 meser: true
 blog: false
 dolink: true

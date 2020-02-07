@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/kisbebegi.png
 comments: true
 barcode: 9786058301931
+eser-on: kisbebegi/kisbebegi-1.jpg
+eser-ic: kisbebegi/kisbebegi-2.jpg
 meser: true
 blog: false
 dolink: true

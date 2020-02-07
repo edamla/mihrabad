@@ -5,7 +5,7 @@ categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/omerbinabdul/muhsin-ilyas-subasi.jpg
 comments: true
 blog: true
-featured: false
+featured: true
 ---
 
 MUHSİN İLYAS SUBAŞI: “ÖMER BİN ABDÜLAZİZ ROMANI BİR

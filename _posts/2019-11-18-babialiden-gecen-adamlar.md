@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/babialidengecenadamlar.png
 comments: true
 barcode: 9786058199156
+eser-on: babialidengecen/babialidengecen-1.jpg
+eser-ic: babialidengecen/babialidengecen-2.jpg
 meser: true
 blog: false
 dolink: true

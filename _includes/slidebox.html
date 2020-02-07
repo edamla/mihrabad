@@ -2,7 +2,7 @@
 {% assign author = site.authors[post.author] %}
 
 <div class="col-md-6 grid-item">
-<div class="card">
+<div class="card rounded shadow">
     <a href="{{ post.url | absolute_url }}">
         {% if post.image %} <img class="img-fluid" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}"> {% endif %}
     </a>

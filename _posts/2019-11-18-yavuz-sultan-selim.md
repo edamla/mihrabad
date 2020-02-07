@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Talip Arışahin, ]
 image: assets/images/md-image/eserler/yavuzsultanselim.png
 comments: true
 barcode: 9786058301948
+eser-on: yavuzsultanselim/yavuzsultanselim-1.jpg
+eser-ic: yavuzsultanselim/yavuzsultanselim-2.jpg
 meser: true
 blog: false
 carousel: true

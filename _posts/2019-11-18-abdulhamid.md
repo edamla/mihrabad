@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/abdulhamid.png
 comments: true
 barcode: 9786058199118
+eser-on: abdulhamid/abdulhamid-1.jpg
+eser-ic: abdulhamid/abdulhamid-2.jpg
 meser: true
 blog: false
 carousel: true

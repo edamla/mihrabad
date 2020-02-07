@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Durali Yılmaz, ]
 image: assets/images/md-image/eserler/fetva.png
 comments: true
 barcode: 9786051748801
+eser-on: fetvayokusu/fetvayokusu-1.jpg
+eser-ic: fetvayokusu/fetvayokusu-2.jpg
 meser: true
 blog: false
 dolink: true

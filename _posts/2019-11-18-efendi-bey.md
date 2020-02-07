@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Mesut Turan, ]
 image: assets/images/md-image/eserler/efendibey.png
 comments: true
 barcode: 9786056667848
+eser-on: efendibey/efendibey-1.jpg
+eser-ic: efendibey/efendibey-2.jpg
 meser: true
 blog: false
 dolink: true

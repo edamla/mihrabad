@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/selahhaddineyyubi.png
 comments: true
 meser: true
 barcode: 9786058247536
+eser-on: selahaddineyyubi/selahaddineyyubi-1.jpg
+eser-ic: selahaddineyyubi/selahaddineyyubi-2.jpg
 blog: false
 dolink: true
 ---

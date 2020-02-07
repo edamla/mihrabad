@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Gürbüz Atak, ]
 image: assets/images/md-image/eserler/deliyusuf.png
 comments: true
 barcode: 9786058247543
+eser-on: deliyusuf/deliyusuf-1.jpg
+eser-ic: deliyusuf/deliyusuf-2.jpg
 meser: true
 blog: false
 carousel: true

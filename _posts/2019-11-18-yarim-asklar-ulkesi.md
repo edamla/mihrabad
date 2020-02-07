@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Harun Çolak, ]
 image: assets/images/md-image/eserler/yarimasklarulkesi.png
 comments: true
 barcode: 9786056725128
+eser-on: yarimasklarulkesi/yarimasklarulkesi-1.jpg
+eser-ic: yarimasklarulkesi/yarimasklarulkesi-2.jpg
 meser: true
 blog: false
 dolink: true

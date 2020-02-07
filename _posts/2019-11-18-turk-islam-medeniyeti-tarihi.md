@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/turkislammedeniyeti.png
 comments: true
 meser: true
 barcode: 9786058199132
+eser-on: turkislammedeniyeti/turkislammedeniyeti-1.jpg
+eser-ic: turkislammedeniyeti/turkislammedeniyeti-2.jpg
 blog: false
 dolink: true
 ---

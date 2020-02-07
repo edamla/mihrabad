@@ -8,6 +8,8 @@ comments: true
 barcode: 9786056986505
 meser: true
 blog: false
+eser-on: zencimusa/zencimusa-1.jpg
+eser-ic: zencimusa/zencimusa-2.jpg
 dolink: true
 suggested: true
 ---

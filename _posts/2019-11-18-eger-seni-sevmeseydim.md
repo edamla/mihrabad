@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/egersenisevme.png
 comments: true
 barcode: 9786056667862
+eser-on: egersenisevmeseydim/egersenisevmeseydim-1.jpg
+eser-ic: egersenisevmeseydim/egersenisevmeseydim-2.jpg
 meser: true
 blog: false
 dolink: true

@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/serdengecti.png
 comments: true
 meser: true
 barcode: 9786056667855
+eser-on: osmanyukselserdengecti/osmanyukselserdengecti-1.jpg
+eser-ic: osmanyukselserdengecti/osmanyukselserdengecti-2.jpg
 blog: false
 dolink: true
 ---

@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/makedonyagamzesi.png
 comments: true
 barcode: 9786056725142
+eser-on: makedonyagamzesi/makedonyagamzesi-1.jpg
+eser-ic: makedonyagamzesi/makedonyagamzesi-2.jpg
 meser: true
 blog: false
 dolink: true

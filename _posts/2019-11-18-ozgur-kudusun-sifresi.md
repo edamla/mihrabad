@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/ozgurkudusunsifresi.png
 comments: true
 meser: true
 barcode: 9786058247574
+eser-on: ozgurkudusunsifresi/ozgurkudusunsifresi-1.jpg
+eser-ic: ozgurkudusunsifresi/ozgurkudusunsifresi-2.jpg
 blog: false
 carousel: true
 dolink: true

@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/nasilfatiholdu.png
 comments: true
 barcode: 9786056667824
+eser-on: nasilfatiholdu/nasilfatiholdu-1.jpg
+eser-ic: nasilfatiholdu/nasilfatiholdu-2.jpg
 meser: true
 blog: false
 dolink: true

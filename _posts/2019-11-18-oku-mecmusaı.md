@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/oku.png
 comments: true
 meser: true
 barcode: 9786058199187
+eser-on: okumecmuasi/okumecmuasi-1.jpg
+eser-ic: okumecmuasi/okumecmuasi-2.jpg
 blog: false
 dolink: true
 ---

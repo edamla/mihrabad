@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Nurettin Taşkesen, ]
 image: assets/images/md-image/eserler/endulusfatihleri.png
 comments: true
 barcode: 9786056846274
+eser-on: endulusfatihleri/endulusfatihleri-1.jpg
+eser-ic: endulusfatihleri/endulusfatihleri-2.jpg
 meser: true
 blog: false
 dolink: true

@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/osmanlidadarbeler.png
 comments: true
 meser: true
 barcode: 9786056725111
+eser-on: osmanlidadarbeler/osmanlidadarbeler-1.jpg
+eser-ic: osmanlidadarbeler/osmanlidadarbeler-2.jpg
 blog: false
 dolink: true
 ---

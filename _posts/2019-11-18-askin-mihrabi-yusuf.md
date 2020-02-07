@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/askinmihrabi.png
 comments: true
 barcode: 9786056667886
+eser-on: askinmihrabi/askinmihrabi-1.jpg
+eser-ic: askinmihrabi/askinmihrabi-2.jpg
 meser: true
 blog: false
 dolink: true

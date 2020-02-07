@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Mehmet Nuri Yardım, ]
 image: assets/images/md-image/eserler/istiklaldenistikbale.png
 comments: true
 barcode: 9786056725159
+eser-on: istiklaldenistikbale/istiklaldenistikbale-1.jpg
+eser-ic: istiklaldenistikbale/istiklaldenistikbale-2.jpg
 meser: true
 blog: false
 dolink: true

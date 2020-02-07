@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/ayipusaklari.png
 comments: true
 barcode: 9786056667893
+eser-on: ayipusaklari/ayipusaklari-1.jpg
+eser-ic: ayipusaklari/ayipusaklari-2.jpg
 meser: true
 blog: false
 dolink: true

@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Doç. Dr. Abdülhamit Avşar, ]
 image: assets/images/md-image/eserler/kafkasislam.png
 comments: true
 barcode: 9786056846243
+eser-on: kafkasislamordusu/kafkasislamordusu-1.jpg
+eser-ic: kafkasislamordusu/kafkasislamordusu-2.jpg
 meser: true
 blog: false
 dolink: true

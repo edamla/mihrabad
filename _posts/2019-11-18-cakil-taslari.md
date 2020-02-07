@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/cakiltaslari.png
 comments: true
 barcode: 9786058247512
+eser-on: cakiltaslari/cakiltaslari-1.jpg
+eser-ic: cakiltaslari/cakiltaslari-2.jpg
 meser: true
 blog: false
 dolink: true

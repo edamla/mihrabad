@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/zekadandehaya.png
 comments: true
 barcode: 9786056846212
 meser: true
+eser-on: zekadandehaya/zekadandehaya-1.jpg
+eser-ic: zekadandehaya/zekadandehaya-2.jpg
 blog: false
 dolink: true
 ---

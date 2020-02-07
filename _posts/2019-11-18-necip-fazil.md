@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/eserler/necipfazil.png
 comments: true
 barcode: 9786056846250
+eser-on: necipfazil/necipfazil-1.jpg
+eser-ic: necipfazil/necipfazil-2.jpg
 meser: true
 blog: false
 dolink: true

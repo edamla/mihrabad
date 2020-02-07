@@ -1,31 +1,76 @@
 {% assign author = site.authors[post.author] %}
-<div class="col-sm-6 col-xl-4">
-    <div class="card d-flex">
-        <div class="row">
-            <div class="col-12 wrapthumbnail text-center yazi-50">
-                <h4 class="card-title m-4"><a href="{{ post.url | absolute_url }}">
-                        <p>{{ post.title }}</p>
-                    </a></h4>
-            </div>
-            <div class="col-12 m-1">
-                <div class="card-block text-center">
-                    <a href="{{ post.url | absolute_url }}">
-                        <div class="thumbnail"><img class="img-circle resim-250"
-                                src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
-                        <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
-                    </a>
-                </div>
-            </div>
+<a href="{{ post.url | absolute_url }}">
+  <div class="col-sm-6 col-xl-4">
+    <div class="card d-flex rounded shadow">
+      <div class="row">
+        <div class="col-12 wrapthumbnail text-center yazi-50">
+          <h4 class="card-title m-4"><a href="{{ post.url | absolute_url }}">
+              <p>{{ post.title }}</p>
+            </a></h4>
         </div>
-        <div class="row col-12 text-center m-3 mt-3">
-            <a class="btn btn-outline-dark mr-1 mt-3" href="{{ site.mlink }}{{ post.barcode }}"
-                style="color: black; border-radius: 20px;" target="_blank"><i
-                    class="fas fa-shopping-cart mr-2"></i>Satın Alın</a>
-            {% if post.dolink == true %}
-            <a class="btn btn-outline-dark mt-3" href="{{ site.dolinkpage }}{{ post.barcode }}{{ site.end }}"
-                style="color: black; border-radius: 20px;" target="_blank"><i
-                    class="fas fa-book-open mr-2"></i>Sayfaları İnceleyin</a>
-            {% endif %}
+        <div class="col-12 mt-5">
+          <div class="card-block text-center">
+
+            <!-- Book !!!!!!!!!!!!!!!! -->
+
+            <figure class='book'>
+
+              <!-- Front -->
+
+              <ul class='hardcover_front'>
+                <li>
+                  <div class="coverDesign"
+                    style="background-image:url({{ site.baseurl }}/assets/images/meser-bas/{{ post.eser-on }});">
+                    {% if post.new == true %}
+                    <span class="ribbon">NEW</span>
+                    {% endif %}
+                  </div>
+                </li>
+                <li></li>
+              </ul>
+
+              <!-- Pages -->
+
+              <ul class='page'>
+                <li><img src="{{ site.baseurl }}/assets/images/meser-bas/1.jpg" alt="{{ post.title }}" style="max-width: 155px;"></li>
+                <li><img src="{{ site.baseurl }}/assets/images/meser-bas/2.jpg" alt="{{ post.title }}" style="max-width: 155px;"></li> <!-- Burada -->
+                <li><img src="{{ site.baseurl }}/assets/images/meser-bas/3.jpg" alt="{{ post.title }}" style="max-width: 155px;"></li>
+                <li><img src="{{ site.baseurl }}/assets/images/meser-bas/4.jpg" alt="{{ post.title }}" style="max-width: 155px;"></li>
+                <li><img src="{{ site.baseurl }}/assets/images/meser-bas/5.jpg" alt="{{ post.title }}" style="max-width: 155px;"></li>
+              </ul>
+
+              <!-- Back -->
+
+              <ul class='hardcover_back'>
+                <li></li>
+                <li></li>
+              </ul>
+              <ul class='book_spine'>
+                <li></li>
+                <li></li>
+              </ul>
+            </figure>
+
+            <!-- Book -->
+
+          </div>
         </div>
+      </div>
+      <div class="row col-12 text-center mb-3 mt-3">
+        <div class="col-5">
+          <a class="btn btn-outline-dark mr-1 mt-3" href="{{ site.mlink }}{{ post.barcode }}"
+            style="color: black; border-radius: 20px;" target="_blank"><i class="fas fa-shopping-cart mr-2"></i>Satın
+            Alın</a>
+        </div>
+        <div class="col-6">
+          {% if post.dolink == true %}
+          <a id="bookbutton" class="bk-bookview btn btn-outline-dark mt-3"
+            href="{{ site.dolinkpage }}{{ post.barcode }}{{ site.end }}" style="color: black; border-radius: 20px;"
+            target="_blank">
+            <i class="fas fa-book-open mr-2"></i>Sayfaları İnceleyin</a>
+          {% endif %}
+        </div>
+      </div>
     </div>
-</div>
+  </div>
+</a>

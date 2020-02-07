@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/okumayisevdirme.png
 comments: true
 meser: true
 barcode: 9786058247581
+eser-on: okumayisevdirmeprojesi/okumayisevdirmeprojesi-1.jpg
+eser-ic: okumayisevdirmeprojesi/okumayisevdirmeprojesi-2.jpg
 blog: false
 dolink: true
 ---

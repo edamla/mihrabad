@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/nisabulmevlevi.png
 comments: true
 meser: true
 barcode: 9786056725166
+eser-on: nisabulmevlevi/nisabulmevlevi-1.jpg
+eser-ic: nisabulmevlevi/nisabulmevlevi-2.jpg
 blog: false
 carousel: true
 dolink: true

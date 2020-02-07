@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Hasan Basri Bilgin, ]
 image: assets/images/md-image/eserler/yasamakodevyasatmakibadet.png
 comments: true
 barcode: 9786056846236
+eser-on: yasamakodev/yasamakodev-1.jpg
+eser-ic: yasamakodev/yasamakodev-2.jpg
 meser: true
 blog: false
 dolink: true

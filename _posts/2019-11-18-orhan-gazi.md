@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/orhangazi.png
 comments: true
 meser: true
 barcode: 9786056667817
+eser-on: orhangazi/orhangazi-1.jpg
+eser-ic: orhangazi/orhangazi-2.jpg
 blog: false
 dolink: true
 ---

@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Üstün İnanç, ]
 image: assets/images/md-image/eserler/birkimliklutlen.png
 comments: true
 barcode: 9786058301924
+eser-on: birkimliklutfen/birkimliklutfen-1.jpg
+eser-ic: birkimliklutfen/birkimliklutfen-2.jpg
 meser: true
 blog: false
 dolink: true

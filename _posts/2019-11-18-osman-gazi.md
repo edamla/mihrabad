@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/osmangazi.png
 comments: true
 meser: true
 barcode: 9786056667800
+eser-on: osmangazi/osmangazi-1.jpg
+eser-ic: osmangazi/osmangazi-2.jpg
 blog: false
 dolink: true
 ---

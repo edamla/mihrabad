@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Zafer Bilgi, ]
 image: assets/images/md-image/eserler/kutulamare.png
 comments: true
 barcode: 9786058199101
+eser-on: kutulamare/kutulamare-1.jpg
+eser-ic: kutulamare/kutulamare-2.jpg
 meser: true
 blog: false
 dolink: true

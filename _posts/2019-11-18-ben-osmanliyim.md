@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Murat Başaran, ]
 image: assets/images/md-image/eserler/benosmanliyim.png
 comments: true
 barcode: 9786058301993
+eser-on: benosmanliyim/benosmanliyim-1.jpg
+eser-ic: benosmanliyim/benosmanliyim-2.jpg
 meser: true
 blog: false
 dolink: true

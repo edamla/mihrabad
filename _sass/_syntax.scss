@@ -75,11 +75,15 @@
 	cursor: context-menu;
 }
 
+.site-content{
+	margin-top: 57px !important;
+}
+
 @media (min-width:992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
-    }
+	}
 }
 
 .section-title{
@@ -109,5 +113,8 @@
     }
     .logo .desktop {
       display: none;
-    }
+	}
+	.site-content{
+		margin-top: 20px !important;
+	}
   }

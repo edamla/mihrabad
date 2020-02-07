@@ -7,6 +7,8 @@ image: assets/images/md-image/eserler/yildirimbeyazid.png
 comments: true
 meser: true
 barcode: 9786058301955
+eser-on: yildirimbeyazid/yildirimbeyazid-1.jpg
+eser-ic: yildirimbeyazid/yildirimbeyazid-2.jpg
 blog: false
 dolink: true
 ---

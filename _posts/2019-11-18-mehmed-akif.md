@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Süleyman Nazif, ]
 image: assets/images/md-image/eserler/mehmedakif.png
 comments: true
 barcode: 9786058301979
+eser-on: mehmetakifersoy/mehmetakifersoy-1.jpg
+eser-ic: mehmetakifersoy/mehmetakifersoy-2.jpg
 meser: true
 blog: false
 dolink: true

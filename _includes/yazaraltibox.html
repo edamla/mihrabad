@@ -1,6 +1,6 @@
 {% assign author = site.authors[post.author] %}
 <div class="col-sm-6 col-xl-4">
-    <div class="card d-flex">
+    <div class="card d-flex rounded shadow">
         <div class="row text">
             <div class="col-12 wrapthumbnail text-center yazi-50">
                 <h4 class="card-title m-4"><a href="{{ post.url | absolute_url }}">
@@ -9,11 +9,50 @@
             </div>
             <div class="col-12 m-1">
                 <div class="card-block text-center">
-                    <a href="{{ post.url | absolute_url }}">
-                        <div class="thumbnail"><img class="img-circle resim-250"
-                                src="{{ site.baseurl }}/{{ post.image }}" alt=""></div>
-                        <!-- style="background-image:url({{ site.baseurl }}/{{ post.image }});"  -->
-                    </a>
+                    <!-- Book !!!!!!!!!!!!!!!! -->
+
+                    <figure class='book'>
+
+                        <!-- Front -->
+
+                        <ul class='hardcover_front'>
+                            <li>
+                                <div class="coverDesign"
+                                    style="background-image:url({{ site.baseurl }}/assets/images/meser-bas/{{ post.eser-on }});">
+                                    {% if post.new == true %}
+                                    <span class="ribbon">NEW</span>
+                                    {% endif %}
+                                </div>
+                            </li>
+                            <li></li>
+                        </ul>
+
+                        <!-- Pages -->
+
+                        <ul class='page'>
+                            <li></li>
+                            <li><a href="{{ site.dolinkpage }}{{ post.barcode }}{{ site.end }}"><img
+                                        src="{{ site.baseurl }}/assets/images/meser-bas/{{ post.eser-ic }}"
+                                        alt="{{ post.title }}"></a></li> <!-- Burada -->
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+
+                        <!-- Back -->
+
+                        <ul class='hardcover_back'>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                        <ul class='book_spine'>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </figure>
+
+                    <!-- Book -->
+                    
                 </div>
             </div>
         </div>

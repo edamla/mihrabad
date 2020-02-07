@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Prof. Dr. Mehmet Demirci, ]
 image: assets/images/md-image/eserler/sorularlatasavvufvetarikatlar.png
 comments: true
 barcode: 9786056725173
+eser-on: tasavvufvetarikatler/tasavvufvetarikatler-1.jpg
+eser-ic: tasavvufvetarikatler/tasavvufvetarikatler-2.jpg
 meser: true
 blog: false
 dolink: true

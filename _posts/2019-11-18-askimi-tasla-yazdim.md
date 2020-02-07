@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Muhsin İlyas Subaşı, ]
 image: assets/images/md-image/eserler/askimi.png
 comments: true
 barcode: 9786058247567
+eser-on: askimitaslayazdim/askimitaslayazdim-1.jpg
+eser-ic: askimitaslayazdim/askimitaslayazdim-2.jpg
 meser: true
 blog: false
 dolink: true

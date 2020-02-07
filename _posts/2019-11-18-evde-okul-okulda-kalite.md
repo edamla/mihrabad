@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Ahmet Maraşlı, ]
 image: assets/images/md-image/eserler/evdeokul.png
 comments: true
 barcode: 9786058247598
+eser-on: evdeokulokuldakalite/evdeokulokuldakalite-1.jpg
+eser-ic: evdeokulokuldakalite/evdeokulokuldakalite-2.jpg
 meser: true
 blog: false
 dolink: true

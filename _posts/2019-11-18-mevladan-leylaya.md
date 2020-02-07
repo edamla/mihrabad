@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, İsmail Bilgin, ]
 image: assets/images/md-image/eserler/mevladanleylaya.png
 comments: true
 barcode: 9786056725197
+eser-on: leyladanmevlaya/leyladanmevlaya-1.jpg
+eser-ic: leyladanmevlaya/leyladanmevlaya-2.jpg
 meser: true
 blog: false
 dolink: true

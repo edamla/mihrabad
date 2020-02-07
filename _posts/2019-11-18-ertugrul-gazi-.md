@@ -6,6 +6,8 @@ categories: [ Mihrabad Yayınları, Talip Arışahin, ]
 image: assets/images/md-image/eserler/ertugrulgazi.png
 comments: true
 barcode: 9786058301986
+eser-on: ertugrulgazi/ertugrulgazi-1.jpg
+eser-ic: ertugrulgazi/ertugrulgazi-2.jpg
 meser: true
 blog: false
 dolink: true

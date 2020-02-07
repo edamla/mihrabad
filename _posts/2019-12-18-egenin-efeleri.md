@@ -10,6 +10,8 @@ meser: true
 blog: false
 dolink: true
 suggested: true
+eser-on: egeninefeleri/egeninefeleri-1.jpg
+eser-ic: egeninefeleri/egeninefeleri-2.jpg
 ---
 
 “Ben, Adnan Menderes!...
