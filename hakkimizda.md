@@ -16,6 +16,4 @@ Eskilerin unutulmayan güzel sözleri vardır. Ve bu sözler mazide kitapların 
 
 “Gayret bizden, tevfik Allah’tan…”
 
-Mehmet Nuri Yardım
-
-Yayın Yönetmeni
+MİHRABAD YAYINLARI
