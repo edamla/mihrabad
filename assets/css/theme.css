@@ -864,3 +864,25 @@ iframe {
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
     
 }
+
+
+/* TİLHAN EK CSS */
+
+.yazar-card{
+    height: 20vh !important;
+}
+
+.thumbnail{
+    height: 20vh !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.yazaralti-box{
+    height: 40vh !important;
+}
+
+.eseralti-box{
+    height: 35vh;
+}

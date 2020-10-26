@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ege’nin Efeleri Kahraman Milletimizi Anlatıyor"
-categories: [ Mihrabad Yayınları, Ege'nin Efeleri, ]
+categories: [ Mihrabad Yayınları, Ege'nin Efeleri, Gürbüz Atak,]
 image: assets/images/md-image/egenin-efelerini-anlatti/egenin-efeleri.jpg
 comments: true
 blog: true
@@ -31,3 +31,13 @@ Ressam ve yazar Muammer Erkul ise Ege’nin Efeleri kitabının yazarı Gürbüz
 Dinleyiciler arasında bulunan kültür tarihçisi Dursun Gürlek, “Gürbüz Azak tam bir Osmanlı ve İstanbul beyefendisidir.” derken Murat Başaran ise “Yanındaki kişilerde hem samimiyet, hem hürmet oluşturan farklı bir kişiliği var.” şeklinde konuştu. Zeki Yılmaz Gürbüz Azak’ın büyük bir sanatçı ve sanatçı dostu olduğunu
 
 kaydederken Muhsin Karabay da Gürbüz Azak’ın Türkçeye ve kültürümüze büyük hizmetleri olduğunu vurguladı. Tarihçi yazar Nurettin Taşkesen, yapımcı ve yönetmen Mustafa Nadir Önay ile ressam ve yazar Muammer Er kul konuşmalarındansonra dinleyicilerin sorularına cevap verdiler. Gürbüz Azak, kardeşinin ağır hastalığı dolayısıyla toplantıda bulunamadı. Program, konuşmacıların ve dinleyicilerin toplu fotoğraf çektirmelerinin ardından sona erdi.
+
+{% for post in site.posts %}
+
+    {% if post.title == 'Gürbüz Atak' %}
+
+        {% include eseraltibox.html %}
+
+    {% endif %}
+
+{% endfor %}
