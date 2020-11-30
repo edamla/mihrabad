@@ -11,7 +11,7 @@ blog: false
 eser-on: zencimusa/zencimusa-1.jpg
 eser-ic: zencimusa/zencimusa-2.jpg
 dolink: true
-suggested: true
+suggested: false
 ---
 
 “Eşref Bey’in emir eri Zenci Musa

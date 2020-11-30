@@ -7,8 +7,7 @@ image: assets/images/md-image/eserler/yalnizdegilsin.png
 comments: true
 meser: true
 barcode: 9786056667831
-eser-on: yalnızdegilsiniz/yalnızdegilsiniz-1.jpg
-eser-ic: yalnızdegilsiniz/yalnızdegilsiniz-2.jpg
+eser-on: yalnizdegilsiniz/yalnizdegilsiniz-1.jpg
 blog: false
 dolink: true
 ---

@@ -9,7 +9,7 @@ barcode: 9786056846281
 eser-on: omerbinabdulaziz/omerbinabdulaziz-1.jpg
 eser-ic: omerbinabdulaziz/omerbinabdulaziz-2.jpg
 meser: true
-suggested: true
+suggested: false
 blog: false
 dolink: true
 ---

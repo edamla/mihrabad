@@ -11,7 +11,7 @@ meserimglink: asseets/images/meser-bas/
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: ''
 email: 'iletisim@damlayayinevi.com.tr'
 google_analytics: 'UA-53710816-10'
 disqus: 'mihrabadyayinlari'
