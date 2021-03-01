@@ -20,8 +20,8 @@ musics: [ [Yasin Suresi , "25:36" , 48-hafiz-mehmet-ali-sari/1],
             [Zümrr Saba Aşır , "02:35" , 48-hafiz-mehmet-ali-sari/14]]
 
 # pdfs : [[name, filename]]
-pdf: false
-pdfs: []
+pdf: true
+pdfs: [ ["Hafiz Mehmet AliSarı" , 2-hafiz-ali-uskudarli/1] ,["DENEME" , 2-hafiz-ali-uskudarli/1] ]
 image: assets/images/md-image/sahsiyetler/hafiz-mehmet-ali-sari.jpg
 sahsiyetler: true
 bookname: "KUR’AN TİLÂVETİ VE TÜRK TAVRI"
