@@ -1,0 +1,64 @@
+{% assign author = site.authors[post.author] %}
+<div class="col-sm-6"style="margin-left: auto; margin-right: auto;">
+    <div class="card yazaralti-box d-flex rounded shadow">
+        <div class="row text">
+            <div class="col-12 wrapthumbnail text-center yazi-50">
+                <h4 class="card-title m-4">
+                    <a href="{{ site.baseurl }}/kuran-tilaveti-turk-tavri/">
+                        <p>{{ page.bookname }}</p>
+                    </a></h4>
+            </div>
+            <div class="col-12 m-1">
+                <div class="card-block text-center">
+                    <!-- Book !!!!!!!!!!!!!!!! -->
+
+                    <figure class='book'>
+
+                        <!-- Front -->
+
+                        <ul class='hardcover_front'>
+                            <li>
+                                <div class="coverDesign"
+                                    style="background-image:url({{ site.baseurl }}/assets/images/meser-bas/{{ page.book-image }});">
+                                    {% if post.new == true %}
+                                    <span class="ribbon">NEW</span>
+                                    {% endif %}
+                                </div>
+                            </li>
+                            <li></li>
+                        </ul>
+
+                        <!-- Pages -->
+
+                        <ul class='page'>
+                            <li><img src="{{ site.baseurl }}/assets/images/meser-bas/1.jpg" alt="{{ post.title }}"
+                                    style="max-width: 155px;"></li>
+                            <li><img src="{{ site.baseurl }}/assets/images/meser-bas/2.jpg" alt="{{ post.title }}"
+                                    style="max-width: 155px;"></li> <!-- Burada -->
+                            <li><img src="{{ site.baseurl }}/assets/images/meser-bas/3.jpg" alt="{{ post.title }}"
+                                    style="max-width: 155px;"></li>
+                            <li><img src="{{ site.baseurl }}/assets/images/meser-bas/4.jpg" alt="{{ post.title }}"
+                                    style="max-width: 155px;"></li>
+                            <li><img src="{{ site.baseurl }}/assets/images/meser-bas/5.jpg" alt="{{ post.title }}"
+                                    style="max-width: 155px;"></li>
+                        </ul>
+
+                        <!-- Back -->
+
+                        <ul class='hardcover_back'>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                        <ul class='book_spine'>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </figure>
+
+                    <!-- Book -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

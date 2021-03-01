@@ -23,6 +23,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/favicon/favicon-16x16.png">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.min.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/book.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/music.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/js/swiper.min.js"></script>
 
 {% seo %}
@@ -35,6 +36,8 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<link rel='stylesheet prefetch' href='https://cdn.plyr.io/2.0.13/plyr.css'>
+
     
     
 {% if jekyll.environment == 'production' %}    
@@ -48,6 +51,7 @@
   ga('send', 'pageview');
 </script>
 {% endif %}  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
     
 
     
@@ -89,6 +93,10 @@
 
               <li class="nav-item">
                 <h5><a class="nav-link" href="{{ site.baseurl }}/eserler" style="color: whitesmoke;">Eserler</a></h5>
+              </li>
+
+              <li class="nav-item">
+                <h5><a class="nav-link" href="{{ site.baseurl }}/sahsiyetler" style="color: whitesmoke;">Şahsiyetler</a></h5>
               </li>
 
             <li class="nav-item">
@@ -190,6 +198,14 @@
                 </a>
             </div>
             <!-- Grid column -->
+            
+            <!-- Grid column -->
+            <div class="mb-3"> 
+                <a href="{{ site.baseurl }}/sahsiyetler">
+                    <h6 class=" font-weight" style="color: white;">Şahsiyetler</h6>
+                </a>
+            </div>
+            <!-- Grid column -->
         
             <!-- Grid column -->
               <div class="mb-3"> 
@@ -228,7 +244,7 @@
     
     <!-- Copyright -->
     <div class="footer-copyright text-center" style="color: white;">
-        © Damla Yayınevi 2019, Tüm Hakları Mahfuzdur.
+        © Damla Yayınevi 2021, Tüm Hakları Mahfuzdur.
     </div>
      <!-- Copyright -->
 </footer>
@@ -260,6 +276,9 @@
 <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/html5media/1.1.8/html5media.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/plyr/2.0.18/plyr.js'></script>
+<script src="{{ site.baseurl }}/assets/js/musics.js"></script>
     
 </body>
     

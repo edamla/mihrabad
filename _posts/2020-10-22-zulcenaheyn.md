@@ -9,7 +9,7 @@ barcode: 9786056986529
 meser: true
 blog: false
 dolink: false
-suggested: true
+suggested: false
 eser-on: zulcenaheyn/zulcenaheyn.png
 ---
 

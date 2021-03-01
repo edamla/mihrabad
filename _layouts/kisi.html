@@ -1,0 +1,183 @@
+---
+layout: default
+disqus: true
+comment: true
+archive: false
+post_class: post-template
+---
+
+<!-- Begin Article
+================================================== -->
+
+<div class="row mt-3">
+
+    <div class="col-12">
+        <!-- Post -->
+        {% assign author = site.authors[page.author] %}
+
+
+        <div class="text-center">
+            <div class="mainheading">
+
+                <!-- Post Title -->
+                <h1 class="posttitle">{{ page.title }}</h1>
+
+            </div>
+            <div class="text-center">
+                <!-- Post Featured Image -->
+                {% if page.image %}<img class="featured-image resim-250" src="{{ site.baseurl }}/{{ page.image }}"
+                    alt="{{ page.title }}">{% endif %}
+                <!-- End Featured Image -->
+            </div>
+        </div>
+        <!-- Post Content -->
+
+    </div>
+    <!-- End Post -->
+</div>
+
+{% if page.music == true %}
+
+
+<div class="container audio-container">
+    <div class="column add-bottom">
+        <div id="mainwrap">
+            <div id="div_main">
+                <div id="nowPlay">
+                    <span class="left" id="npAction">Duraklatıldı...</span>
+                    <span class="right" id="npTitle"></span>
+                </div>
+                <div id="audiowrap">
+                    <div id="audio0">
+                        <audio preload id="audio1" controls="controls">Tarayıcınız Ses Dosyalarını Açamıyor!</audio>
+                    </div>
+                    <div id="tracks">
+                        <a id="btnPrev">&larr;</a>
+                        <a id="btnNext">&rarr;</a>
+                    </div>
+                </div>
+
+            </div>
+            <div id="plwrap" class="content">
+                <ul id="plList"></ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- End Article
+================================================== -->
+{% endif %}
+
+
+{% if page.pdf == true %}
+
+
+<div class="container pdf-container">
+    <div class="row mt-3 mb-3">
+        <div class="col-12">
+            <h3>PDFLER</h3>
+        </div>
+    </div>
+    <div id="pdfRow" class="row pb-4 text-center pdf-row">
+
+
+    </div>
+</div>
+
+{% endif %}
+
+
+<script>
+    function getPdfs() {
+        var content = "";
+        for (var a = 0; a < pdfs.length; a++) {
+        var pdfName = pdfs[a].name;
+        var pdfFileName = pdfs[a].file;
+        var filePath = "../assets/pdfs/";
+        var fileExtension = ".pdf";
+
+         var addPdf = `
+         <div class='col-6 col-md-4 text-center p-3 pdf-box' style='background-color: rgb(221, 221, 221);margin-left: auto; margin-right: auto;'>
+             <p style='display: flex;'>
+                <i class='far fa-file-pdf pr-3' style='font-size: xx-large;'></i><br>
+                 <a class='pdfTitle' target="_blank" href='${filePath}${pdfFileName}${fileExtension}'>${pdfName}</a>
+             </p>
+         </div>` 
+
+        var content = content + addPdf;
+        document.getElementById("pdfRow").innerHTML = content;
+        console.log(addPdf);
+        }       
+    }
+ 
+    
+    var playlist = [
+    {% for music in page.musics %}
+
+        {
+        "track": {{ forloop.index }},
+        "name":  "{{ music[0] }}",
+        "duration": "{{ music[1] }}",
+        "file": "{{ music[2] }}"
+        },
+
+    {% endfor %}
+
+    ]
+
+    var pdfs = [
+    {% for pdf in page.pdfs %}
+
+        {
+        "index": {{ forloop.index }},
+        "name":  "{{ pdf[0] }}",
+        "file": "{{ pdf[1] }}"
+        },
+
+    {% endfor %}
+
+    ]
+    getPdfs();
+</script>
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="article-post" style="text-align: justify;">
+                {{content}}
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+    <div class="row">
+
+                {% include sahsiyet-alti.html %}     
+
+    </div>
+</div>
+
+
+<!-- Prev/Next -->
+<div class="row PageNavigation mt-4 prevnextlinks">
+    {% if page.previous.url %}
+    <div class="col-md-6 rightborder pl-0">
+        <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo;
+            {{page.previous.title}}</a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="col-md-6 text-right pr-0">
+        <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
+    </div>
+    {% endif %}
+</div>
+<!-- End Prev/Next -->

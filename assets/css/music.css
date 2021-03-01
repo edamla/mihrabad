@@ -1,0 +1,102 @@
+.audio-container {
+    background-color: #c7c7c7;
+    padding: 5vh;
+    margin-bottom: 1vh;
+    border-radius: 1vh;
+}
+
+.plItem {
+    display: flex;
+    font-size: x-large;
+    padding: 1.5vh;
+    color: #013b38;
+}
+
+.plTitle {
+    margin-left: 2vh;
+}
+
+.plLength {
+    margin-left: auto;
+}
+
+#plList li:hover {
+    background-color: rgba(0, 0, 0, .1);
+}
+
+
+
+.plSel,
+.plSel:hover {
+    background-color: rgba(0, 0, 0, .1);
+    color: #fff;
+    cursor: default !important;
+    /* padding: 1.5vh; */
+}
+
+#tracks a {
+    border-radius: 3px;
+    color: #013b38;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 2.3rem;
+    height: 40px;
+    line-height: .2;
+    margin: 0 5px 30px;
+    padding: 12px;
+    text-decoration: none;
+    transition: background .3s ease;
+}
+
+#tracks a:hover,
+#tracks a:active {
+    background-color: rgba(0, 0, 0, .1);
+    color: #fff;
+}
+
+.plyr--audio .plyr__controls {
+    background: rgba(255, 255, 255, 0) !important;
+    border: 0px !important;
+}
+
+#nowPlay {
+    display: flex;
+    font-size: x-large;
+    margin: 2vh;
+    color: #013b38;
+}
+
+.right {
+    margin-left: auto;
+}
+
+@media(max-width:991px) {
+    #nowPlay {
+        font-size: medium;
+    }
+
+    .plItem {
+        font-size: medium;
+    }
+}
+
+
+.pdf-box{
+    transform: scale(0.8);
+    transition: 0.7s;
+}
+.pdf-box:hover{
+    transform: scale(1);
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+.pdfTitle {
+    text-decoration: none;
+    color: black;
+}
+
+.pdfTitle:hover {
+    text-decoration: none !important;
+    color: black !important;
+}

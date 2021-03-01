@@ -2,10 +2,12 @@
 layout: post
 title:  "Zafer Bilgi"
 categories: [ Mihrabad Yayınları, ]
+musics: [ a,b ]
 image: assets/images/md-image/yazarlar/zbilgi.jpg
 comments: true
 myazar: true
 blog: false
+denemeas: true
 ---
 
 Uzman tarihçi, yazar Zafer Bilgi, 1981 yılında Hatay-İskenderun’da doğdu. Yazarımız, 2003 yılında, İstanbul Üniversitesi, Edebiyat Fakültesi, Tarih bölümünden mezun oldu. Lisans eğitimini, “Osmanlı Devleti’nin 17. Yüzyıldaki Layihaları” adlı tez ile tamamladı. Aynı yıl, İstanbul Üniversitesi, Sosyal Bilimler Enstitüsü, Yüksek Lisans programına başladı. 2004 yılında, Yüksek lisans programından, “T.C.’nin Kurulduğu Yıllarda Ekonomi Alanında Yapılan Atılımlar” tezi ile mezun oldu.
