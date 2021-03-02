@@ -1194,7 +1194,7 @@ iframe {
     height: 20vh !important;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .yazaralti-box {
