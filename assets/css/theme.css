@@ -1194,11 +1194,11 @@ iframe {
     height: 20vh !important;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 .yazaralti-box {
-    height: 40vh !important;
+    height: 50vh !important;
 }
 
 .eseralti-box {
@@ -1217,4 +1217,13 @@ iframe {
 .yazi-50 h4 a:hover{
     color:  black !important;
     text-decoration: none !important;
+}
+.navbar {
+    z-index: 999999999 !important;
+}
+
+@media (max-width: 991px) {
+    .yazaralti-box {
+        height: 60vh !important;
+    }
 }
