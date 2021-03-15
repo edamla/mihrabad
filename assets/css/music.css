@@ -14,6 +14,7 @@
 
 .plTitle {
     margin-left: 2vh;
+    text-transform: capitalize !important;
 }
 
 .plLength {
