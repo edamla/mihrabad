@@ -4,7 +4,7 @@ permalink: "/h-huseyi-kucuk/"
 title:  "Hafız Hüseyin Küçük"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Küçük Beled ve Kadr Suresi , "06:48" , 37-h-huseyi-kucuk/1]]
+musics: [  [Beled suresi 8-20. ayetler – Şems suresi – Kadr suresi  , "06:48" , 37-h-huseyi-kucuk/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

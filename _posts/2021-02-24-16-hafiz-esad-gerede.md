@@ -4,9 +4,9 @@ permalink: "/hafiz-esad-gerede/"
 title:  "Hafız Esat Gerede"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Tevbe Suresi , "09:26" , 16-hafiz-esad-gerede/1],
-            [Hac Suresi , "09:46" , 16-hafiz-esad-gerede/2],
-            [Hac Suresi 2 , "05:13" , 16-hafiz-esad-gerede/3]]
+musics: [  [Tevbe suresi  119-169. ayetler , "09:26" , 16-hafiz-esad-gerede/1],
+            [Hac suresi 49-64. ayetler, "09:46" , 16-hafiz-esad-gerede/2],
+            [Hac Suresi 65-72. Ayetler, "05:13" , 16-hafiz-esad-gerede/3]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

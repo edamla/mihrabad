@@ -4,7 +4,7 @@ permalink: "/hafiz-abbas-nazas/"
 title:  "Hafız Abbas Nazaş"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Hafız Abbas Nazaş , "00:41" , 35-hafiz-abbas-nazas/1]]
+musics: [  [Fatiha suresi , "00:41" , 35-hafiz-abbas-nazas/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

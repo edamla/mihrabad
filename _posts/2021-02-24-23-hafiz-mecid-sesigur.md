@@ -4,13 +4,13 @@ permalink: "/hafiz-mecid-sesigur/"
 title:  "Hafız Mecit Sesigür "
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Azhab Suresi , "02:48" , 23-hafiz-mecid-sesigur/1],
-            [Vakıa Suresi , "03:36" , 23-hafiz-mecid-sesigur/2],
-            [Nur Bahri - Kerbela Mersiyesi , "08:54" , 23-hafiz-mecid-sesigur/3],
-            [Veladet Bahri , "12:58" , 23-hafiz-mecid-sesigur/4],
-            [Miraç Bahri , "14:42" , 23-hafiz-mecid-sesigur/5],
-            [Miraç Bahri 2 , "10:08" , 23-hafiz-mecid-sesigur/6],
-            [Mecit Sesigür , "08:21" , 23-hafiz-mecid-sesigur/7]]
+musics: [  [Ahzab suresi 69-73. ayetler , "02:48" , 23-hafiz-mecid-sesigur/1],
+            [Vâkıa suresi  75-96. Ayetler, "03:36" , 23-hafiz-mecid-sesigur/2],
+            [Nur Bahri – Kerbela mersiyesi , "08:54" , 23-hafiz-mecid-sesigur/3],
+            [Veladet Bahri – Dua , "12:58" , 23-hafiz-mecid-sesigur/4],
+            [Miraç Bahri, "14:42" , 23-hafiz-mecid-sesigur/5],
+            [Kaside - Kutlu Doğumsalat-selam, "10:08" , 23-hafiz-mecid-sesigur/6],
+            [Kasideler , "08:21" , 23-hafiz-mecid-sesigur/7]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

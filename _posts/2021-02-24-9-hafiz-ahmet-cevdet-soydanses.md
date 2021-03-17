@@ -4,8 +4,8 @@ permalink: "/hafiz-ahmet-cevdet-soydanses/"
 title:  "Hafız Ahmet Cevdet Soydanses"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Enbiya Suresi , "04:12" , 9-hafiz-ahmet-cevdet-soydanses/1],
-            [Azhab Suresi , "03:03" , 9-hafiz-ahmet-cevdet-soydanses/2]]
+musics: [  [Enbiya Suresi 42-50. ayetler , "04:12" , 9-hafiz-ahmet-cevdet-soydanses/1],
+            [Azhab Suresi 33-35. ayetler , "03:03" , 9-hafiz-ahmet-cevdet-soydanses/2]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

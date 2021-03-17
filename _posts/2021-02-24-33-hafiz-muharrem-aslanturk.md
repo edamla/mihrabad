@@ -4,7 +4,7 @@ permalink: "/hafiz-muharrem-aslanturk/"
 title:  "Muharrem Arslantürk"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Muharrem Arslantürk , "05:46" , 33-hafiz-muharrem-aslanturk/1]]
+musics: [  [Haşr  suresi  18-24. ayetler , "05:46" , 33-hafiz-muharrem-aslanturk/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

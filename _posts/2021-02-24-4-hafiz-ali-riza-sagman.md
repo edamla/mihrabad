@@ -4,9 +4,9 @@ permalink: "/hafiz-ali-riza-sagman/"
 title:  "Hafız Ali Rıza Sağman"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Kaside , "02:03" , 4-hafiz-ali-riza-sagman/1],
-            [Kur'an hakkında ve kıyame suresi , "10:38" , 4-hafiz-ali-riza-sagman/1],
-            [Alirıza Sağman , "08:03" , 4-hafiz-ali-riza-sagman/1]]
+musics: [   [Tilâvet konuşması ve Kıyâme suresi tamamı , "10:38" , 4-hafiz-ali-riza-sagman/2],
+            [Kaside , "02:03" , 4-hafiz-ali-riza-sagman/1],
+            [Ali Rıza Sağman , "08:03" , 4-hafiz-ali-riza-sagman/3]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

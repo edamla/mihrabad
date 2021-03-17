@@ -4,8 +4,8 @@ permalink: "/ismail-doruk/"
 title:  "İsmail Doruk (Bülbül)"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Veladet Bahri ve Dua , "08:55" , 46-ismail-doruk/1],
-            [Nalkesen İsmail Doruk Kaside , "08:55" , 46-ismail-doruk/2]]
+musics: [  [Veladet Bahri(mevlit) ve dua , "08:55" , 46-ismail-doruk/1],
+            [Bestekâr Yusuf Nalkesen Konuşma İsmail Doruk (Bülbül) Kaside , "08:55" , 46-ismail-doruk/2]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

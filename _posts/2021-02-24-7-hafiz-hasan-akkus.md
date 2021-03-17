@@ -4,9 +4,9 @@ permalink: "/hafiz-hasan-akkus/"
 title:  "Hafız Hasan Akkuş"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Akkış Aşır , "06:57" , 7-hafiz-hasan-akkus/1],
-            [Hasr Suresi , "02:38" , 7-hafiz-hasan-akkus/1],
-            [Kıyamet Suresi , "08:58" , 7-hafiz-hasan-akkus/1]]
+musics: [  [Al-i İmran s. 144 – 150. ayetler , "06:57" , 7-hafiz-hasan-akkus/1],
+            [Haşr  suresi  22-24. ayetler  , "02:38" , 7-hafiz-hasan-akkus/2],
+            [Kıyâme  suresi , "08:58" , 7-hafiz-hasan-akkus/3]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

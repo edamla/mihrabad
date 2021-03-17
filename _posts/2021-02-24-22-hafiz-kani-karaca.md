@@ -4,10 +4,10 @@ permalink: "/hafiz-kani-karaca/"
 title:  "Hafız Kâni Karaca"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Furkan Suresi , "05:19" , 22-hafiz-kani-karaca/1],
-            [Kadr Suresi , "01:10" , 22-hafiz-kani-karaca/2],
-            [Furkan Veladet Bahri , "09:12" , 22-hafiz-kani-karaca/3],
-            [Kaside , "05:48" , 22-hafiz-kani-karaca/4]]
+musics: [  [Furkan suresi  21-32. ayetler , "05:19" , 22-hafiz-kani-karaca/1],
+            [Kadr suresi , "01:10" , 22-hafiz-kani-karaca/2],
+            [Veladet Bahri (Mevlit) , "09:12" , 22-hafiz-kani-karaca/3],
+            [Kaside-Müacat Bahri , "05:48" , 22-hafiz-kani-karaca/4]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

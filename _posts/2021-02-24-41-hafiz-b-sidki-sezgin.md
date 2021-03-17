@@ -4,8 +4,8 @@ permalink: "/hafiz-b-sidki-sezgin/"
 title:  "Bekir Sıdkı Sezgin"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Bakara Suresi 249 - 252 , "06:01" , 41-hafiz-b-sidki-sezgin/1],
-            [Âli İmran Suresi 189 - 194 , "06:49" , 41-hafiz-b-sidki-sezgin/2]]
+musics: [  [Bakara s. 249-252. Ayetler , "06:01" , 41-hafiz-b-sidki-sezgin/1],
+            [Âl-İmran s. 189-194. Ayetler , "06:49" , 41-hafiz-b-sidki-sezgin/2]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

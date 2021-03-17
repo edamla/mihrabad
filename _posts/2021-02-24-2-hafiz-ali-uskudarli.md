@@ -4,10 +4,10 @@ permalink: "/hafiz-ali-uskudarli/"
 title:  "Hafız Ali Üsküdarlı"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [en-Nisa S. 1.5 sayfa , "08:54" , 2-hafiz-ali-uskudarli/1],
-            [el-En'am suresi 80-88. ayetler , "06:34" , 2-hafiz-ali-uskudarli/2],
-            [Aşır Üç Buçuk Sayfa , "15:03" , 2-hafiz-ali-uskudarli/3],
-            [Yusuf suresi Takribli Aşır , "07:09" , 2-hafiz-ali-uskudarli/4]]
+musics: [  [Nisa’ suresi  1-10. ayetler , "08:54" , 2-hafiz-ali-uskudarli/1],
+            [En’am suresi  80-89. ayetler , "06:34" , 2-hafiz-ali-uskudarli/2],
+            [Mâide suresi 94-109. ayetler , "15:03" , 2-hafiz-ali-uskudarli/3],
+            [Yusuf suresi 70. Ayet , "07:09" , 2-hafiz-ali-uskudarli/4]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

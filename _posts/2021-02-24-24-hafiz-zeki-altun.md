@@ -4,9 +4,9 @@ permalink: "/hafiz-zeki-altun/"
 title:  "Hafız Zeki Altun"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Kasa Suresi , "10:25" , 24-hafiz-zeki-altun/1],
-            [1. Bahir , "07:41" , 24-hafiz-zeki-altun/2],
-            [Kaside , "02:38" , 24-hafiz-zeki-altun/3]]
+musics: [  [Kasas suresi 83-88. ayetler , "10:25" , 24-hafiz-zeki-altun/1],
+            [1. Bahir (mevlit) – Dua , "07:41" , 24-hafiz-zeki-altun/2],
+            [Kaside “Senin hicran-ı aşkınla ilahi“ , "02:38" , 24-hafiz-zeki-altun/3]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

@@ -4,9 +4,9 @@ permalink: "/hafiz-ismail-bicer/"
 title:  "Hafız İsmail Biçer"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Âli İmran Suresi 110. Ayet , "06:49" , 31-hafiz-ismail-bicer/1],
-            [Aşrı Şerif âl-imran 144-148 , "11:58" , 31-hafiz-ismail-bicer/2],
-            [Meryem Suresi , "09:24" , 31-hafiz-ismail-bicer/3],
+musics: [  [Âl-i İmran suresi 110.ayet , "06:49" , 31-hafiz-ismail-bicer/1],
+            [Al-i İmran suresi 144-148. ayetler , "11:58" , 31-hafiz-ismail-bicer/2],
+            [Meryem Suresi 1-11 , "09:24" , 31-hafiz-ismail-bicer/3],
             [Kureyş Suresi , "00:547" , 31-hafiz-ismail-bicer/4]]
 # pdfs : [[name, filename]]
 pdf: false

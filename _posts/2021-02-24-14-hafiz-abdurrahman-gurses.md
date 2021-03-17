@@ -4,11 +4,11 @@ permalink: "/hafiz-abdurrahman-gurses/"
 title:  "Hafız Abdurrahman Gürses"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Veme halaknessemeve , "08:27" , 14-hafiz-abdurrahman-gurses/1],
-            [Gürültülü Eksik Aşır , "09:28" , 14-hafiz-abdurrahman-gurses/2],
-            [Hafız Abdurrahman Gürses , "16:01" , 14-hafiz-abdurrahman-gurses/3],
-            [Aşır Hac Suresi , "12:22" , 14-hafiz-abdurrahman-gurses/4],
-            [Hadid Suresi 20-25 Suresi , "09:40" , 14-hafiz-abdurrahman-gurses/5]]
+musics: [  [Hıcr suresi  85-99, Yâ-Sîn s. 77-83. ayetler , "08:27" , 14-hafiz-abdurrahman-gurses/1],
+            [Saff  suresi 1-9. ayetler , "09:28" , 14-hafiz-abdurrahman-gurses/2],
+            [Hucurat suresi  1-18. – Kaaf suresi 1-11. Ayetler – ve’l-Asr suresi, "16:01" , 14-hafiz-abdurrahman-gurses/3],
+            [Hac suresi  26-37. Ayetler , "12:22" , 14-hafiz-abdurrahman-gurses/4],
+            [Hadid suresi 20-25. ayetler , "09:40" , 14-hafiz-abdurrahman-gurses/5]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

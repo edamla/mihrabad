@@ -4,7 +4,7 @@ permalink: "/saadettin-kaynak/"
 title:  "Hafız Sadettin Kaynak"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [İnsan Suresi , "03:33" , 8-saadettin-kaynak/1]]
+musics: [  [İnsan Suresi 1-16. ayetler , "03:33" , 8-saadettin-kaynak/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

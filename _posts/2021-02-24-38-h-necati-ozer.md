@@ -4,8 +4,8 @@ permalink: "/h-necati-ozer/"
 title:  "Hafız Necati Özer"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Sura Suresi 10-15 , "08:55" , 38-h-necati-ozer/1],
-            [Vakıa Suresi 75-96 , "08:55" , 38-h-necati-ozer/1]]
+musics: [  [Şûrâ suresi  10-45. ayetler , "08:55" , 38-h-necati-ozer/1],
+            [Vâkıa suresi  75-96. ayetler , "08:55" , 38-h-necati-ozer/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

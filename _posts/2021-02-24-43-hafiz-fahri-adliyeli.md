@@ -4,8 +4,8 @@ permalink: "/hafiz-fahri-adliyeli/"
 title:  "Hafız Fahri Bey (Adliyeli)"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Tevhid bahri , "08:15" , 43-hafiz-fahri-adliyeli/1],
-            [Hüzzam Kasîde Sultân , "02:49" , 43-hafiz-fahri-adliyeli/2]]
+musics: [  [1. Bahir  (mevlit) , "08:15" , 43-hafiz-fahri-adliyeli/1],
+            [Kaside “Sultanı rusül…” , "02:49" , 43-hafiz-fahri-adliyeli/2]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

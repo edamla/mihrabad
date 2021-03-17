@@ -4,10 +4,10 @@ permalink: "/huseyin-sebilci/"
 title:  "Hüseyin Okurlar (Sebilci)"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Mevlid , "03:33" , 42-huseyin-sebilci/1],
-            [Kasîde - İlahi , "09:06" , 42-huseyin-sebilci/2],
-            [Kasîde , "03:49" , 42-huseyin-sebilci/3],
-            [İlahi , "07:56" , 42-huseyin-sebilci/4]]
+musics: [  [Mevlit Münacat Bahri  , "03:33" , 42-huseyin-sebilci/1],
+            [Kaside  “ Hızrile Musa…”, "09:06" , 42-huseyin-sebilci/2],
+            [Kaside  “Muhammrd Ahseni hulk ile…” , "03:49" , 42-huseyin-sebilci/3],
+            [İlahi  “Bülbüller sazda…” , "07:56" , 42-huseyin-sebilci/4]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

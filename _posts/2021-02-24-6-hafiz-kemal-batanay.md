@@ -4,10 +4,10 @@ permalink: "/hafiz-kemal-batanay/"
 title:  "Hattat Hafız Kemal Batanay"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [ Âl-i İmran 110-115 , "05:44" , 6-hafiz-kemal-batanay/1],
-            [Âl-i İmran 116-133 , "09:57" , 6-hafiz-kemal-batanay/2],
-            [el-hücurat , "15:03" , 6-hafiz-kemal-batanay/3],
-            [el-Vakıa suresi , "15:54" , 6-hafiz-kemal-batanay/4]]
+musics: [  [Âl-i İmran s. 110 – 115. ayetler , "05:44" , 6-hafiz-kemal-batanay/1],
+            [Âl-i İmran s. 116- 133. ayetler , "09:57" , 6-hafiz-kemal-batanay/2],
+            [Hücurat suresi, "15:03" , 6-hafiz-kemal-batanay/3],
+            [Vakıa suresi , "15:54" , 6-hafiz-kemal-batanay/4]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

@@ -4,10 +4,10 @@ permalink: "/hafiz-ahmet-bolulu/"
 title:  "Hafız Ahmet Alagöz"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Tevbe Suresi , "04:42" , 18-hafiz-ahmet-bolulu/1],
-            [İsra Suresi , "06:08" , 18-hafiz-ahmet-bolulu/2],
-            [el-Enbiya Suresi , "03:16" , 18-hafiz-ahmet-bolulu/3],
-            [el-Fecr Suresi , "03:20" , 18-hafiz-ahmet-bolulu/4]]
+musics: [  [Tevbe suresi , "04:42" , 18-hafiz-ahmet-bolulu/1],
+            [İsra’ suresi 1-10. Ayetler , "06:08" , 18-hafiz-ahmet-bolulu/2],
+            [enbiya suresi 101-107. Ayetler, "03:16" , 18-hafiz-ahmet-bolulu/3],
+            [Fecr Suresi 15-30. ayetler, "03:20" , 18-hafiz-ahmet-bolulu/4]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

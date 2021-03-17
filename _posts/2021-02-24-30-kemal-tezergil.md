@@ -4,8 +4,8 @@ permalink: "/kemal-tezergil/"
 title:  "Hafız Kemal Tezergil"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Rahman Suresi 18-24 , "03:22" , 30-kemal-tezergil/1],
-            [Miraç Bahri 2. Kısım ve Münacat , "11:11" , 30-kemal-tezergil/2]]
+musics: [  [Rahman  suresi  14-28. ayetler , "03:22" , 30-kemal-tezergil/1],
+            [Mirac Bahri  II. Kısım ve Münacat , "11:11" , 30-kemal-tezergil/2]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

@@ -4,8 +4,8 @@ permalink: "/hafiz-yusuf-gebzeli/"
 title:  "Hafız Yusuf Gebzeli"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Vakıa Suresi 75-96 , "04:55" , 32-hafiz-yusuf-gebzeli/1],
-            [Cuma Suresi , "07:43" , 32-hafiz-yusuf-gebzeli/2],
+musics: [  [Vakıa suresi 75-96. Ayetler , "04:55" , 32-hafiz-yusuf-gebzeli/1],
+            [Cum’a Suresi , "07:43" , 32-hafiz-yusuf-gebzeli/2],
             [Veladet Bahri , "08:58" , 32-hafiz-yusuf-gebzeli/3]]
 # pdfs : [[name, filename]]
 pdf: false

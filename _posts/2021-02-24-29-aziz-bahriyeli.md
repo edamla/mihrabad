@@ -4,8 +4,8 @@ permalink: "/aziz-bahriyeli/"
 title:  "Hafız Aziz Bahriyeli"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Rahman Suresinde Pasaj , "03:43" , 29-aziz-bahriyeli/1],
-            [Kasie - Yaylı Tambur , "04:52" , 29-aziz-bahriyeli/2]]
+musics: [  [Rahman suresi  1-28 , "03:43" , 29-aziz-bahriyeli/1],
+            [Kaside “Ey padişehi lem yezel…”, "04:52" , 29-aziz-bahriyeli/2]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

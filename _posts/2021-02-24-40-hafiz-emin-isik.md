@@ -4,11 +4,11 @@ permalink: "/hafiz-emin-isik/"
 title:  "Hafız Emin Işık"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Âli İmran Suresi 190 - 195 , "08:55" , 40-hafiz-emin-isik/1],
-            [Nisa Suresi , "08:55" , 40-hafiz-emin-isik/2],
-            [Taha Suresi , "08:55" , 40-hafiz-emin-isik/3],
-            [Fatır Suresi , "08:55" , 40-hafiz-emin-isik/4],
-            [Beyyine Suresi , "08:55" , 40-hafiz-emin-isik/5]]
+musics: [  [Âli İmran Suresi 190-195. ayetler , "08:55" , 40-hafiz-emin-isik/1],
+            [Nisa s. 95-105. Ayetler , "08:55" , 40-hafiz-emin-isik/2],
+            [Taha Suresi 65-76. Ayetler , "08:55" , 40-hafiz-emin-isik/3],
+            [Fatır suresi 29-35. Ayetler , "08:55" , 40-hafiz-emin-isik/4],
+            [Beyyine suresi 98-110. ayetler , "08:55" , 40-hafiz-emin-isik/5]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

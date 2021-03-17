@@ -4,7 +4,7 @@ permalink: "/hafiz-ali-riza-altunbay/"
 title:  "Hafız Ali Rıza Altunbay"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Aşır Suresi , "08:55" , 19-hafiz-ali-riza-altunbay/1]]
+musics: [  [Müddessir suresi  32-56. ayetler  , "08:55" , 19-hafiz-ali-riza-altunbay/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

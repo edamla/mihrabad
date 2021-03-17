@@ -4,7 +4,7 @@ permalink: "/hafiz-ali-gulses/"
 title:  "Hafız Ali Gülses"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Hafız Ali Gülses , "12:17" , 25-hafiz-ali-gulses/1]]
+musics: [  [İsra’ suresi  9-25. ayetler , "12:17" , 25-hafiz-ali-gulses/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

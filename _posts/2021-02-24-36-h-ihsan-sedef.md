@@ -4,9 +4,9 @@ permalink: "/h-ihsan-sedef/"
 title:  "Hafız İhsan Sedef"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Bakara Suresi , "02:35" , 36-h-ihsan-sedef/1],
-            [Fussilet , "04:21" , 36-h-ihsan-sedef/2],
-            [Hücurat , "04:29" , 36-h-ihsan-sedef/3]]
+musics: [  [Bakara suresi 284-286. ayetler , "02:35" , 36-h-ihsan-sedef/1],
+            [Fussilet suresi  30-36. ayetler , "04:21" , 36-h-ihsan-sedef/2],
+            [Hucurat suresi  13-18. ayetler  , "04:29" , 36-h-ihsan-sedef/3]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

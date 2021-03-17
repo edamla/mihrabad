@@ -4,7 +4,7 @@ permalink: "/hafiz-fikri-aksoy/"
 title:  "Hafız Fikri Aksoy"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Hafız Fikri Aksoy , "19:21" , 21-hafiz-fikri-aksoy/1]]
+musics: [  [İbrahim suresi 28-52. ayetler , "19:21" , 21-hafiz-fikri-aksoy/1]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

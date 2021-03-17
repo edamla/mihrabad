@@ -4,8 +4,8 @@ permalink: "/hafiz-rahmi-senses/"
 title:  "Hafız Rahmi Şenses"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Âli-İmran Suresi , "03:57" , 12-hafiz-rahmi-senses/1],
-            [Fatır Suresi , "07:03" , 12-hafiz-rahmi-senses/2]]
+musics: [  [Âl-i İmran suresi 102-104. ayetler , "03:57" , 12-hafiz-rahmi-senses/1],
+            [Fatır  suresi  15-28. ayetler , "07:03" , 12-hafiz-rahmi-senses/2]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []

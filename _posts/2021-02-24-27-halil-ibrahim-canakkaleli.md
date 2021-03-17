@@ -4,11 +4,11 @@ permalink: "/halil-ibrahim-canakkaleli/"
 title:  "Hafız Halil İbrahim Çanakkaleli"
 # musics : [[ name , "duration" , filename]]
 music: true
-musics: [  [Bakara 285-286 , "03:16" , 27-halil-ibrahim-canakkaleli/1],
-            [Âli İmran 1-9 , "04:56" , 27-halil-ibrahim-canakkaleli/2],
-            [Merhaba Bahri 01-04-2000 Fatih Camii , "06:01" , 27-halil-ibrahim-canakkaleli/3],
-            [Miraç , "11:00" , 27-halil-ibrahim-canakkaleli/4],
-            [İbrahim Vefat Bahri , "05:14" , 27-halil-ibrahim-canakkaleli/5]]
+musics: [  [Bakara s. 285-286. Ayetler , "03:16" , 27-halil-ibrahim-canakkaleli/1],
+            [Âl-i İmran s. 1-9. ayetler, "04:56" , 27-halil-ibrahim-canakkaleli/2],
+            [Merhaba Bahri kaside ekli , "06:01" , 27-halil-ibrahim-canakkaleli/3],
+            [Mirac Bahri Salâtü selam koro, "11:00" , 27-halil-ibrahim-canakkaleli/4],
+            [Kaside girişi ile vefat Bahri , "05:14" , 27-halil-ibrahim-canakkaleli/5]]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []
