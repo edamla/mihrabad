@@ -5,7 +5,8 @@ title:  "İsmail Doruk (Bülbül)"
 # musics : [[ name , "duration" , filename]]
 music: true
 musics: [  [Veladet Bahri(mevlit) ve dua , "08:55" , 46-ismail-doruk/1],
-            [Bestekâr Yusuf Nalkesen Konuşma İsmail Doruk (Bülbül) Kaside , "08:55" , 46-ismail-doruk/2]]
+            [Bestekâr Yusuf Nalkesen Konuşma İsmail Doruk (Bülbül) Kaside , "08:55" , 46-ismail-doruk/2],
+            [Ezan-ı Muhammedi , "03:37" , 46-ismail-doruk/3],]
 # pdfs : [[name, filename]]
 pdf: false
 pdfs: []
