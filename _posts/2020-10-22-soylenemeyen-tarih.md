@@ -8,8 +8,8 @@ comments: true
 barcode: 9786056986543
 meser: true
 blog: false
-dolink: false
-suggested: true
+dolink: true
+suggested: false
 eser-on: s-tarih/s-tarih.png
 ---
 

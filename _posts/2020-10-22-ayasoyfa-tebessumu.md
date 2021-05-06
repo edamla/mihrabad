@@ -8,8 +8,8 @@ comments: true
 barcode: 9786056986567
 meser: true
 blog: false
-dolink: false
-suggested: true
+dolink: true
+suggested: false
 eser-on: a-tebessumu/a-tebessumu.png
 ---
 

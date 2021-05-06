@@ -206,6 +206,7 @@ section.recent-posts {
     height: 455px;
     padding-left: 0;
     margin-bottom: 15px;
+    border-radius: 2vh !important;
 }
 
 .listfeaturedtag .thumbnail {
@@ -1203,6 +1204,7 @@ iframe {
 
 .eseralti-box {
     height: 35vh;
+    border: 0px !important;
 }
 
 .resim-250{

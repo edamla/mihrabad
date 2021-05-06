@@ -8,7 +8,7 @@ comments: true
 barcode: 9786056986574
 meser: true
 blog: false
-dolink: false
+dolink: true
 suggested: false
 eser-on: e-yillar/e-yillar.png
 ---

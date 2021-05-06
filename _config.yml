@@ -3,7 +3,7 @@ name: "Mihrabad Yayınları"
 title: "Mihrabad Yayınları"
 description: "Geçmiş tarihi, bügünü ve yarını romanlarıyla yorumlayan ve bu konuları en iyi şekilde bizlere aktaran yayınevi."
 meta_description: "Mihrabad Yayınları"
-dolinkpage: https://e-damla.ams3.digitaloceanspaces.com/damlayayinevi_ornek_sayfalar/
+dolinkpage: https://cdn.e-damla.com.tr/damlayayinevi_ornek_sayfalar/
 mlink: https://www.damlayayinevi.com.tr/go?sku=
 damla-link: https://www.damlayayinevi.com.tr/mihrabad-yayinlari
 end: /index.html

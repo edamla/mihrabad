@@ -8,7 +8,7 @@ comments: true
 barcode: 9786051749884
 meser: true
 blog: false
-dolink: false
+dolink: true
 suggested: false
 eser-on: usvei-hasene-2/usvei-hasene-2.png
 ---
