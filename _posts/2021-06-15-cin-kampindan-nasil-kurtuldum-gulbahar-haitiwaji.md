@@ -3,7 +3,7 @@ layout: post
 title:  "ÇİN KAMPINDAN NASIL KURTULDUM?"
 yazar: "Gülbahar Haitiwaji- Rozenn Morgat"
 permalink: "/cin-kampindan-nasil-kurtuldum-gulbahar-haitiwaji-rozenn-morgat/"
-categories: [ Mihrabad Yayınları, Gülbahar Haitiwaji- Rozenn Morgat]
+categories: [ Mihrabad Yayınları, Gülbahar Haitiwaji - Rozenn Morgat]
 image: assets/images/md-image/eserler/cin-kampindan-nasil-kurtuldum-gulbahar-haitiwaji-rozenn-morgat.jpg
 comments: true
 barcode: 9786057471642
@@ -28,7 +28,7 @@ Tüyler ürperten gerçekliklere şahit olan Gülbahar Haitiwaji, yaşadıkları
 
 {% for post in site.posts %}
 
-    {% if post.title == 'Gülbahar Haitiwaji- Rozenn Morgat' %}
+    {% if post.title == 'Gülbahar Haitiwaji' %}
 
         {% include eseraltibox.html %}
 

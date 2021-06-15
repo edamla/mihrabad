@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gülbahar Haitiwaji - Rozenn Morgat"
+title:  "Gülbahar Haitiwaji"
 categories: [ Mihrabad Yayınları ]
 image: assets/images/md-image/yazarlar/gulbahar-haitiwaji.jpg
 comments: true
