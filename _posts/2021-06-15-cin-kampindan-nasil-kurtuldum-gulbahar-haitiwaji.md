@@ -20,10 +20,11 @@ eser-on: cin-kampindan-nasil-kurtuldum-gulbahar-haitiwaji-rozenn-morgat/cin-kamp
 
 “Anlattıklarımın hepsi tamamen gerçek! Yaşadığım hiçbir şey, olayın şartlarını abartan hastalıklı bir mahkûm fantezisi tezahürü değil. Binlerce kişi gibi ben de bizi hapseden, bize işkence yapan Çin’in çılgın kasırgasında sürüklendim...”
 
-“Beni önce yedi yıl ‘yeniden eğitim’ kampına mahkûm ettiler. Vücuduma işkence ettiler ve zihnimi çılgınlığın sınırına getirdiler. Ve şimdi, davamı inceledikten sonra bir yargıç, aslında masum olduğuma karar vermişti…” 
+“Beni önce yedi yıl ‘yeniden eğitim’ kampına mahkûm ettiler. Vücuduma işkence ettiler ve zihnimi çılgınlığın sınırına getirdiler. Ve şimdi, davamı inceledikten sonra bir yargıç, aslında masum olduğuma karar vermişti…”
 
 Tüyler ürperten gerçekliklere şahit olan Gülbahar Haitiwaji, yaşadıklarını anlattığı bu kitabı yayımlayarak kendisi ve Şincan’daki ailesi için büyük riskler alıyor!..
-Çin’in “Yeniden Eğitim Kampları” adı altında Uygur Türklerine uyguladığı baskı ve işkencenin ayrıntılarını ortaya çıkaran gerçek bir yaşam öyküsü...
+
+Çin’in “Yeniden Eğitim Kampları” adı altında Uygurlara uyguladığı baskı ve işkencenin ayrıntılarını ortaya çıkaran gerçek bir yaşam öyküsü...
 
 
 {% for post in site.posts %}
