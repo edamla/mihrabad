@@ -9,7 +9,7 @@ comments: true
 barcode: 9786057471642
 meser: true
 blog: false
-dolink: false
+dolink: true
 suggested: true
 eser-on: cin-kampindan-nasil-kurtuldum-gulbahar-haitiwaji-rozenn-morgat/cin-kampindan-nasil-kurtuldum-gulbahar-haitiwaji-rozenn-morgat.jpg
 ---
