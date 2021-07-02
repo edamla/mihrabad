@@ -9,7 +9,7 @@ comments: true
 barcode: 9786057471635
 meser: true
 blog: false
-dolink: false
+dolink: true
 suggested: true
 eser-on: celaleddin-harizmsah/celaleddin-harizmsah.jpg
 ---
