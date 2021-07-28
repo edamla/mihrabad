@@ -5,7 +5,7 @@ categories: [ Mihrabad Yayınları, Durali Yılmaz, ]
 image: assets/images/md-image/durali-yilmaz.jpg 
 comments: true
 blog: true
-featured: true
+featured: false
 ---
 
 Akademisyen yazar Durali Yılmaz’ın son çıkan romanı Fetva Yokuşu, Osmanlı döneminde önemli bir görevin ifasında kullanılan Cellat Taşı’nın serencamınıa nlatıyor.
