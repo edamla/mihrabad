@@ -10,7 +10,7 @@ image: assets/images/beyoğul1.jpg
 rating: 4.5
 ---
 
-***Hüseyin Öztürk yazdı: Beyoğlu’nda Bir Hafız***
+***Hüseyin Öztürk yazdı: Beyoğlu’nda Bir Hafız*** 
 
 Bu hafta tanıtacağımız eser, Mihrabad Yayınlarından çıkan “Beyoğlu’nda Bir Hafız” isimli eser. Yazarı ise Dr. Mehmet Ali Sarı.
 
