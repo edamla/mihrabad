@@ -5,7 +5,7 @@ categories: [ Mihrabad Yayınları, Gulbahar Haitiwaji, ]
 image: assets/images/md-image/cin-kampindan-nasil-kurtuldum-gulbahar-haitiwaji-rozenn-morgat.jpg 
 comments: true
 blog: true
-featured: true
+featured: false
 ---
 
 **“Ruhlarımız Ölmüş, Zihinlerimiz Çılgınlığın Sınırlarına Dayanmıştı”**
